@@ -1,0 +1,5026 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShipMe\n"
+"POT-Creation-Date: 2021-12-01 14:36+0200\n"
+"PO-Revision-Date: 2021-12-01 18:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:24
+#, fuzzy
+msgid "Page not found."
+msgstr "Nie znaleziono strony."
+
+#: 404.php:37
+#, fuzzy
+msgid ""
+"The requested page has bot been found. If its a shipping job, then maybe it "
+"is closed or wasnt approved yet by the webmaster."
+msgstr ""
+"Żądana strona nie została odnaleziona. Jeśli jest to zadanie wysyłkowe, to "
+"może jest zamknięte lub nie zostało jeszcze zatwierdzone przez webmastera."
+
+#: archive-job_ship.php:11 lib/first_run.php:75
+#: lib/login_register/login.php:151 lib/login_register/login.php:529
+#: lib/login_register/register.php:202 lib/login_register/register.php:247
+#: taxonomy.php:19 template-parts/advanced-search/advanced-search-page.php:38
+#: template-parts/advanced-search/transporters-search.php:12
+#: template-parts/job-single-page/choose_winner.php:112
+#: template-parts/job-single-page/mark_completed.php:45
+#: template-parts/job-single-page/mark_delivered.php:44
+#: template-parts/post-new/pay-listing-credits.php:22
+#: template-parts/post-new/post-new.php:31
+#: template-parts/user-area/my-account/finances.php:26
+#: template-parts/user-area/my-account/messages.php:23
+#: template-parts/user-area/my-account/my-account.php:22
+#: template-parts/user-area/my-account/my-jobs.php:75
+#: template-parts/user-area/my-account/my-quotes.php:29
+#: template-parts/user-area/my-account/order-page.php:25
+#: template-parts/user-area/my-account/profile-settings.php:22
+#: template-parts/user-area/my-account/reviews.php:114
+#, fuzzy
+msgid "Home"
+msgstr "Strona główna"
+
+#: archive-job_ship.php:12 archive-job_ship.php:14 lib/first_run.php:81
+#, fuzzy
+msgid "All Jobs"
+msgstr "Wszystkie oferty pracy"
+
+#: archive-job_ship.php:24 taxonomy.php:32
+#: template-parts/advanced-search/advanced-search-page.php:51
+#: template-parts/advanced-search/transporters-search.php:22
+#, fuzzy
+msgid "Search Filters"
+msgstr "Znajdź filtry"
+
+#: archive-job_ship.php:30 taxonomy.php:38
+#: template-parts/advanced-search/advanced-search-page.php:71
+#: template-parts/advanced-search/transporters-search.php:28
+#, fuzzy
+msgid "Keyword:"
+msgstr "Słowo kluczowe:"
+
+#: archive-job_ship.php:31 taxonomy.php:39
+#: template-parts/advanced-search/advanced-search-page.php:72
+#: template-parts/advanced-search/transporters-search.php:29
+#, fuzzy
+msgid "Enter your keyword..."
+msgstr "Wpisz swoje słowo kluczowe..."
+
+#: archive-job_ship.php:38 taxonomy.php:46
+#: template-parts/advanced-search/advanced-search-page.php:79
+#, fuzzy
+msgid "Pickup Location:"
+msgstr "Miejsce odbioru:"
+
+#: archive-job_ship.php:39 archive-job_ship.php:49 taxonomy.php:47
+#: taxonomy.php:57 template-parts/advanced-search/advanced-search-page.php:80
+#: template-parts/advanced-search/advanced-search-page.php:90
+#, fuzzy
+msgid "Enter your location..."
+msgstr "Podaj swoją lokalizację..."
+
+#: archive-job_ship.php:48 taxonomy.php:56
+#: template-parts/advanced-search/advanced-search-page.php:89
+#, fuzzy
+msgid "Drop-off Location:"
+msgstr "Miejsce zrzutu:"
+
+#: archive-job_ship.php:59 taxonomy.php:67
+#: template-parts/advanced-search/advanced-search-page.php:100
+#, fuzzy
+msgid "Minimum Price:"
+msgstr "Minimalna Cena"
+
+#: archive-job_ship.php:64 archive-job_ship.php:76 lib/admin_menu.php:1396
+#: lib/admin_menu.php:1460 lib/admin_menu.php:1524 lib/admin_menu.php:1606
+#: lib/admin_menu.php:1694 lib/admin_menu.php:1782 taxonomy.php:72
+#: taxonomy.php:85 template-parts/advanced-search/advanced-search-page.php:105
+#: template-parts/advanced-search/advanced-search-page.php:118
+#: template-parts/post-new/pay-listing-credits.php:153
+#: template-parts/post-new/post-new.php:1432
+#: template-parts/user-area/my-account/finances.php:132
+#: template-parts/user-area/my-account/finances.php:193
+#: template-parts/user-area/my-account/finances.php:456
+#: template-parts/user-area/my-account/finances.php:523
+#: template-parts/user-area/my-account/finances.php:849
+#, fuzzy
+msgid "Amount"
+msgstr "Kwota"
+
+#: archive-job_ship.php:71 taxonomy.php:80
+#: template-parts/advanced-search/advanced-search-page.php:113
+#, fuzzy
+msgid "Maximum Price:"
+msgstr "Cena maksymalna"
+
+#: archive-job_ship.php:89
+#: template-parts/advanced-search/advanced-search-page.php:131
+#: template-parts/advanced-search/transporters-search.php:39
+#, fuzzy
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: archive-job_ship.php:94 lib/widgets/search-box-big.php:73
+#: template-parts/advanced-search/advanced-search-page.php:136
+#: template-parts/advanced-search/transporters-search.php:44
+#: template-parts/post-new/post-new.php:252
+#, fuzzy
+msgid "Select Category"
+msgstr "Wybierz kategorię"
+
+#: archive-job_ship.php:112 taxonomy.php:107
+#: template-parts/advanced-search/advanced-search-page.php:154
+#, fuzzy
+msgid "Pickup Date:"
+msgstr "Data odbioru:"
+
+#: archive-job_ship.php:123 taxonomy.php:118
+#: template-parts/advanced-search/advanced-search-page.php:165
+#, fuzzy
+msgid "Delivery Date:"
+msgstr "Data dostawy:"
+
+#: archive-job_ship.php:135 taxonomy.php:130
+#: template-parts/advanced-search/advanced-search-page.php:177
+#: template-parts/advanced-search/transporters-search.php:56
+#, fuzzy
+msgid "Submit"
+msgstr "Wyślij"
+
+#: archive-job_ship.php:149 taxonomy.php:144
+#: template-parts/advanced-search/advanced-search-page.php:191
+#: template-parts/advanced-search/transporters-search.php:67
+#, fuzzy
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#: archive-job_ship.php:300 taxonomy.php:249
+#: template-parts/advanced-search/advanced-search-page.php:348
+#, fuzzy
+msgid "<< Previous"
+msgstr "Poprzedni"
+
+#: archive-job_ship.php:327 taxonomy.php:276
+#: template-parts/advanced-search/advanced-search-page.php:375
+#, fuzzy
+msgid "Next >>"
+msgstr "Następne"
+
+#: archive-job_ship.php:339 taxonomy.php:288
+#: template-parts/advanced-search/advanced-search-page.php:387
+#, fuzzy
+msgid "No jobs posted."
+msgstr "Nie znaleziono mikroprac"
+
+#: bootstrapwalker.class.php:365 mobile-bootstrapwalker.class.php:365
+#: navwalker.class.php:365
+#, fuzzy
+msgid "Add a menu"
+msgstr "Dodaj menu"
+
+#: classes/escrow.class.php:68
+#, fuzzy, php-format
+msgid "Release of escrow for order #%s"
+msgstr "Zwolnienie depozytu dla zamówienia #%s"
+
+#: functions.php:673 lib/gateways/credits_listing.php:95
+#: lib/gateways/paypal_listing.php:71
+#, fuzzy
+msgid "Base Fee"
+msgstr "Opłata podstawowa"
+
+#: functions.php:684 lib/gateways/credits_listing.php:105
+#: lib/gateways/paypal_listing.php:82
+#, fuzzy
+msgid "Extra Images Fee"
+msgstr "Opłata za dodatkowe zdjęcia"
+
+#: functions.php:695 lib/gateways/credits_listing.php:120
+#: lib/gateways/paypal_listing.php:106
+#, fuzzy
+msgid "Featured Fee"
+msgstr "Opłata za wyrożnienie"
+
+#: functions.php:709
+#, fuzzy
+msgid "Private Job Fee"
+msgstr "Opłata za pracę prywatną"
+
+#: functions.php:722 lib/gateways/credits_listing.php:138
+#: lib/gateways/paypal_listing.php:137
+#, fuzzy
+msgid "Sealed Bidding Fee"
+msgstr "Opłata za złożenie oferty w przetargu ograniczonym"
+
+#: functions.php:755 template-parts/user-area/my-account/my-jobs.php:150
+#: template-parts/user-area/my-account/my-jobs.php:225
+#: template-parts/user-area/my-account/my-jobs.php:305
+#: template-parts/user-area/my-account/my-jobs.php:412
+#: template-parts/user-area/my-account/my-jobs.php:496
+#: template-parts/user-area/my-account/my-jobs.php:572
+#: template-parts/user-area/my-account/my-jobs.php:649
+#: template-parts/user-area/my-account/my-quotes.php:98
+#: template-parts/user-area/my-account/my-quotes.php:165
+#: template-parts/user-area/my-account/my-quotes.php:268
+#: template-parts/user-area/my-account/my-quotes.php:363
+#: template-parts/user-area/my-account/my-quotes.php:460
+#: template-parts/user-area/my-account/reviews.php:230
+#: template-parts/user-area/my-account/reviews.php:296
+#: template-parts/user-area/my-account/reviews.php:368
+#, fuzzy
+msgid "Job Title"
+msgstr "Stanowisko"
+
+#: functions.php:756
+#, fuzzy
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:757 template-parts/user-area/my-account/my-account.php:238
+#, fuzzy
+msgid "Posted On"
+msgstr "Wysłany dnia"
+
+#: functions.php:758 functions.php:4728 lib/user-feedback.php:69
+#: single-job_ship.php:232
+#: template-parts/user-area/my-account/my-account.php:123
+#: template-parts/user-area/my-account/my-jobs.php:307
+#: template-parts/user-area/my-account/my-jobs.php:414
+#: template-parts/user-area/my-account/my-jobs.php:498
+#: template-parts/user-area/my-account/my-jobs.php:574
+#: template-parts/user-area/my-account/my-quotes.php:166
+#: template-parts/user-area/my-account/my-quotes.php:269
+#: template-parts/user-area/my-account/my-quotes.php:364
+#: template-parts/user-area/my-account/my-quotes.php:461
+#: template-parts/user-area/my-account/reviews.php:233
+#: template-parts/user-area/my-account/reviews.php:300
+#: template-parts/user-area/my-account/reviews.php:371
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: functions.php:759
+#, fuzzy
+msgid "Expires in"
+msgstr "Wygasa w:"
+
+#: functions.php:760
+#, fuzzy
+msgid "Featured"
+msgstr "Wyróżnione"
+
+#: functions.php:761 lib/admin_menu.php:5787 lib/admin_menu.php:5917
+#, fuzzy
+msgid "Approved"
+msgstr "Zatwierdzone"
+
+#: functions.php:762
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Miniaturka"
+
+#: functions.php:763 lib/admin_menu.php:190 lib/admin_menu.php:270
+#: lib/admin_menu.php:1397 lib/admin_menu.php:1462 lib/admin_menu.php:1526
+#: lib/admin_menu.php:1607 lib/admin_menu.php:1695 lib/admin_menu.php:1783
+#: lib/admin_menu.php:5788 lib/admin_menu.php:5918
+#: template-parts/user-area/my-account/my-account.php:124
+#: template-parts/user-area/my-account/my-jobs.php:154
+#: template-parts/user-area/my-account/my-jobs.php:229
+#: template-parts/user-area/my-account/my-jobs.php:309
+#: template-parts/user-area/my-account/my-jobs.php:417
+#: template-parts/user-area/my-account/my-jobs.php:501
+#: template-parts/user-area/my-account/my-jobs.php:577
+#: template-parts/user-area/my-account/my-jobs.php:653
+#: template-parts/user-area/my-account/my-quotes.php:101
+#: template-parts/user-area/my-account/my-quotes.php:169
+#: template-parts/user-area/my-account/my-quotes.php:272
+#: template-parts/user-area/my-account/my-quotes.php:367
+#: template-parts/user-area/my-account/my-quotes.php:464
+#: template-parts/user-area/my-account/reviews.php:234
+#, fuzzy
+msgid "Options"
+msgstr "Opcje"
+
+#: functions.php:799 lib/admin_menu.php:79 lib/admin_menu.php:3423
+#: lib/admin_menu.php:3915 lib/admin_menu.php:4168 lib/admin_menu.php:5814
+#: lib/admin_menu.php:5948
+#, fuzzy
+msgid "Yes"
+msgstr "Tak"
+
+#: functions.php:800 lib/admin_menu.php:79 lib/admin_menu.php:3423
+#: lib/admin_menu.php:3915 lib/admin_menu.php:4168 lib/admin_menu.php:5814
+#: lib/admin_menu.php:5948 lib/choose_winner.php:178 lib/mark_delivered.php:98
+#, fuzzy
+msgid "No"
+msgstr "Nie"
+
+#: functions.php:829
+#, fuzzy
+msgid "Expired"
+msgstr "Wygasłe"
+
+#: functions.php:831
+#, fuzzy, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr "%s godzin, %s min, %s sek"
+
+#: functions.php:834
+#, fuzzy
+msgid "days"
+msgstr "dni"
+
+#: functions.php:834
+#, fuzzy
+msgid "day"
+msgstr "dzień"
+
+#: functions.php:835
+#, fuzzy, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr "%s %s, %s godzin, %s min"
+
+#: functions.php:951 lib/login_register/sett.php:66
+#, fuzzy
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>BŁĄD</strong>: Wstaw nazwę użytkownika lub adres e-mail."
+
+#: functions.php:955 lib/login_register/sett.php:70
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+"<strong>BŁĄD</strong>: Nie ma zarejestrowanego użytkownika z tym adresem e-"
+"mail."
+
+#: functions.php:968 lib/login_register/sett.php:83
+#, fuzzy
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>BŁĄD</strong>: nieprawidłowa nazwa użytkownika lub e-mail."
+
+#: functions.php:982 lib/login_register/sett.php:97
+#, fuzzy
+msgid "Password reset is not allowed for this user"
+msgstr "Resetowanie hasła nie jest możliwe dla tego użytkownika"
+
+#: functions.php:999 lib/login_register/sett.php:109
+#, fuzzy
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Ktoś zażądał zresetowania hasła dla następującego konta:"
+
+#: functions.php:1001 lib/login_register/login.php:229
+#: lib/login_register/login.php:309 lib/login_register/register.php:62
+#: lib/login_register/sett.php:111 template-parts/login-register/login.php:55
+#, fuzzy, php-format
+msgid "Username: %s"
+msgstr "Nazwa użytkownika: %s"
+
+#: functions.php:1002 lib/login_register/sett.php:112
+#, fuzzy
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Jeśli to był błąd, po prostu zignoruj ten e-mail i nic się nie wydarzy."
+
+#: functions.php:1003 lib/login_register/sett.php:113
+#, fuzzy
+msgid "To reset your password, visit the following address:"
+msgstr "Aby zresetować hasło, przejdź tutaj:"
+
+#: functions.php:1013 lib/login_register/login.php:234
+#: lib/login_register/sett.php:123
+#, fuzzy, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Resetowanie hasła"
+
+#: functions.php:1019 lib/login_register/login.php:241
+#: lib/login_register/login.php:318 lib/login_register/sett.php:129
+#: template-parts/login-register/login.php:64
+#, fuzzy
+msgid "The e-mail could not be sent."
+msgstr "Nie można wysłać e-maila."
+
+#: functions.php:1019
+#, fuzzy
+msgid ""
+"Possible reason: your host may have disabled the\n"
+"  \t\tmail() function..."
+msgstr "Możliwa przyczyna: Twój host mógł wyłączyć funkcję mail () ..."
+
+#: functions.php:1099 lib/user-profile.php:62
+#, fuzzy
+msgid "Not defined yet"
+msgstr "Nie zdefiniowano jeszcze biografii użytkownika."
+
+#: functions.php:1103 lib/user-profile.php:66
+#, fuzzy
+msgid "There is no profile bio defined."
+msgstr "Nie ma zdefiniowanego profilu bio."
+
+#: functions.php:1108 lib/user-profile.php:71
+#, fuzzy, php-format
+msgid "%s Registered On"
+msgstr "%s Zarejestrowany na:"
+
+#: functions.php:1120
+#, fuzzy, php-format
+msgid "%s Inbox Messages"
+msgstr "%s Wiadomości w skrzynce odbiorczej"
+
+#: functions.php:1121
+#, fuzzy, php-format
+msgid "%s unread"
+msgstr "%s nieprzeczytane"
+
+#: functions.php:1125
+#, fuzzy, php-format
+msgid "%s Balance"
+msgstr "%s Równowaga"
+
+#: functions.php:1135 lib/user-profile.php:85
+#, fuzzy, php-format
+msgid "%s Jobs in progress"
+msgstr "%s Zadania w toku"
+
+#: functions.php:1141 lib/user-profile.php:91
+#, fuzzy, php-format
+msgid "%s Live quotes"
+msgstr "%s Notowania na żywo"
+
+#: functions.php:1149
+#, fuzzy
+msgid "Edit Profile"
+msgstr "Edytuj profil"
+
+#: functions.php:1150 functions.php:1757
+#, fuzzy
+msgid "View Profile"
+msgstr "Zobacz Profil"
+
+#: functions.php:1231 functions.php:1291 functions.php:1361 functions.php:3986
+#, fuzzy
+msgid "Select"
+msgstr "Wybierz"
+
+#: functions.php:1443
+#, fuzzy
+msgid "FEATURED"
+msgstr "WYRÓŻNIONE"
+
+#: functions.php:1452 functions.php:1512
+#, fuzzy, php-format
+msgid "Posted on %s"
+msgstr "Opublikowano %s"
+
+#: functions.php:1455 functions.php:1515
+#, fuzzy, php-format
+msgid "From: <b>%s</b>"
+msgstr "Od <b>%s</b>"
+
+#: functions.php:1456 functions.php:1516
+#, fuzzy, php-format
+msgid "To: <b>%s</b>"
+msgstr "Do <b>%s</b>"
+
+#: functions.php:1469 functions.php:1529
+#, fuzzy
+msgid "Post Proposal"
+msgstr "Zaproponuj współpracę"
+
+#: functions.php:1581 functions.php:3705
+#, fuzzy
+msgid "View Details"
+msgstr "Zobacz szczegóły"
+
+#: functions.php:1638 functions.php:1688
+#, fuzzy
+msgid "(No rating)"
+msgstr "(Brak oceny)"
+
+#: functions.php:1651
+#, fuzzy, php-format
+msgid "on %s rating(s)"
+msgstr "na %s ratingu(-ach)"
+
+#: functions.php:1749
+#, fuzzy
+msgid "This user doesnt have a description."
+msgstr "Ten użytkownik nie ma opisu."
+
+#: functions.php:1758 single-job_ship.php:1149
+#, fuzzy
+msgid "Contact User"
+msgstr "Skontaktuj się z użytkownikiem"
+
+#: functions.php:2871
+#, fuzzy, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend "
+"installing <strong><a href=\"%s\">this plugin</a></strong>. It will give you "
+"the \"Page Builder\" feature for your pages, and configure homepage as well."
+msgstr ""
+"Aby w pełni wykorzystać możliwości naszego motywu, zalecamy zainstalowanie "
+"<strong><a href=\"%s\">ten plugin</a></strong>. To da Ci funkcję \"Page "
+"Builder\" dla Twoich stron, a także skonfiguruje stronę główną."
+
+#: functions.php:2897
+#, fuzzy, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend "
+"installing <strong><a href=\"%s\">WP PageNavi Plugin</a></strong>. You will "
+"need it for pagination."
+msgstr ""
+"Aby w pełni wykorzystać możliwości naszego motywu, zalecamy zainstalowanie "
+"<strong><a href=\"%s\">WP PageNavi Plugin</a></strong>. Będzie on potrzebny "
+"do paginacji."
+
+#: functions.php:2924
+#, fuzzy, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend "
+"installing <strong><a href=\"%s\">the Breadcrumb Plugin</a></strong>."
+msgstr ""
+"Aby w pełni wykorzystać możliwości naszego motywu, zalecamy zainstalowanie "
+"<strong><a href=\"%s\">plugin Breadcrumb</a></strong>."
+
+#: functions.php:3011
+#, fuzzy
+msgid "Pickup"
+msgstr "Odbiór"
+
+#: functions.php:3012
+#, fuzzy
+msgid "Delivery"
+msgstr "Dostawa"
+
+#: functions.php:3013 template-parts/user-area/my-account/my-jobs.php:151
+#: template-parts/user-area/my-account/my-jobs.php:650
+#, fuzzy
+msgid "Budget"
+msgstr "Budżet"
+
+#: functions.php:3014
+#, fuzzy
+msgid "Time Due"
+msgstr "Czas trwania"
+
+#: functions.php:3028
+#, fuzzy
+msgid "Closed/Expired"
+msgstr "Zamknięte/wygasłe"
+
+#: functions.php:3075 functions.php:3274 functions.php:3338 functions.php:3414
+#, fuzzy
+msgid "Pending Job"
+msgstr "Praca w toku"
+
+#: functions.php:3080 functions.php:3156 functions.php:3218 functions.php:3280
+#: functions.php:3344 functions.php:3420 functions.php:3482 functions.php:3568
+#: functions.php:3636
+#, fuzzy
+msgid "Job Page"
+msgstr "Strona usług"
+
+#: functions.php:3095
+#, fuzzy, php-format
+msgid "Deposit Escrow for winning bid: %s"
+msgstr "Depozyt Escrow dla zwycięskiej oferty: %s"
+
+#: functions.php:3107
+#, fuzzy
+msgid "Waiting for the transporter to mark this job as delivered."
+msgstr "Czekamy na przewoźnika, który oznaczy tę pracę jako dostarczoną."
+
+#: functions.php:3157
+#, fuzzy
+msgid "Rate Job Owner"
+msgstr "Oceń Właściciel pracy"
+
+#: functions.php:3167
+#, fuzzy, php-format
+msgid "This job was delivered on %s."
+msgstr "Ta praca została dostarczona w dniu %s."
+
+#: functions.php:3219
+#, fuzzy
+msgid "Pay Job Commission"
+msgstr "Płacić prowizję za pracę"
+
+#: functions.php:3229
+#, fuzzy, php-format
+msgid ""
+"The transporter set this job as delivered on %s. You can pay them directly."
+msgstr ""
+"Przewoźnik ustawił to zlecenie jako dostarczone w dniu %s. Możesz zapłacić "
+"im bezpośrednio."
+
+#: functions.php:3281
+#, fuzzy
+msgid "Set Job As Paid"
+msgstr "Ustaw zadanie jako płatne"
+
+#: functions.php:3292
+#, fuzzy, php-format
+msgid ""
+"You have set this job as delivered on %s. Waiting for the item owner to pay."
+msgstr ""
+"Ustawiłeś tę pracę jako dostarczoną w dniu %s. Czekamy na zapłatę od "
+"właściciela przedmiotu."
+
+#: functions.php:3345
+#, fuzzy
+msgid "Pay Commission"
+msgstr "Opłać prowizję"
+
+#: functions.php:3364
+#, fuzzy, php-format
+msgid "This job has been delivered on %s."
+msgstr "Ta praca została dostarczona w dniu %s."
+
+#: functions.php:3365
+#, fuzzy, php-format
+msgid "The winning bid on this job was: %s."
+msgstr "Zwycięska oferta na to zadanie to: %s."
+
+#: functions.php:3366
+#, fuzzy, php-format
+msgid "The commission you have to pay is: %s."
+msgstr "Prowizja, którą musisz zapłacić wynosi: %s."
+
+#: functions.php:3421
+#, fuzzy
+msgid "Set Delivered"
+msgstr "Zestaw dostarczony"
+
+#: functions.php:3427
+#, fuzzy
+msgid ""
+"After you deliver the item, please set the job as delivered so the item "
+"owner knows, and give feedback."
+msgstr ""
+"Po dostarczeniu przedmiotu, proszę ustawić zadanie jako dostarczone, aby "
+"właściciel przedmiotu wiedział, i dać komentarz."
+
+#: functions.php:3476 functions.php:3557 functions.php:3631
+#, fuzzy
+msgid "Closed/Ended"
+msgstr "Zamknięte/zakończone"
+
+#: functions.php:3483 functions.php:5158 single-job_ship.php:987
+#: template-parts/post-new/post-new.php:35
+#, fuzzy
+msgid "Edit Job"
+msgstr "Edycja Pracy"
+
+#: functions.php:3484
+#, fuzzy
+msgid "Delete Job"
+msgstr "Usuń ogłoszenie"
+
+#: functions.php:3502
+#, fuzzy, php-format
+msgid ""
+"This job was posted but the listing fee for it was not paid yet. <a href=\"%s"
+"\">Click here</a> to pay the outstanding balance."
+msgstr ""
+"Ta praca została opublikowana, ale opłata za jej wystawienie nie została "
+"jeszcze uiszczona. <a href=\"%s\">Kliknij tutaj</a>, aby zapłacić pozostałą "
+"kwotę."
+
+#: functions.php:3570
+#, fuzzy
+msgid "Pick Winner"
+msgstr "Wybierz zwycięzcę"
+
+#: functions.php:3578
+#, fuzzy, php-format
+msgid "Proposal sent by: %s at the price of: %s"
+msgstr "Propozycja wysłana przez: %s w cenie wynoszącej: %s"
+
+#: functions.php:3582
+#, fuzzy
+msgid "This was the bid you chose as winner for this job."
+msgstr "To była oferta, którą wybrałeś jako zwycięską dla tego zadania."
+
+#: functions.php:3645
+#, fuzzy, php-format
+msgid "You have bidded %s for this job."
+msgstr "Wylicytowałeś %s dla tej pracy."
+
+#: functions.php:3649
+#, fuzzy
+msgid "This bid was chosen as the job winner proposal."
+msgstr "Oferta ta została wybrana jako propozycja zwycięzcy przetargu."
+
+#: functions.php:3742
+#, fuzzy, php-format
+msgid "%s Job is open for bidding."
+msgstr "{Praca jest otwarta do licytacji."
+
+#: functions.php:3744
+#, fuzzy, php-format
+msgid "%s Job is closed for bidding."
+msgstr "%s Zadanie jest zamknięte do licytacji."
+
+#: functions.php:4540 template-parts/post-new/post-new.php:307
+#, fuzzy
+msgid "Package Pickup"
+msgstr "Odbiór pakietów"
+
+#: functions.php:4668 functions.php:4697
+#: template-parts/post-new/post-new.php:317
+#: template-parts/post-new/post-new.php:354
+#, fuzzy
+msgid "Location (address/zip)"
+msgstr "Lokalizacja (adres/zip)"
+
+#: functions.php:4670 template-parts/post-new/post-new.php:319
+#, fuzzy
+msgid "eg: New York, 15th ave"
+msgstr "np.: Nowy Jork, 15th ave"
+
+#: functions.php:4679 template-parts/post-new/post-new.php:329
+#, fuzzy
+msgid "Pickup Date"
+msgstr "Data odbioru"
+
+#: functions.php:4680 functions.php:4709
+#: template-parts/post-new/post-new.php:330
+#: template-parts/post-new/post-new.php:367
+#, fuzzy
+msgid "click here to choose date"
+msgstr "kliknij tutaj, aby wybrać datę"
+
+#: functions.php:4689 template-parts/post-new/post-new.php:343
+#, fuzzy
+msgid "Package Delivery"
+msgstr "Dostawa opakowań"
+
+#: functions.php:4699 template-parts/post-new/post-new.php:356
+#, fuzzy
+msgid "eg: California, San Francisco, Lombard St"
+msgstr "np.: Kalifornia, San Francisco, Lombard St"
+
+#: functions.php:4708 template-parts/post-new/post-new.php:366
+#, fuzzy
+msgid "Delivery Date"
+msgstr "Tydzień wysyłki"
+
+#: functions.php:4741
+#, fuzzy
+msgid "Packages"
+msgstr "Pakiety"
+
+#: functions.php:4748
+#, fuzzy
+msgid "Length"
+msgstr "Długość"
+
+#: functions.php:4755
+#, fuzzy
+msgid "Width"
+msgstr "Szerokość"
+
+#: functions.php:4762
+#, fuzzy
+msgid "Height"
+msgstr "Wysokość"
+
+#: functions.php:4769
+#, fuzzy
+msgid "Weight"
+msgstr "Waga"
+
+#: functions.php:4777
+#, fuzzy
+msgid "Feature this job"
+msgstr "Promuj tą ofertę"
+
+#: functions.php:4783
+#, fuzzy
+msgid "Sealed Bidding"
+msgstr "Licytacja zamknięta"
+
+#: functions.php:4789
+#, fuzzy
+msgid "Closed"
+msgstr "Zamknięte"
+
+#: functions.php:4796
+#, fuzzy
+msgid "Listing Fee Paid"
+msgstr "Opłata za wpis opłacona"
+
+#: functions.php:4817
+#, fuzzy
+msgid "Ad Valid Until:"
+msgstr "Ogłoszenie ważne do:"
+
+#: functions.php:4991 template-parts/post-new/post-new.php:681
+#, fuzzy
+msgid "Click the grey area below to add job files. Images are not accepted."
+msgstr ""
+"Kliknij na szary obszar poniżej, aby dodać pliki zadań. Obrazy nie są "
+"akceptowane."
+
+#: functions.php:5105 template-parts/post-new/post-new.php:560
+#, fuzzy
+msgid ""
+"Click the grey area below to add job images. Other files are not accepted. "
+"Use the form below."
+msgstr ""
+"Kliknij na szare pole poniżej, aby dodać zdjęcia pracy. Inne pliki nie są "
+"akceptowane. Użyj poniższego formularza."
+
+#: functions.php:5154
+#, fuzzy
+msgid "Jobs"
+msgstr "Ogłoszenia"
+
+#: functions.php:5155 lib/admin_menu.php:186 lib/admin_menu.php:266
+#, fuzzy
+msgid "Job"
+msgstr "Praca"
+
+#: functions.php:5156 functions.php:5159
+#, fuzzy
+msgid "Add New Job"
+msgstr "Dodaj nową ofertę pracy"
+
+#: functions.php:5157
+#, fuzzy
+msgid "New Job"
+msgstr "Nowa oferta pracy"
+
+#: functions.php:5160
+#, fuzzy
+msgid "Search Jobs"
+msgstr "Szukaj ogłoszeń"
+
+#: functions.php:5180
+#, fuzzy
+msgid "Job Categories"
+msgstr "Kategorie pracy"
+
+#: functions.php:5194 lib/login_register/register.php:179
+#: template-parts/login-register/register.php:104
+#: template-parts/user-area/my-account/my-jobs.php:306
+#, fuzzy
+msgid "Transporter"
+msgstr "Transporter"
+
+#: functions.php:5199 template-parts/login-register/register.php:105
+#, fuzzy
+msgid "Customer"
+msgstr "Klient"
+
+#: functions.php:5674 lib/login_register/login.php:382
+#, fuzzy, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For "
+"help, please see <a href=\"%1$s\">this documentation</a> or try the <a href="
+"\"%2$s\">support forums</a>."
+msgstr ""
+"<strong>BŁĄD</strong>: Pliki cookie są blokowane z powodu nieoczekiwanych "
+"danych wyjściowych. Aby uzyskać pomoc, zobacz <a href=\"%1$s\">tę "
+"dokumentację</a> lub spróbuj <a href=\"%2$s\">forum wsparcia</a>."
+
+#: functions.php:5675 functions.php:5679 lib/login_register/login.php:383
+#: lib/login_register/login.php:387
+#, fuzzy
+msgid "https://codex.wordpress.org/Cookies"
+msgstr "https://codex.wordpress.org/Cookies"
+
+#: functions.php:5675 lib/login_register/login.php:383
+#, fuzzy
+msgid "https://wordpress.org/support/"
+msgstr "https://wordpress.org/support/"
+
+#: functions.php:5678 lib/login_register/login.php:386
+#, fuzzy, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked or not supported by your "
+"browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+msgstr ""
+"<strong>BŁĄD:</strong> Cookies są zablokowane lub nie są obsługiwane przez "
+"Twoją przeglądarkę. Musisz <a href='%s'>włączyć obsługę plików cookies</a> w "
+"użyciu WordPress."
+
+#: functions.php:5713
+#, fuzzy
+msgid "Payment received from site admin"
+msgstr "Płatność otrzymana od Administratora Serwisu"
+
+#: functions.php:5727
+#, fuzzy
+msgid "Payment subtracted by site admin"
+msgstr "Płatność odliczona przez administratora strony"
+
+#: functions.php:5899 template-parts/post-new/post-new.php:264
+#, fuzzy
+msgid "Select Subcategory"
+msgstr "Wybierz podkategorię"
+
+#: functions.php:6341
+#, fuzzy
+msgid ""
+"You are logged in as administrator, and you should be both menus "
+"(transporter and customer). Regular users see one or the other depending on "
+"their role."
+msgstr ""
+"Jesteś zalogowany jako administrator, a powinieneś być w obu menu "
+"(przewoźnik i klient). Zwykli użytkownicy widzą jedno lub drugie w "
+"zależności od swojej roli."
+
+#: functions.php:6375
+#, fuzzy
+msgid "My Account Menu"
+msgstr "Menu Moje konto"
+
+#: functions.php:6379
+#, fuzzy
+msgid "MyAccount Home"
+msgstr "Moje konto Strona główna"
+
+#: functions.php:6380
+#, fuzzy, php-format
+msgid "Finances %s"
+msgstr "Finanse %s"
+
+#: functions.php:6381 lib/admin_menu.php:43
+#, fuzzy
+msgid "Private Messages"
+msgstr "Wiadomości"
+
+#: functions.php:6382 template-parts/general-stuff/general-design-parts.php:74
+#: template-parts/user-area/my-account/profile-settings.php:24
+#: template-parts/user-area/my-account/profile-settings.php:26
+#, fuzzy
+msgid "Profile Settings"
+msgstr "Ustawienia Profilu"
+
+#: functions.php:6383
+#, fuzzy, php-format
+msgid "Reviews/Feedback %s"
+msgstr "Recenzje/ Opinie %s"
+
+#: functions.php:6393
+#, fuzzy
+msgid "Transporter Menu"
+msgstr "Menu transportera"
+
+#: functions.php:6411
+#, fuzzy
+msgid "My Posted Offers"
+msgstr "Moje oferty"
+
+#: functions.php:6412 template-parts/user-area/my-account/my-jobs.php:96
+#, fuzzy, php-format
+msgid "Pending Jobs %s"
+msgstr "Praca w toku %s"
+
+#: functions.php:6413
+#, fuzzy, php-format
+msgid "Awaiting Payments %s"
+msgstr "Oczekiwanie na płatność %s"
+
+#: functions.php:6414 template-parts/user-area/my-account/my-quotes.php:58
+#, fuzzy
+msgid "Completed Jobs"
+msgstr "Zakończone zlecenia"
+
+#: functions.php:6428
+#, fuzzy
+msgid "Customer Menu"
+msgstr "Menu klienta"
+
+#: functions.php:6447 template-parts/general-stuff/general-design-parts.php:47
+#, fuzzy
+msgid "Post New Job"
+msgstr "Dodaj pracę"
+
+#: functions.php:6449 template-parts/user-area/my-account/my-jobs.php:89
+#, fuzzy
+msgid "Active Jobs"
+msgstr "Aktywne ogłoszenia"
+
+#: functions.php:6450
+#, fuzzy
+msgid "Received Offers"
+msgstr "Otrzymane oferty"
+
+#: functions.php:6452
+#, fuzzy, php-format
+msgid "Jobs Pending Delivery %s"
+msgstr "Praca w oczekiwaniu na dostawę %s"
+
+#: functions.php:6453
+#, fuzzy
+msgid "Delivered Items"
+msgstr "Dostarczone pozycje"
+
+#: functions.php:6454
+#, fuzzy, php-format
+msgid "Outstanding Payments %s"
+msgstr "Zaległe płatności %s"
+
+#: functions.php:6455
+#, fuzzy
+msgid "Completed payments"
+msgstr "Zakończone płatności"
+
+#: functions.php:6653
+#, fuzzy
+msgid "Single Page Sidebar"
+msgstr "Pojedyncza strona pasek boczny"
+
+#: functions.php:6655
+#, fuzzy
+msgid "The sidebar area of the single blog post"
+msgstr "Obszar paska bocznego pojedynczego wpisu na blogu"
+
+#: functions.php:6666
+#, fuzzy
+msgid "shipme - Stretch Wide MainPage Sidebar"
+msgstr "shipme - Rozciągliwy szeroki pasek boczny MainPage"
+
+#: functions.php:6668
+#, fuzzy
+msgid ""
+"This sidebar is site wide stretched in home page, just under the slider/menu."
+msgstr ""
+"Ten sidebar jest rozciągnięty na szerokość strony głównej, tuż pod sliderem/"
+"menu."
+
+#: functions.php:6678
+#, fuzzy
+msgid "Other Page Sidebar"
+msgstr "Inna strona Pasek boczny"
+
+#: functions.php:6680
+#, fuzzy
+msgid "The sidebar area of any other page than the defined ones"
+msgstr "Obszar paska bocznego każdej innej strony niż zdefiniowane"
+
+#: functions.php:6691
+#, fuzzy
+msgid "Home Page Sidebar - Right"
+msgstr "Pasek boczny strony głównej - prawy"
+
+#: functions.php:6693
+#, fuzzy
+msgid "The right sidebar area of the homepage"
+msgstr "Prawy pasek boczny na stronie głównej"
+
+#: functions.php:6704
+#, fuzzy
+msgid "Home Page Sidebar - Left"
+msgstr "Pasek boczny strony głównej - Lewy"
+
+#: functions.php:6706
+#, fuzzy
+msgid "The left sidebar area of the homepage"
+msgstr "Lewy pasek boczny na stronie głównej"
+
+#: functions.php:6716
+#, fuzzy
+msgid "First Footer Widget Area"
+msgstr "Pierwszy obszar widżetu stopki"
+
+#: functions.php:6718
+#, fuzzy
+msgid "The first footer widget area"
+msgstr "Pierwszy obszar widgetów stopki"
+
+#: functions.php:6727
+#, fuzzy
+msgid "Second Footer Widget Area"
+msgstr "Drugi obszar widgetów stopki"
+
+#: functions.php:6729
+#, fuzzy
+msgid "The second footer widget area"
+msgstr "Druga stopka widgetu"
+
+#: functions.php:6738
+#, fuzzy
+msgid "Third Footer Widget Area"
+msgstr "Trzeci obszar widgetów stopki"
+
+#: functions.php:6740
+#, fuzzy
+msgid "The third footer widget area"
+msgstr "Trzeci obszar widgetów stopki"
+
+#: functions.php:6749
+#, fuzzy
+msgid "Fourth Footer Widget Area"
+msgstr "Czwarty obszar widżetów w stopce"
+
+#: functions.php:6751
+#, fuzzy
+msgid "The fourth footer widget area"
+msgstr "Czwarty obszar widżetów w stopce"
+
+#: functions.php:6761
+#, fuzzy
+msgid "shipme - Job Single Sidebar"
+msgstr "shipme - Job Single Sidebar"
+
+#: functions.php:6763
+#, fuzzy
+msgid "The sidebar of the single job page"
+msgstr "Pasek boczny strony pojedynczej pracy"
+
+#: functions.php:6772
+#, fuzzy
+msgid "shipme - HomePage Area"
+msgstr "shipme - Obszar strony głównej"
+
+#: functions.php:6774
+#, fuzzy
+msgid "The sidebar for the main page, just under the slider."
+msgstr "Pasek boczny dla strony głównej, tuż pod sliderem."
+
+#. Theme Name of the plugin/theme
+#: lib/admin_menu.php:18
+#, fuzzy
+msgid "ShipMe"
+msgstr "ShipMe"
+
+#: lib/admin_menu.php:19
+#, fuzzy
+msgid "Site Overview"
+msgstr "Przegląd stron"
+
+#: lib/admin_menu.php:20
+#, fuzzy
+msgid "License Key"
+msgstr "Klucz licencyjny"
+
+#: lib/admin_menu.php:22
+#, fuzzy
+msgid "General Options"
+msgstr "Opcje ogólne"
+
+#: lib/admin_menu.php:23 lib/admin_menu.php:1838 lib/admin_menu.php:2050
+#, fuzzy
+msgid "Email Settings"
+msgstr "Ustawienia e-mail"
+
+#: lib/admin_menu.php:24
+#, fuzzy
+msgid "Payment Gateways"
+msgstr "Bramki płatności"
+
+#: lib/admin_menu.php:25 lib/admin_menu.php:3914
+#, fuzzy
+msgid "Pricing Settings"
+msgstr "Ustawienia cenowe"
+
+#: lib/admin_menu.php:26
+#, fuzzy
+msgid "Custom Pricing"
+msgstr "Ceny niestandardowe"
+
+#: lib/admin_menu.php:27
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Dodatkowe pola"
+
+#: lib/admin_menu.php:30 lib/admin_menu.php:3418
+#, fuzzy
+msgid "Layout Settings"
+msgstr "Ustawienia układu strony"
+
+#: lib/admin_menu.php:36
+#, fuzzy
+msgid "User Balances"
+msgstr "Salda użytkowników"
+
+#: lib/admin_menu.php:37
+#, fuzzy
+msgid "Withdrawals"
+msgstr "Wybrane"
+
+#: lib/admin_menu.php:38
+#, fuzzy
+msgid "Escrows"
+msgstr "Depozyty"
+
+#: lib/admin_menu.php:42
+#, fuzzy
+msgid "User Reviews"
+msgstr "Oceny użytkowników"
+
+#: lib/admin_menu.php:44
+#, fuzzy
+msgid "Orders"
+msgstr "Zamówienia"
+
+#: lib/admin_menu.php:45
+#, fuzzy
+msgid "Theme Info"
+msgstr "Informacja o motywie"
+
+#: lib/admin_menu.php:77
+#, fuzzy
+msgid "License Options"
+msgstr "Opcje ogólne"
+
+#: lib/admin_menu.php:94 lib/admin_menu.php:1856 lib/admin_menu.php:1864
+#: lib/admin_menu.php:1872 lib/admin_menu.php:1881 lib/admin_menu.php:1890
+#: lib/admin_menu.php:1899 lib/admin_menu.php:1908 lib/admin_menu.php:1917
+#: lib/admin_menu.php:1926 lib/admin_menu.php:1935 lib/admin_menu.php:1947
+#: lib/admin_menu.php:1956 lib/admin_menu.php:1965 lib/admin_menu.php:1974
+#: lib/admin_menu.php:1983 lib/admin_menu.php:1992 lib/admin_menu.php:2001
+#: lib/admin_menu.php:2012 lib/admin_menu.php:2021 lib/admin_menu.php:2030
+#: lib/admin_menu.php:2039 lib/admin_menu.php:3449 lib/admin_menu.php:3475
+#: lib/admin_menu.php:3488 lib/admin_menu.php:3496 lib/admin_menu.php:3960
+#: lib/admin_menu.php:3994 lib/admin_menu.php:4192 lib/admin_menu.php:4200
+#: lib/admin_menu.php:4208 lib/admin_menu.php:4216 lib/admin_menu.php:4225
+#: lib/admin_menu.php:6093 lib/admin_menu.php:6104 lib/admin_menu.php:6112
+#, fuzzy
+msgid "Settings saved!"
+msgstr "Ustawienia zapisano!"
+
+#: lib/admin_menu.php:102
+#, fuzzy
+msgid "License Settings"
+msgstr "Ustawienia licencji"
+
+#: lib/admin_menu.php:121
+#, fuzzy
+msgid "License key:"
+msgstr "Klucz licencyjny:"
+
+#: lib/admin_menu.php:129 lib/admin_menu.php:2150 lib/admin_menu.php:2216
+#: lib/admin_menu.php:2280 lib/admin_menu.php:2343 lib/admin_menu.php:2408
+#: lib/admin_menu.php:2472 lib/admin_menu.php:2537 lib/admin_menu.php:2600
+#: lib/admin_menu.php:2667 lib/admin_menu.php:2734 lib/admin_menu.php:2798
+#: lib/admin_menu.php:2863 lib/admin_menu.php:2932 lib/admin_menu.php:2996
+#: lib/admin_menu.php:3061 lib/admin_menu.php:3124 lib/admin_menu.php:3187
+#: lib/admin_menu.php:3251 lib/admin_menu.php:3289 lib/admin_menu.php:3343
+#: lib/admin_menu.php:3396 lib/admin_menu.php:3617 lib/admin_menu.php:3748
+#: lib/admin_menu.php:3868 lib/admin_menu.php:3898 lib/admin_menu.php:4058
+#: lib/admin_menu.php:4146 lib/admin_menu.php:4279 lib/admin_menu.php:4309
+#: lib/admin_menu.php:4338 lib/admin_menu.php:4374 lib/admin_menu.php:6356
+#: lib/admin_menu.php:6390 lib/admin_menu.php:6431
+#, fuzzy
+msgid "Save Options"
+msgstr "Zapisz"
+
+#: lib/admin_menu.php:166
+#, fuzzy
+msgid "All User Reviews"
+msgstr "Wszystkie recenzje użytkowników"
+
+#: lib/admin_menu.php:167 lib/admin_menu.php:241 lib/admin_menu.php:1575
+#: lib/admin_menu.php:1662 lib/admin_menu.php:1750 lib/admin_menu.php:5681
+#: lib/admin_menu.php:5886
+#, fuzzy
+msgid "Search User"
+msgstr "Szukaj użytkownika"
+
+#: lib/admin_menu.php:185 lib/admin_menu.php:265 lib/admin_menu.php:2071
+#, fuzzy
+msgid "Rated User"
+msgstr "Oceniony użytkownik"
+
+#: lib/admin_menu.php:187 lib/admin_menu.php:267 lib/user-feedback.php:70
+#: template-parts/user-area/my-account/reviews.php:299
+#: template-parts/user-area/my-account/reviews.php:372
+#, fuzzy
+msgid "Rating"
+msgstr "Ocena"
+
+#: lib/admin_menu.php:188 lib/admin_menu.php:268
+#, fuzzy
+msgid "Description"
+msgstr "Opis"
+
+#: lib/admin_menu.php:189 lib/admin_menu.php:269
+#, fuzzy
+msgid "Awarded On"
+msgstr "Przyznany w dniu"
+
+#: lib/admin_menu.php:227 lib/admin_menu.php:307
+#, fuzzy
+msgid "There are no user feedback."
+msgstr "Nie ma żadnych opinii użytkowników."
+
+#: lib/admin_menu.php:242 lib/admin_menu.php:1576 lib/admin_menu.php:1663
+#: lib/admin_menu.php:1751 lib/admin_menu.php:5887
+#: lib/widgets/search-box-big.php:87
+#, fuzzy
+msgid "Search"
+msgstr "Szukaj"
+
+#: lib/admin_menu.php:540
+#, fuzzy
+msgid "There are no outstanding jobs yet."
+msgstr "Nie ma jeszcze żadnych zaległych ofert pracy."
+
+#: lib/admin_menu.php:685
+#, fuzzy
+msgid "There are no delivered jobs yet."
+msgstr "Nie ma jeszcze żadnych dostarczonych ofert pracy."
+
+#: lib/admin_menu.php:835
+#, fuzzy
+msgid "There are no completed jobs yet."
+msgstr "Nie ma jeszcze żadnych zakończonych prac."
+
+#: lib/admin_menu.php:989
+#, fuzzy
+msgid "There are no paid jobs yet."
+msgstr "Nie ma jeszcze płatnych zleceń."
+
+#: lib/admin_menu.php:1083
+#, fuzzy, php-format
+msgid "Payment received from %s"
+msgstr "Płatność otrzymana od %s"
+
+#: lib/admin_menu.php:1087
+#, fuzzy, php-format
+msgid "Payment fee for project %s"
+msgstr "Opłata za płatność za projekt %s"
+
+#: lib/admin_menu.php:1097 lib/admin_menu.php:1110
+#, fuzzy
+msgid "Money Escrow Completed"
+msgstr "Depozyt pieniężny zakończony"
+
+#: lib/admin_menu.php:1098
+#, fuzzy, php-format
+msgid "You have released the escrow of: %s"
+msgstr "Zwolniłeś depozyt w wysokości: %s"
+
+#: lib/admin_menu.php:1111
+#, fuzzy, php-format
+msgid "You have received the amount of: %s"
+msgstr "Otrzymałeś kwotę w wysokości: %s"
+
+#: lib/admin_menu.php:1122
+#, fuzzy
+msgid "Escrow completed!"
+msgstr "Escrow zakończone!"
+
+#: lib/admin_menu.php:1151
+#, fuzzy
+msgid "Escrow closed!"
+msgstr "Escrow zamknięte!"
+
+#: lib/admin_menu.php:1355 lib/admin_menu.php:1356
+#, fuzzy, php-format
+msgid "Your withdrawal has been completed: %s"
+msgstr "Twoja wypłata została zakończona: %s"
+
+#: lib/admin_menu.php:1361
+#, fuzzy, php-format
+msgid "Withdraw to PayPal to email: %s"
+msgstr "Wypłać na PayPal na e-mail: %s"
+
+#: lib/admin_menu.php:1371
+#, fuzzy
+msgid "Unresolved Requests"
+msgstr "Nierozstrzygnięte wnioski"
+
+#: lib/admin_menu.php:1372
+#, fuzzy
+msgid "Resolved Requests"
+msgstr "Rozwiązane Zapytania"
+
+#: lib/admin_menu.php:1373
+#, fuzzy
+msgid "Rejected Requests"
+msgstr "Odrzucone wnioski"
+
+#: lib/admin_menu.php:1374
+#, fuzzy
+msgid "Search Unresolved"
+msgstr "Wyszukiwanie Nierozwiązane"
+
+#: lib/admin_menu.php:1375
+#, fuzzy
+msgid "Search Solved"
+msgstr "Wyszukiwanie rozwiązane"
+
+#: lib/admin_menu.php:1376
+#, fuzzy
+msgid "Search Rejected"
+msgstr "Wyszukiwanie Odrzucone"
+
+#: lib/admin_menu.php:1392 lib/admin_menu.php:1456 lib/admin_menu.php:1521
+#: lib/admin_menu.php:1602 lib/admin_menu.php:1690 lib/admin_menu.php:1778
+#: template-parts/login-register/register.php:78
+#, fuzzy
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: lib/admin_menu.php:1393 lib/admin_menu.php:1457 lib/admin_menu.php:1603
+#: lib/admin_menu.php:1691 lib/admin_menu.php:1779
+#: template-parts/user-area/my-account/finances.php:453
+#, fuzzy
+msgid "Method"
+msgstr "Metoda"
+
+#: lib/admin_menu.php:1394 lib/admin_menu.php:1458 lib/admin_menu.php:1522
+#: lib/admin_menu.php:1604 lib/admin_menu.php:1692 lib/admin_menu.php:1780
+#: template-parts/user-area/my-account/finances.php:454
+#, fuzzy
+msgid "Details"
+msgstr "Szczegóły"
+
+#: lib/admin_menu.php:1395 lib/admin_menu.php:1459 lib/admin_menu.php:1523
+#: lib/admin_menu.php:1605 lib/admin_menu.php:1693 lib/admin_menu.php:1781
+#: template-parts/user-area/my-account/finances.php:455
+#, fuzzy
+msgid "Date Requested"
+msgstr "Data wnioskowana"
+
+#: lib/admin_menu.php:1419 lib/admin_menu.php:1485 lib/admin_menu.php:1629
+#: lib/admin_menu.php:1717
+#, fuzzy
+msgid "Make Complete"
+msgstr "Dokonaj uzupełnienia"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1630
+#: lib/admin_menu.php:1718
+#, fuzzy
+msgid "Deny Request"
+msgstr "Odrzucenie wniosku"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1630
+#: lib/admin_menu.php:1718 template-parts/user-area/my-account/my-jobs.php:103
+#, fuzzy
+msgid "Completed"
+msgstr "Zakończone"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1546
+#: lib/admin_menu.php:1630 lib/admin_menu.php:1718
+#, fuzzy
+msgid "Rejected"
+msgstr "Odrzucone"
+
+#: lib/admin_menu.php:1432
+#, fuzzy
+msgid "There are no unresolved withdrawal requests."
+msgstr "Nie ma nierozstrzygniętych wniosków o wycofanie."
+
+#: lib/admin_menu.php:1461 lib/admin_menu.php:1525
+#, fuzzy
+msgid "Date Released"
+msgstr "Data wydania"
+
+#: lib/admin_menu.php:1498
+#, fuzzy
+msgid "There are no resolved withdrawal requests."
+msgstr "Nie ma żadnych rozstrzygniętych wniosków o wycofanie."
+
+#: lib/admin_menu.php:1559
+#, fuzzy
+msgid "There are no rejected withdrawal requests."
+msgstr "Nie ma odrzuconych wniosków o wypłatę."
+
+#: lib/admin_menu.php:1642 lib/admin_menu.php:1730 lib/admin_menu.php:1816
+#: lib/admin_menu.php:5971
+#, fuzzy
+msgid "There are no results for your search."
+msgstr "Nie ma żadnych wyników twoich poszukiwań."
+
+#: lib/admin_menu.php:2051
+#, fuzzy
+msgid "New User Email"
+msgstr "Nowy adres E-mail użytkownika"
+
+#: lib/admin_menu.php:2052
+#, fuzzy
+msgid "New User Email (admin)"
+msgstr "Email nowego użytkownika (admin)"
+
+#: lib/admin_menu.php:2054
+#, fuzzy
+msgid "post job Not Approved Email (admin)"
+msgstr "post Niezatwierdzona wiadomość e-mail (admin)"
+
+#: lib/admin_menu.php:2055
+#, fuzzy
+msgid "post job Auto Approved Email (admin)"
+msgstr "opublikuj pracę Automatycznie zatwierdzony e-mail (admin)"
+
+#: lib/admin_menu.php:2056
+#, fuzzy
+msgid "post job Not Approved Email"
+msgstr "post job Niezatwierdzony e-mail"
+
+#: lib/admin_menu.php:2057
+#, fuzzy
+msgid "post job Auto Approved Email"
+msgstr "post job Automatycznie zatwierdzany e-mail"
+
+#: lib/admin_menu.php:2061
+#, fuzzy
+msgid "Delivered Job (owner)"
+msgstr "Dostarczona praca (właściciel)"
+
+#: lib/admin_menu.php:2062
+#, fuzzy
+msgid "Delivered Job (bidder)"
+msgstr "Dostarczona praca (oferent)"
+
+#: lib/admin_menu.php:2066
+#, fuzzy
+msgid "Completed Job (owner)"
+msgstr "Zakończona praca (właściciel)"
+
+#: lib/admin_menu.php:2067
+#, fuzzy
+msgid "Completed Job (bidder)"
+msgstr "Praca zakończona (oferent)"
+
+#: lib/admin_menu.php:2070
+#, fuzzy
+msgid "Private Message Received"
+msgstr "Otrzymano prywatną wiadomość"
+
+#: lib/admin_menu.php:2074
+#, fuzzy
+msgid "Won Job(owner)"
+msgstr "Won Job(właściciel)"
+
+#: lib/admin_menu.php:2075
+#, fuzzy
+msgid "Won Job(winner)"
+msgstr "Won Job (zwycięzca)"
+
+#: lib/admin_menu.php:2076
+#, fuzzy
+msgid "Won Job(losers)"
+msgstr "Won Job (przegrani)"
+
+#: lib/admin_menu.php:2078
+#, fuzzy
+msgid "Job Proposal(bidder)"
+msgstr "Propozycja pracy (oferent)"
+
+#: lib/admin_menu.php:2079
+#, fuzzy
+msgid "Job Proposal(owner)"
+msgstr "Propozycja pracy (właściciel)"
+
+#: lib/admin_menu.php:2081
+#, fuzzy
+msgid "Message Board(owner)"
+msgstr "Tablica ogłoszeń (właściciel)"
+
+#: lib/admin_menu.php:2082
+#, fuzzy
+msgid "Message Board(bidder)"
+msgstr "Tablica ogłoszeń (oferent)"
+
+#: lib/admin_menu.php:2087
+#, fuzzy
+msgid "Payment on Completed Job (owner)"
+msgstr "Płatność za wykonaną pracę (właściciel)"
+
+#: lib/admin_menu.php:2098
+#, fuzzy
+msgid ""
+"This email will be received by the owner of the project after he accepts the "
+"project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email otrzyma właściciel projektu po tym jak zaakceptuje projekt jako "
+"dostarczony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego maila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2109 lib/admin_menu.php:2174 lib/admin_menu.php:2239
+#: lib/admin_menu.php:2302 lib/admin_menu.php:2365 lib/admin_menu.php:2430
+#: lib/admin_menu.php:2494 lib/admin_menu.php:2559 lib/admin_menu.php:2623
+#: lib/admin_menu.php:2691 lib/admin_menu.php:2756 lib/admin_menu.php:2822
+#: lib/admin_menu.php:2889 lib/admin_menu.php:2953 lib/admin_menu.php:3021
+#: lib/admin_menu.php:3084 lib/admin_menu.php:3148 lib/admin_menu.php:3212
+#, fuzzy
+msgid "Enable this email:"
+msgstr "Włącz tę wiadomość e-mail:"
+
+#: lib/admin_menu.php:2115 lib/admin_menu.php:2181 lib/admin_menu.php:2245
+#: lib/admin_menu.php:2308 lib/admin_menu.php:2371 lib/admin_menu.php:2436
+#: lib/admin_menu.php:2500 lib/admin_menu.php:2565 lib/admin_menu.php:2629
+#: lib/admin_menu.php:2697 lib/admin_menu.php:2762 lib/admin_menu.php:2828
+#: lib/admin_menu.php:2895 lib/admin_menu.php:2959 lib/admin_menu.php:3027
+#: lib/admin_menu.php:3090 lib/admin_menu.php:3154 lib/admin_menu.php:3218
+#: lib/admin_menu.php:3309 lib/admin_menu.php:3364
+#, fuzzy
+msgid "Email Subject:"
+msgstr "Temat wiadomości:"
+
+#: lib/admin_menu.php:2123 lib/admin_menu.php:2189 lib/admin_menu.php:2253
+#: lib/admin_menu.php:2316 lib/admin_menu.php:2379 lib/admin_menu.php:2444
+#: lib/admin_menu.php:2509 lib/admin_menu.php:2573 lib/admin_menu.php:2637
+#: lib/admin_menu.php:2705 lib/admin_menu.php:2770 lib/admin_menu.php:2836
+#: lib/admin_menu.php:2903 lib/admin_menu.php:2967 lib/admin_menu.php:3035
+#: lib/admin_menu.php:3098 lib/admin_menu.php:3162 lib/admin_menu.php:3226
+#: lib/admin_menu.php:3317 lib/admin_menu.php:3372
+#, fuzzy
+msgid "Email Content:"
+msgstr "Treść e-maila:"
+
+#: lib/admin_menu.php:2133 lib/admin_menu.php:2199 lib/admin_menu.php:2263
+#: lib/admin_menu.php:2326 lib/admin_menu.php:2389 lib/admin_menu.php:2454
+#: lib/admin_menu.php:2519 lib/admin_menu.php:2583 lib/admin_menu.php:2647
+#: lib/admin_menu.php:2715 lib/admin_menu.php:2780 lib/admin_menu.php:2846
+#: lib/admin_menu.php:2913 lib/admin_menu.php:2977 lib/admin_menu.php:3045
+#: lib/admin_menu.php:3108 lib/admin_menu.php:3172 lib/admin_menu.php:3236
+#: lib/admin_menu.php:3328 lib/admin_menu.php:3382
+#, fuzzy
+msgid "Here is a list of tags you can use in this email:"
+msgstr "Poniżej znajduje się lista tagów, których możesz użyć w tym mailu:"
+
+#: lib/admin_menu.php:2135 lib/admin_menu.php:2265 lib/admin_menu.php:2915
+#: lib/admin_menu.php:2979
+#, fuzzy
+msgid "Job Owner's Username"
+msgstr "Nazwa użytkownika właściciela pracy"
+
+#: lib/admin_menu.php:2136 lib/admin_menu.php:2202 lib/admin_menu.php:2266
+#: lib/admin_menu.php:2329 lib/admin_menu.php:2392 lib/admin_menu.php:2457
+#: lib/admin_menu.php:2522 lib/admin_menu.php:2586 lib/admin_menu.php:2650
+#: lib/admin_menu.php:2719 lib/admin_menu.php:2784 lib/admin_menu.php:2849
+#: lib/admin_menu.php:2916 lib/admin_menu.php:2980 lib/admin_menu.php:3048
+#: lib/admin_menu.php:3111 lib/admin_menu.php:3174 lib/admin_menu.php:3238
+#: lib/admin_menu.php:3333 lib/admin_menu.php:3386
+#, fuzzy
+msgid "the link to your user login page"
+msgstr "link do strony logowania użytkownika"
+
+#: lib/admin_menu.php:2137 lib/admin_menu.php:2203 lib/admin_menu.php:2267
+#: lib/admin_menu.php:2330 lib/admin_menu.php:2393 lib/admin_menu.php:2458
+#: lib/admin_menu.php:2523 lib/admin_menu.php:2587 lib/admin_menu.php:2651
+#: lib/admin_menu.php:2720 lib/admin_menu.php:2785 lib/admin_menu.php:2850
+#: lib/admin_menu.php:2917 lib/admin_menu.php:2981 lib/admin_menu.php:3049
+#: lib/admin_menu.php:3112 lib/admin_menu.php:3175 lib/admin_menu.php:3239
+#: lib/admin_menu.php:3334 lib/admin_menu.php:3387
+#, fuzzy
+msgid "your website's name"
+msgstr "nazwa Twojej strony internetowej"
+
+#: lib/admin_menu.php:2138 lib/admin_menu.php:2204 lib/admin_menu.php:2268
+#: lib/admin_menu.php:2331 lib/admin_menu.php:2394 lib/admin_menu.php:2459
+#: lib/admin_menu.php:2524 lib/admin_menu.php:2588 lib/admin_menu.php:2652
+#: lib/admin_menu.php:2721 lib/admin_menu.php:2786 lib/admin_menu.php:2851
+#: lib/admin_menu.php:2918 lib/admin_menu.php:2982 lib/admin_menu.php:3050
+#: lib/admin_menu.php:3113 lib/admin_menu.php:3176 lib/admin_menu.php:3240
+#: lib/admin_menu.php:3335 lib/admin_menu.php:3388
+#, fuzzy
+msgid "your website's main address"
+msgstr "główny adres Twojej strony internetowej"
+
+#: lib/admin_menu.php:2139 lib/admin_menu.php:2205 lib/admin_menu.php:2269
+#: lib/admin_menu.php:2332 lib/admin_menu.php:2395 lib/admin_menu.php:2460
+#: lib/admin_menu.php:2525 lib/admin_menu.php:2589 lib/admin_menu.php:2653
+#: lib/admin_menu.php:2722 lib/admin_menu.php:2787 lib/admin_menu.php:2852
+#: lib/admin_menu.php:2920 lib/admin_menu.php:2984 lib/admin_menu.php:3051
+#: lib/admin_menu.php:3114 lib/admin_menu.php:3177 lib/admin_menu.php:3241
+#, fuzzy
+msgid "your website's my account link"
+msgstr "link do mojego konta na twojej stronie"
+
+#: lib/admin_menu.php:2140 lib/admin_menu.php:2206 lib/admin_menu.php:2270
+#: lib/admin_menu.php:2333 lib/admin_menu.php:2396 lib/admin_menu.php:2461
+#: lib/admin_menu.php:2526 lib/admin_menu.php:2590 lib/admin_menu.php:2654
+#: lib/admin_menu.php:2723 lib/admin_menu.php:2788 lib/admin_menu.php:2853
+#: lib/admin_menu.php:2921 lib/admin_menu.php:2985 lib/admin_menu.php:3052
+#: lib/admin_menu.php:3115 lib/admin_menu.php:3178 lib/admin_menu.php:3242
+#, fuzzy
+msgid "new new job's title"
+msgstr "nowa nowa nazwa stanowiska"
+
+#: lib/admin_menu.php:2141 lib/admin_menu.php:2207 lib/admin_menu.php:2271
+#: lib/admin_menu.php:2334 lib/admin_menu.php:2397 lib/admin_menu.php:2462
+#: lib/admin_menu.php:2527 lib/admin_menu.php:2591 lib/admin_menu.php:2655
+#: lib/admin_menu.php:2724 lib/admin_menu.php:2789 lib/admin_menu.php:2854
+#: lib/admin_menu.php:2922 lib/admin_menu.php:2986 lib/admin_menu.php:3053
+#: lib/admin_menu.php:3116 lib/admin_menu.php:3179 lib/admin_menu.php:3243
+#, fuzzy
+msgid "link for the new job"
+msgstr "link do nowej pracy"
+
+#: lib/admin_menu.php:2163
+#, fuzzy
+msgid ""
+"This email will be received by the bidder/provider after the owner of the "
+"jobs accepts the project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten e-mail zostanie otrzymany przez oferenta/wykonawcę po tym, jak "
+"właściciel zlecenia zaakceptuje projekt jako dostarczony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję zezwalaj na znaczniki HTML ustawioną na tak.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2201 lib/admin_menu.php:2328
+#, fuzzy
+msgid "Bidder's Username"
+msgstr "Nazwa użytkownika oferenta"
+
+#: lib/admin_menu.php:2228
+#, fuzzy
+msgid ""
+"This email will be received by the owner of the project when the provider "
+"marks the project as completed.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Tę wiadomość e-mail otrzyma właściciel projektu, gdy dostawca oznaczy "
+"projekt jako zakończony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego maila, musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2291
+#, fuzzy
+msgid ""
+"This email will be received by the provider/bidder when he marks the project "
+"as completed.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten e-mail otrzyma dostawca/oferent, gdy oznaczy projekt jako zakończony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego maila, musisz "
+"mieć opcję zezwalaj na znaczniki HTML ustawioną na tak.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści maila."
+
+#: lib/admin_menu.php:2354
+#, fuzzy
+msgid ""
+"This email will be received by any user when another user sends a private "
+"message.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez każdego użytkownika, gdy inny użytkownik "
+"wyśle prywatną wiadomość.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego maila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2398
+#, fuzzy
+msgid "sender username"
+msgstr "nazwa użytkownika nadawcy"
+
+#: lib/admin_menu.php:2399
+#, fuzzy
+msgid "receiver username"
+msgstr "nazwa użytkownika odbiorcy"
+
+#: lib/admin_menu.php:2419
+#, fuzzy
+msgid ""
+"This email will be received by the freshly rated user.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez świeżo ocenionego użytkownika.\n"
+"          Pamiętaj, że jeśli dodasz znaczniki html do tego maila musisz mieć "
+"opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2456 lib/admin_menu.php:2521 lib/admin_menu.php:2585
+#, fuzzy
+msgid "Winner Bidder's Username"
+msgstr "Nazwa użytkownika zwycięzcy licytacji"
+
+#: lib/admin_menu.php:2463
+#, fuzzy
+msgid "rating value"
+msgstr "wartość ratingowa"
+
+#: lib/admin_menu.php:2464
+#, fuzzy
+msgid "rating comment"
+msgstr "komentarz oceniający"
+
+#: lib/admin_menu.php:2483
+#, fuzzy
+msgid ""
+"This email will be received by the project owner after he awards the project "
+"to a certain bidder.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez właściciela projektu po przyznaniu "
+"projektu określonemu oferentowi.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2528 lib/admin_menu.php:2592 lib/admin_menu.php:2659
+#, fuzzy
+msgid "winner bid value"
+msgstr "wartość oferty zwycięzcy"
+
+#: lib/admin_menu.php:2529
+#, fuzzy
+msgid "winner bidder username"
+msgstr "zwycięzca licytujący nazwa użytkownika"
+
+#: lib/admin_menu.php:2548
+#, fuzzy
+msgid ""
+"This email will be received by the winner bidder when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie otrzymany przez zwycięzcę licytacji, gdy projekt zostanie "
+"wygrany.\n"
+"          Pamiętaj, że jeśli dodasz znaczniki html do tego emaila musisz "
+"mieć ustawioną opcję allow HTML tags na yes.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2612
+#, fuzzy
+msgid ""
+"This email will be received by the loser bidders when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten e-mail zostanie otrzymany przez przegranych oferentów, gdy projekt "
+"zostanie wygrany.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:2649
+#, fuzzy
+msgid "Loser Bidder's Username"
+msgstr "Nazwa użytkownika oferenta, który przegrał przetarg"
+
+#: lib/admin_menu.php:2656 lib/admin_menu.php:2855 lib/admin_menu.php:2924
+#: lib/admin_menu.php:2988
+#, fuzzy
+msgid "the bid value"
+msgstr "wartość oferty"
+
+#: lib/admin_menu.php:2658
+#, fuzzy
+msgid "winner bid username"
+msgstr "oferta zwycięzcy nazwa użytkownika"
+
+#: lib/admin_menu.php:2680
+#, fuzzy
+msgid ""
+"This email will be received by the message owner when the project owner "
+"posts a new message on the private messaging board.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez właściciela wiadomości, gdy właściciel "
+"projektu napisze nową wiadomość na prywatnym forum wiadomości.\n"
+"          Pamiętaj, jeśli dodajesz znaczniki html do tego emaila musisz mieć "
+"opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2717
+#, fuzzy
+msgid "Receiver Username"
+msgstr "Nazwa użytkownika odbiorcy"
+
+#: lib/admin_menu.php:2718 lib/admin_menu.php:2782
+#, fuzzy
+msgid "Job Owner Username"
+msgstr "Nazwa użytkownika właściciela pracy"
+
+#: lib/admin_menu.php:2745
+#, fuzzy
+msgid ""
+"This email will be received by the owner of a project when someone is "
+"posting a new message on the private messaging board.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez właściciela projektu, gdy ktoś napisze "
+"nową wiadomość na prywatnym forum dyskusyjnym.\n"
+"          Pamiętaj, jeśli dodajesz znaczniki html do tego maila musisz mieć "
+"opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2783
+#, fuzzy
+msgid "Message Owner Username"
+msgstr "Właściciel wiadomości Nazwa użytkownika"
+
+#: lib/admin_menu.php:2811
+#, fuzzy
+msgid ""
+"This email will be received by the bidder when he posts a bid for a "
+"project.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten e-mail zostanie otrzymany przez oferenta, gdy złoży on ofertę na "
+"projekt.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2848
+#, fuzzy
+msgid "Job Bidder's Username"
+msgstr "Nazwa użytkownika oferenta pracy"
+
+#: lib/admin_menu.php:2878
+#, fuzzy
+msgid ""
+"This email will be received by the project owner when he pays the service "
+"provider.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten e-mail otrzyma właściciel projektu, gdy zapłaci usługodawcy.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego maila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:2923 lib/admin_menu.php:2987
+#, fuzzy
+msgid "the bidder username"
+msgstr "nazwa użytkownika oferenta"
+
+#: lib/admin_menu.php:2942
+#, fuzzy
+msgid ""
+"This email will be received by the project owner whenever a user bids for "
+"his project.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email będzie otrzymywany przez właściciela projektu za każdym razem, gdy "
+"użytkownik złoży ofertę na jego projekt.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3010
+#, fuzzy
+msgid ""
+"This email will be received by your users after posting a new job on your "
+"website if the project is automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie otrzymany przez użytkowników po umieszczeniu nowej pracy "
+"na Twojej stronie, jeśli projekt zostanie automatycznie zatwierdzony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3047
+#, fuzzy
+msgid "username"
+msgstr "użytkownika"
+
+#: lib/admin_menu.php:3073
+#, fuzzy
+msgid ""
+"This email will be received by your users after posting a new job on your "
+"website if the project is not automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie otrzymany przez twoich użytkowników po umieszczeniu nowej "
+"pracy na twojej stronie, jeśli projekt nie zostanie automatycznie "
+"zatwierdzony.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3110
+#, fuzzy
+msgid "project owner username"
+msgstr "nazwa użytkownika właściciela projektu"
+
+#: lib/admin_menu.php:3137
+#, fuzzy
+msgid ""
+"This email will be received by the admin when someone posts a project on the "
+"website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez administratora, gdy ktoś umieści na "
+"stronie projekt do zatwierdzenia.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3201
+#, fuzzy
+msgid ""
+"This email will be received by the admin when someone posts a project on the "
+"website website. This email will be received if the the project is not "
+"automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie otrzymany przez administratora, gdy ktoś zamieści projekt "
+"na stronie internetowej. Ten email zostanie otrzymany jeśli projekt nie "
+"zostanie automatycznie zatwierdzony.\n"
+"          Bądź świadomy, jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję zezwalaj na znaczniki HTML ustawioną na tak.\n"
+"          Również na dole możesz zobaczyć listę znaczników, których możesz "
+"użyć w treści emaila."
+
+#: lib/admin_menu.php:3299
+#, fuzzy
+msgid ""
+"This email will be received by all new users who register on your website.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email otrzymają wszyscy nowi użytkownicy, którzy zarejestrują się na "
+"Twojej stronie.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3330 lib/admin_menu.php:3384
+#, fuzzy
+msgid "your new username"
+msgstr "twoja nowa nazwa użytkownika"
+
+#: lib/admin_menu.php:3331 lib/admin_menu.php:3385
+#, fuzzy
+msgid "your new user's email"
+msgstr "adres e-mail nowego użytkownika"
+
+#: lib/admin_menu.php:3332
+#, fuzzy
+msgid "your new user's password"
+msgstr "hasło nowego użytkownika"
+
+#: lib/admin_menu.php:3354
+#, fuzzy
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"Ten email zostanie odebrany przez administratora, gdy nowy użytkownik "
+"zarejestruje się na stronie.\n"
+"          Pamiętaj, że jeśli dodajesz znaczniki html do tego emaila musisz "
+"mieć opcję allow HTML tags ustawioną na yes.\n"
+"          Również na dole możesz zobaczyć listę tagów, których możesz użyć w "
+"treści emaila."
+
+#: lib/admin_menu.php:3509
+#, fuzzy
+msgid "HomePage"
+msgstr "Strona główna"
+
+#: lib/admin_menu.php:3510
+#, fuzzy
+msgid "Header"
+msgstr "Nagłówek"
+
+#: lib/admin_menu.php:3511
+#, fuzzy
+msgid "Footer"
+msgstr "Stopka"
+
+#: lib/admin_menu.php:3512
+#, fuzzy
+msgid "Change Colors"
+msgstr "Zmiana kolorów"
+
+#: lib/admin_menu.php:3545
+#, fuzzy
+msgid "Color for background:"
+msgstr "Kolor tła:"
+
+#: lib/admin_menu.php:3555
+#, fuzzy
+msgid "Color for footer:"
+msgstr "Kolor dla stopki:"
+
+#: lib/admin_menu.php:3562
+#, fuzzy
+msgid "Color for top links:"
+msgstr "Kolor dla górnych linków:"
+
+#: lib/admin_menu.php:3570
+#, fuzzy
+msgid "Main Color Buttons:"
+msgstr "Kolor główny Przyciski:"
+
+#: lib/admin_menu.php:3578
+#, fuzzy
+msgid "Text Color Button:"
+msgstr "Kolor tekstu Przycisk:"
+
+#: lib/admin_menu.php:3585
+#, fuzzy
+msgid "Main Color Buttons(hover):"
+msgstr "Kolor główny Przyciski (hover):"
+
+#: lib/admin_menu.php:3591
+#, fuzzy
+msgid "Text Color Button(hover):"
+msgstr "Kolor tekstu Button(hover):"
+
+#: lib/admin_menu.php:3602
+#, fuzzy
+msgid "Color for links:"
+msgstr "Kolor dla linków:"
+
+#: lib/admin_menu.php:3608
+#, fuzzy
+msgid "Color for links(hover):"
+msgstr "Kolor dla linków (hover):"
+
+#: lib/admin_menu.php:3655
+#, fuzzy
+msgid "Enable Big Text:"
+msgstr "Włącz opcję Duży tekst:"
+
+#: lib/admin_menu.php:3662
+#, fuzzy
+msgid "Big Text Caption:"
+msgstr "Big Text Caption:"
+
+#: lib/admin_menu.php:3668
+#, fuzzy
+msgid "Color for big text:"
+msgstr "Kolor dla dużego tekstu:"
+
+#: lib/admin_menu.php:3678
+#, fuzzy
+msgid "Enable Sub Text:"
+msgstr "Włącz Subtekst:"
+
+#: lib/admin_menu.php:3685
+#, fuzzy
+msgid "Sub Text Caption:"
+msgstr "Sub Text Caption:"
+
+#: lib/admin_menu.php:3691
+#, fuzzy
+msgid "Color for sub text:"
+msgstr "Kolor dla tekstu podrzędnego:"
+
+#: lib/admin_menu.php:3704
+#, fuzzy
+msgid "Button Left Text Caption:"
+msgstr "Button Left Text Caption:"
+
+#: lib/admin_menu.php:3710
+#, fuzzy
+msgid "Button Left Link:"
+msgstr "Przycisk Lewy Link:"
+
+#: lib/admin_menu.php:3717
+#, fuzzy
+msgid "Button Right Text Caption:"
+msgstr "Button Right Text Caption:"
+
+#: lib/admin_menu.php:3723
+#, fuzzy
+msgid "Button Right Link:"
+msgstr "Przycisk Prawy Link:"
+
+#: lib/admin_menu.php:3733
+#, fuzzy
+msgid "HomePage Right Hand Image:"
+msgstr "Prawa strona główna Obrazek:"
+
+#: lib/admin_menu.php:3812 lib/admin_menu.php:3841
+#, fuzzy
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr "Na przykład: http://your-site-url.com/images/logo.jpg"
+
+#: lib/admin_menu.php:3813
+#, fuzzy
+msgid "Logo URL (homepage):"
+msgstr "URL logo (strona główna):"
+
+#: lib/admin_menu.php:3817 lib/admin_menu.php:3846
+#, fuzzy
+msgid "Upload/Select Logo File"
+msgstr "Prześlij/wybierz plik logo"
+
+#: lib/admin_menu.php:3825 lib/admin_menu.php:3854
+#, fuzzy
+msgid "By default is set to 35"
+msgstr "Domyślnie ustawiona jest na 35"
+
+#: lib/admin_menu.php:3826
+#, fuzzy
+msgid "Logo height (homepage):"
+msgstr "Wysokość logo (strona główna):"
+
+#: lib/admin_menu.php:3842
+#, fuzzy
+msgid "Logo URL (inner pages):"
+msgstr "Adres URL logo (strony wewnętrzne):"
+
+#: lib/admin_menu.php:3855
+#, fuzzy
+msgid "Logo height (inner pages):"
+msgstr "Wysokość logo (strony wewnętrzne):"
+
+#: lib/admin_menu.php:3882
+#, fuzzy
+msgid "This will appear in the left side of the footer area."
+msgstr "Pojawi się on w lewej części stopki."
+
+#: lib/admin_menu.php:3883
+#, fuzzy
+msgid "Left side footer area content:"
+msgstr "Zawartość lewego obszaru stopki:"
+
+#: lib/admin_menu.php:3889
+#, fuzzy
+msgid "This will appear in the right side of the footer area."
+msgstr "Pojawi się on w prawej części stopki."
+
+#: lib/admin_menu.php:3890
+#, fuzzy
+msgid "Right side footer area content:"
+msgstr "Zawartość prawego obszaru stopki:"
+
+#: lib/admin_menu.php:3916
+#, fuzzy
+msgid "Comma (,)"
+msgstr "Przecinek (,)"
+
+#: lib/admin_menu.php:3916
+#, fuzzy
+msgid "Point (.)"
+msgstr "Punkt (.)"
+
+#: lib/admin_menu.php:3917
+#, fuzzy
+msgid "In front of sum (eg: $50)"
+msgstr "Przed sumą (np.: 50$)"
+
+#: lib/admin_menu.php:3917
+#, fuzzy
+msgid "After the sum (eg: 50$)"
+msgstr "Po podaniu kwoty (np.: 50$)"
+
+#: lib/admin_menu.php:3918
+#, fuzzy
+msgid "Site Payments - escrow"
+msgstr "Płatności na rzecz zakładu - depozyt"
+
+#: lib/admin_menu.php:3918
+#, fuzzy
+msgid "Bill Invoice Model - Pay just commissions"
+msgstr "Model fakturowy - Płać tylko za prowizje"
+
+#: lib/admin_menu.php:4002
+#, fuzzy
+msgid "Main Details"
+msgstr "Główne szczegóły"
+
+#: lib/admin_menu.php:4003
+#, fuzzy
+msgid "Job Fees"
+msgstr "Opłaty za pracę"
+
+#: lib/admin_menu.php:4013
+#, fuzzy
+msgid "Working Model:"
+msgstr "Model roboczy:"
+
+#: lib/admin_menu.php:4022
+#, fuzzy
+msgid "Site currency:"
+msgstr "Waluta strony:"
+
+#: lib/admin_menu.php:4029
+#, fuzzy
+msgid "Currency symbol:"
+msgstr "Symbol waluty:"
+
+#: lib/admin_menu.php:4035
+#, fuzzy
+msgid "Currency symbol position:"
+msgstr "Symbol waluty:"
+
+#: lib/admin_menu.php:4042
+#, fuzzy
+msgid "Decimals sum separator:"
+msgstr "Separator sumy dziesiętnej:"
+
+#: lib/admin_menu.php:4048
+#, fuzzy
+msgid "Thousands sum separator:"
+msgstr "Separator sumy tysięcy:"
+
+#: lib/admin_menu.php:4077
+#, fuzzy
+msgid "Base Listing Fee:"
+msgstr "Opłata bazowa:"
+
+#: lib/admin_menu.php:4084
+#, fuzzy
+msgid "Featured Job Fee:"
+msgstr "Featured Job Fee:"
+
+#: lib/admin_menu.php:4091
+#, fuzzy
+msgid "Sealed Proposals Fee:"
+msgstr "Sealed Proposals Fee:"
+
+#: lib/admin_menu.php:4098
+#, fuzzy
+msgid "Private Job Fee:"
+msgstr "Opłata za pracę prywatną:"
+
+#: lib/admin_menu.php:4107
+#, fuzzy
+msgid "Tax #1 Value: "
+msgstr "Tax #1 Value"
+
+#: lib/admin_menu.php:4114
+#, fuzzy
+msgid "Tax #1 Name: "
+msgstr "Tax #1 Name"
+
+#: lib/admin_menu.php:4121
+#, fuzzy
+msgid "Fee Taken out of Each Job: "
+msgstr "Opłata pobierana z każdej pracy"
+
+#: lib/admin_menu.php:4128
+#, fuzzy
+msgid "Fee Taken out of Each Job(transporter): "
+msgstr "Opłata pobierana od każdego zlecenia (przewoźnika)"
+
+#: lib/admin_menu.php:4138
+#, fuzzy
+msgid "Minimum Withdraw:"
+msgstr "Minimalna wypłata:"
+
+#: lib/admin_menu.php:4246
+#, fuzzy
+msgid "Bank Payment(offline)"
+msgstr "Płatność bankowa (offline)"
+
+#: lib/admin_menu.php:4257 lib/admin_menu.php:4294 lib/admin_menu.php:4323
+#: lib/admin_menu.php:4357
+#, fuzzy
+msgid "Enable:"
+msgstr "Włącz:"
+
+#: lib/admin_menu.php:4263
+#, fuzzy
+msgid "PayPal Enable Sandbox:"
+msgstr "PayPal Enable Sandbox:"
+
+#: lib/admin_menu.php:4269
+#, fuzzy
+msgid "PayPal Email Address:"
+msgstr "Adres e-mail PayPal"
+
+#: lib/admin_menu.php:4300
+#, fuzzy
+msgid "Payza/Alertpay Email:"
+msgstr "Payza/Alertpay Email:"
+
+#: lib/admin_menu.php:4329
+#, fuzzy
+msgid "Skrill Email:"
+msgstr "Skrill Email:"
+
+#: lib/admin_menu.php:4363
+#, fuzzy
+msgid "Your Bank Details:"
+msgstr "Twoje dane bankowe:"
+
+#: lib/admin_menu.php:5141
+#, fuzzy
+msgid "Main Information"
+msgstr "Główne informacje"
+
+#: lib/admin_menu.php:5142
+#, fuzzy
+msgid "From SiteMile Blog"
+msgstr "Z bloga SiteMile"
+
+#: lib/admin_menu.php:5151
+#, fuzzy
+msgid "shipme Version:"
+msgstr "shipme Version:"
+
+#: lib/admin_menu.php:5156
+#, fuzzy
+msgid "shipme Latest Release:"
+msgstr "shipme Latest Release:"
+
+#: lib/admin_menu.php:5161
+#, fuzzy
+msgid "WordPress Version:"
+msgstr "Wersja WordPress:"
+
+#: lib/admin_menu.php:5167
+#, fuzzy
+msgid "Go to SiteMile official page:"
+msgstr "Przejdź do oficjalnej strony SiteMile:"
+
+#: lib/admin_menu.php:5172
+#, fuzzy
+msgid "Go to Job official page:"
+msgstr "Przejdź do oficjalnej strony Job:"
+
+#: lib/admin_menu.php:5177
+#, fuzzy
+msgid "Go to support forums:"
+msgstr "Przejdź do forum wsparcia:"
+
+#: lib/admin_menu.php:5182
+#, fuzzy
+msgid "Contact SiteMile Team:"
+msgstr "Skontaktuj się z zespołem SiteMile:"
+
+#: lib/admin_menu.php:5187
+#, fuzzy
+msgid "Like us on Facebook:"
+msgstr "Polub nas na Facebooku:"
+
+#: lib/admin_menu.php:5193
+#, fuzzy
+msgid "Follow us on Twitter:"
+msgstr "Śledź nas na Twitterze:"
+
+#: lib/admin_menu.php:5680
+#, fuzzy
+msgid "All Private Messages"
+msgstr "Wszystkie wiadomości"
+
+#: lib/admin_menu.php:5711
+#, fuzzy
+msgid "The message has been approved."
+msgstr "Wiadomość została zatwierdzona."
+
+#: lib/admin_menu.php:5721
+#, fuzzy
+msgid "Are you sure you want to approve this message?"
+msgstr "Czy na pewno chcesz zatwierdzić tę wiadomość?"
+
+#: lib/admin_menu.php:5722
+#, fuzzy
+msgid "Yes, Approve!"
+msgstr "Tak, zatwierdzić!"
+
+#: lib/admin_menu.php:5783 lib/admin_menu.php:5913
+#, fuzzy
+msgid "Sender"
+msgstr "Nadawca"
+
+#: lib/admin_menu.php:5784 lib/admin_menu.php:5914
+#, fuzzy
+msgid "Receiver"
+msgstr "Odbiorca"
+
+#: lib/admin_menu.php:5785 lib/admin_menu.php:5915
+#, fuzzy
+msgid "Subject"
+msgstr "Temat"
+
+#: lib/admin_menu.php:5786 lib/admin_menu.php:5916
+#, fuzzy
+msgid "Sent On"
+msgstr "Wysłane"
+
+#: lib/admin_menu.php:5815 lib/admin_menu.php:5949
+#, fuzzy
+msgid "Approve"
+msgstr "Zatwierdź"
+
+#: lib/admin_menu.php:5822 lib/admin_menu.php:5956
+#, fuzzy, php-format
+msgid "File Attached: %s"
+msgstr "W załączeniu plik: %s"
+
+#: lib/admin_menu.php:5839 lib/transporters_page.php:156
+#: template-parts/advanced-search/transporters-search.php:192
+#, fuzzy
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: lib/admin_menu.php:5859 lib/transporters_page.php:172
+#: template-parts/advanced-search/transporters-search.php:208
+#, fuzzy
+msgid "Next"
+msgstr "Następny"
+
+#: lib/admin_menu.php:5869
+#, fuzzy
+msgid "There are no private messages."
+msgstr "Nie ma wiadomości"
+
+#: lib/admin_menu.php:6341
+#, fuzzy
+msgid "Filter Email Addresses (private messages):"
+msgstr "Filtruj adresy e-mail (prywatne wiadomości):"
+
+#: lib/admin_menu.php:6347
+#, fuzzy
+msgid "Filter URLs (private messages):"
+msgstr "Filtruj adresy URL (prywatne wiadomości):"
+
+#: lib/admin_menu.php:6371
+#, fuzzy
+msgid "Enable Facebook Login:"
+msgstr "Włącz opcję Facebook Login:"
+
+#: lib/admin_menu.php:6377
+#, fuzzy
+msgid "Facebook App ID:"
+msgstr "Facebook App ID:"
+
+#: lib/admin_menu.php:6383
+#, fuzzy
+msgid "Facebook Secret Key:"
+msgstr "Facebook Secret Key:"
+
+#: lib/admin_menu.php:6403
+#, fuzzy
+msgid "Enable Twitter Login:"
+msgstr "Włącz logowanie na Twitterze:"
+
+#: lib/admin_menu.php:6409
+#, fuzzy
+msgid "Twitter Consumer Key:"
+msgstr "Twitter Consumer Key:"
+
+#: lib/admin_menu.php:6415
+#, fuzzy
+msgid "Twitter Consumer Secret:"
+msgstr "Tajemnica konsumenta na Twitterze:"
+
+#: lib/admin_menu.php:6422
+#, fuzzy
+msgid "Callback URL:"
+msgstr "URL zwrotny:"
+
+#: lib/choose_winner.php:146
+#, fuzzy, php-format
+msgid "Choose Winner for your job: %s"
+msgstr "Wybierz zwycięzcę dla swojej pracy: %s"
+
+#: lib/choose_winner.php:169
+#, fuzzy, php-format
+msgid "You are about to choose a winner for your job: %s"
+msgstr "Za chwilę wybierzesz zwycięzcę dla swojej pracy: %s"
+
+#: lib/choose_winner.php:177
+#, fuzzy
+msgid "Yes, Choose winner Now!"
+msgstr "Tak, wybierz zwycięzcę teraz!"
+
+#: lib/choose_winner.php:182
+#, fuzzy
+msgid "You have to pay the commission fee before chosing the winner"
+msgstr "Musisz zapłacić opłatę prowizyjną przed wyborem zwycięzcy"
+
+#: lib/first_run.php:87
+#, fuzzy
+msgid "Transporters"
+msgstr "Transportery"
+
+#: lib/gateways/credits_listing.php:21
+#, fuzzy
+msgid "Pay by Virtual Currency"
+msgstr "Płać wirtualną walutą"
+
+#: lib/gateways/credits_listing.php:155
+#, fuzzy
+msgid "Hide Project From Search Engines Fee"
+msgstr "Ukryj projekt przed wyszukiwarkami Opłata"
+
+#: lib/gateways/credits_listing.php:188
+#, fuzzy, php-format
+msgid "List Item - %s"
+msgstr "Pozycja listy - %s"
+
+#: lib/gateways/credits_listing.php:241
+#, fuzzy
+msgid "You do not have enough credits to pay for listing this project."
+msgstr ""
+"Nie masz wystarczającej ilości kredytów, aby zapłacić za umieszczenie tego "
+"projektu na liście."
+
+#: lib/gateways/credits_listing.php:250 lib/gateways/credits_listing.php:409
+#, fuzzy
+msgid "Add More Credits"
+msgstr "Dodaj więcej kredytów"
+
+#: lib/gateways/credits_listing.php:268
+#, fuzzy, php-format
+msgid "Listing payment for job <a href=\"%s\">%s</a>"
+msgstr "Wyszczególnienie płatności za pracę <a href=\"%s\">%s</a>"
+
+#: lib/gateways/credits_listing.php:351
+#, fuzzy, php-format
+msgid "Your payment has been sent. Return to <a href=\"%s\">your account</a>."
+msgstr ""
+"Twoja płatność została wysłana. Wróć do <a href=\"%s\">swojego konta</a>."
+
+#: lib/gateways/credits_listing.php:387
+#, fuzzy
+msgid "Total to Pay"
+msgstr "Razem do zapłaty"
+
+#: lib/gateways/credits_listing.php:397
+#, fuzzy
+msgid "Your credits amount"
+msgstr "Kwota Twoich kredytów"
+
+#: lib/gateways/credits_listing.php:398
+#: template-parts/user-area/my-account/finances.php:153
+#: template-parts/user-area/my-account/finances.php:212
+#: template-parts/user-area/my-account/finances.php:774
+#: template-parts/user-area/my-account/finances.php:800
+#, fuzzy
+msgid "Pay Now"
+msgstr "Zapłać teraz"
+
+#: lib/gateways/mb_deposit_pay.php:30
+#, fuzzy
+msgid "Please wait, your order is being processed..."
+msgstr "Proszę poczekać twoje zamówienie jest realizowane"
+
+#: lib/gateways/mb_deposit_response.php:27
+#, fuzzy
+msgid "Deposit through Skrill."
+msgstr "Wpłata przez Skrill."
+
+#: lib/gateways/pay_for_winner_paypal.php:61
+#, fuzzy
+msgid "Payment for winner"
+msgstr "Płatność dla zwycięzcy"
+
+#: lib/gateways/paypal_deposit_pay.php:47
+#, fuzzy
+msgid "Payment Deposit"
+msgstr "Płatność Depozyt"
+
+#: lib/gateways/paypal_deposit_pay.php:118
+#: lib/gateways/paypal_escrow_pay.php:88
+#, fuzzy
+msgid "Deposit through PayPal."
+msgstr "Wpłata przez PayPal."
+
+#: lib/gateways/paypal_deposit_pay.php:121
+#: lib/gateways/paypal_escrow_pay.php:91
+#, fuzzy
+msgid "PayPal fee."
+msgstr "Opłata PayPal."
+
+#: lib/gateways/paypal_escrow_pay.php:55
+#, fuzzy, php-format
+msgid "Payment for escrow order %s"
+msgstr "Płatność za zlecenie depozytowe %s"
+
+#: lib/gateways/paypal_listing.php:63
+#, fuzzy
+msgid "Cost for base fee"
+msgstr "Koszt opłaty podstawowej"
+
+#: lib/gateways/paypal_listing.php:98
+#, fuzzy
+msgid "Cost to make job featured"
+msgstr "Koszt wykonania funkcji"
+
+#: lib/gateways/paypal_listing.php:129
+#, fuzzy
+msgid "Cost to add sealed bidding"
+msgstr "Koszt dodania przetargu zamkniętego"
+
+#: lib/get_files_panel.php:16
+#, fuzzy, php-format
+msgid "Files Uploaded: %s"
+msgstr "Przesłane pliki: %s"
+
+#: lib/get_files_panel.php:53
+#, fuzzy
+msgid "There are no files attached."
+msgstr "Nie dołączono żadnych plików."
+
+#: lib/login_register/login.php:78 lib/login_register/login.php:280
+#: lib/login_register/login.php:293 template-parts/login-register/login.php:34
+#: template-parts/login-register/login.php:44
+#, fuzzy
+msgid "Sorry, that key does not appear to be valid."
+msgstr "Przepraszamy, ten klucz nie jest prawidłowy."
+
+#: lib/login_register/login.php:86 lib/login_register/login.php:99
+#: lib/login_register/login.php:142
+#, fuzzy
+msgid "Retrieve Password"
+msgstr "Odzyskaj hasło"
+
+#: lib/login_register/login.php:128
+#, fuzzy
+msgid "Please enter your information here. We will send you a new password."
+msgstr "Proszę podać wymagane info a my wyślemy ci nowe hasło."
+
+#: lib/login_register/login.php:134
+#, fuzzy
+msgid "Username or Email:"
+msgstr "Użytkownik lub Email:"
+
+#: lib/login_register/login.php:151 lib/login_register/login.php:529
+#: lib/login_register/register.php:202
+#, fuzzy
+msgid "Are you lost?"
+msgstr "Zgubiłeś się?"
+
+#: lib/login_register/login.php:153 lib/login_register/login.php:531
+#: lib/login_register/register.php:82 lib/login_register/register.php:94
+#: lib/login_register/register.php:195
+#: template-parts/general-stuff/general-design-parts.php:381
+#: template-parts/login-register/register.php:114
+#, fuzzy
+msgid "Register"
+msgstr "Zarejestruj się"
+
+#: lib/login_register/login.php:155 lib/login_register/login.php:403
+#: lib/login_register/login.php:417 lib/login_register/register.php:68
+#: lib/login_register/register.php:203
+#: template-parts/general-stuff/general-design-parts.php:378
+#, fuzzy
+msgid "Login"
+msgstr "Zaloguj się"
+
+#: lib/login_register/login.php:179 lib/login_register/login.php:201
+#, fuzzy
+msgid "Retrieve Error"
+msgstr "Prześledź błąd"
+
+#: lib/login_register/login.php:206
+#, fuzzy, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+"Przepraszamy, ten użytkownik nie istnieje w naszej bazie danych. Być może "
+"podałeś niewłaściwą nazwę użytkownika lub adres e-mail? <a href=\"%s"
+"\">Spróbuj ponownie</a>."
+
+#: lib/login_register/login.php:227
+#, fuzzy
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+"Ktoś poprosił o zresetowanie hasła do następującej strony i nazwy "
+"użytkownika."
+
+#: lib/login_register/login.php:230
+#, fuzzy
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Aby zresetować hasło odwiedź podaną stronę. W innym przypadku zignoruj tą "
+"wiadomość i nic się nie stanie."
+
+#: lib/login_register/login.php:240
+#, fuzzy
+msgid "There Was a Problem"
+msgstr "Wystąpił błąd"
+
+#: lib/login_register/login.php:242 lib/login_register/login.php:319
+#: template-parts/login-register/login.php:65
+#, fuzzy
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Możliwa przyczyna: Twój host mógł wyłączyć funkcję mail () ..."
+
+#: lib/login_register/login.php:247
+#, fuzzy, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr "Właśnie wysłaliśmy wiadomość do %s na podany email."
+
+#: lib/login_register/login.php:248 lib/login_register/login.php:325
+#: template-parts/login-register/login.php:71
+#, fuzzy
+msgid "Check your e-mail first, of course"
+msgstr "Oczywiście najpierw sprawdź swoją pocztę elektroniczną"
+
+#: lib/login_register/login.php:249 lib/login_register/login.php:326
+#: template-parts/login-register/login.php:72
+#, fuzzy
+msgid "Click here to login!"
+msgstr "Kliknij tutaj aby się zalogować."
+
+#: lib/login_register/login.php:264
+#, fuzzy
+msgid "Key Not Valid"
+msgstr "Klucz nieważny"
+
+#: lib/login_register/login.php:279 lib/login_register/login.php:292
+#: lib/login_register/login.php:317
+#, fuzzy
+msgid "<h1>Problem</h1>"
+msgstr "<h1>Problem</h1>"
+
+#: lib/login_register/login.php:310 lib/login_register/register.php:63
+#: template-parts/login-register/login.php:56
+#, fuzzy, php-format
+msgid "Password: %s"
+msgstr "Hasło: %s"
+
+#: lib/login_register/login.php:313 template-parts/login-register/login.php:59
+#, fuzzy, php-format
+msgid "[%s] Your new password"
+msgstr "[%s] Twoje nowe hasło"
+
+#: lib/login_register/login.php:323
+#, fuzzy
+msgid "<h1>Success!</h1>"
+msgstr "<h1>Udało się!</h1>"
+
+#: lib/login_register/login.php:324 template-parts/login-register/login.php:70
+#, fuzzy
+msgid "Your new password is in the mail."
+msgstr "Wysłaliśmy ci nowe hasło emailem"
+
+#: lib/login_register/login.php:328 template-parts/login-register/login.php:74
+#, fuzzy, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr "Hasło zapomniane i zmienione przez użytkownika: %s"
+
+#: lib/login_register/login.php:329 template-parts/login-register/login.php:75
+#, fuzzy, php-format
+msgid "[%s] Password Lost/Change"
+msgstr "[%s] Hasło Zgubione/Zmienione"
+
+#: lib/login_register/login.php:427
+#, fuzzy
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+"Na Twój adres e-mail została wysłana wiadomość z potwierdzeniem<br/>\n"
+"\t\t\t\t\tProszę postępować zgodnie z instrukcjami zawartymi w wiadomości i "
+"wrócić na tę stronę."
+
+#: lib/login_register/login.php:496 lib/login_register/register.php:123
+#, fuzzy
+msgid "Username:"
+msgstr "Nazwa użytkownika:"
+
+#: lib/login_register/login.php:501 lib/login_register/register.php:133
+#: template-parts/user-area/my-account/profile-settings.php:224
+#, fuzzy
+msgid "Password:"
+msgstr "Hasło:"
+
+#: lib/login_register/login.php:507 template-parts/login-register/login.php:286
+#, fuzzy
+msgid "Keep me logged in"
+msgstr "Zapamiętaj mnie"
+
+#: lib/login_register/login.php:515
+#, fuzzy
+msgid "Sign in"
+msgstr "Zaloguj"
+
+#: lib/login_register/login.php:534
+#, fuzzy
+msgid "Password Lost and Found"
+msgstr "Zapomniane hasło"
+
+#: lib/login_register/login.php:534 lib/login_register/register.php:204
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Zapomniałeś hasła?"
+
+#: lib/login_register/register.php:50 lib/login_register/register.php:60
+#: template-parts/login-register/register.php:19
+#, fuzzy
+msgid "Registration Complete"
+msgstr "Rejestracja Ukończona "
+
+#: lib/login_register/register.php:63
+#, fuzzy
+msgid "emailed to you"
+msgstr "wysłane emailem"
+
+#: lib/login_register/register.php:64
+#, fuzzy, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: lib/login_register/register.php:65
+#, fuzzy
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+"Proszę sprawdzić <strong>spam</strong> jeśli email potwierdzający "
+"rejestrację nie dotrze do ciebie w ciągu 5 minut."
+
+#: lib/login_register/register.php:128
+#, fuzzy
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: lib/login_register/register.php:138
+#, fuzzy
+msgid "Confirm Password:"
+msgstr "Potwierdź hasło:"
+
+#: lib/login_register/register.php:153
+#: template-parts/user-area/my-account/profile-settings.php:240
+#, fuzzy
+msgid "PayPal E-mail:"
+msgstr "PayPal E-mail:"
+
+#: lib/login_register/register.php:170
+#, fuzzy
+msgid "Shipping address:"
+msgstr "Adres wysyłki:"
+
+#: lib/login_register/register.php:178
+#, fuzzy
+msgid "User Type:"
+msgstr "Typ użytkownika:"
+
+#: lib/login_register/register.php:180
+#, fuzzy
+msgid "Contractor"
+msgstr "Podwykonastwo"
+
+#: lib/login_register/register.php:188
+#, fuzzy
+msgid "A password will be emailed to you."
+msgstr "Hasło zostanie przesłane emailem"
+
+#: lib/login_register/register.php:204
+#, fuzzy
+msgid "Password Lost?"
+msgstr "Hasło zapomniane i zmienione przez użytkownika: %s"
+
+#: lib/login_register/register.php:230 lib/login_register/register.php:242
+#, fuzzy
+msgid "Registration Disabled"
+msgstr "Rejestracja jest wyłączona"
+
+#: lib/login_register/register.php:246
+#, fuzzy
+msgid "User registration is currently not allowed."
+msgstr "Rejestracja nowych użytkowników jest obecnie wyłączona."
+
+#: lib/login_register/register.php:247
+#, fuzzy
+msgid "Go back to the blog"
+msgstr "Wróć do bloga"
+
+#: lib/login_register/register.php:275
+#: template-parts/login-register/accounts-registration.php:14
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>BŁĄD</strong>: Wprowadź nazwę użytkownika"
+
+#: lib/login_register/register.php:277
+#: template-parts/login-register/accounts-registration.php:16
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+"<strong>BŁĄD</strong>: Ta nazwa użytkownika jest nieprawidłowa, ponieważ "
+"używa niedopuszczalnych znaków. Proszę podać poprawną nazwę użytkownika."
+
+#: lib/login_register/register.php:280
+#: template-parts/login-register/accounts-registration.php:19
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>BŁĄD</strong>: Ta nazwa użytkownika jest już zarejestrowana, proszę "
+"wybrać inną."
+
+#: lib/login_register/register.php:285
+#: template-parts/login-register/accounts-registration.php:24
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>BŁĄD</strong>: Proszę o podanie Twojego adresu email."
+
+#: lib/login_register/register.php:287
+#: template-parts/login-register/accounts-registration.php:26
+#, fuzzy
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<Strong> BŁĄD </ strong>: adres e-mail jest nieprawidłowy."
+
+#: lib/login_register/register.php:290
+#: template-parts/login-register/accounts-registration.php:29
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"Strong> ERROR </ strong>: ten e-mail jest już zarejestrowany, podaj inny."
+
+#: lib/login_register/register.php:300
+#: template-parts/login-register/accounts-registration.php:39
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please type your shipping information/address."
+msgstr "<strong>BŁĄD</strong>: Proszę wpisać informacje o wysyłce/adres."
+
+#: lib/login_register/register.php:307
+#: template-parts/login-register/accounts-registration.php:46
+#, fuzzy
+msgid ""
+"<strong>ERROR</strong>: Your password needs to be longer than 5 characters."
+msgstr "<strong>ERROR</strong>: Twoje hasło musi być dłuższe niż 5 znaków."
+
+#: lib/login_register/register.php:311
+#: template-parts/login-register/accounts-registration.php:50
+#, fuzzy
+msgid "<strong>ERROR</strong>: Your password doesnt match the confirmation."
+msgstr "<strong>BŁĄD</strong>: Twoje hasło nie pasuje do potwierdzenia."
+
+#: lib/login_register/register.php:323
+#: template-parts/login-register/accounts-registration.php:62
+#, fuzzy
+msgid "<strong>ERROR</strong>: Please type your PayPal email address."
+msgstr "<strong>ERROR</strong>: Proszę wpisać swój adres e-mail PayPal."
+
+#: lib/login_register/register.php:338
+#: template-parts/login-register/accounts-registration.php:77
+#, fuzzy, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>BŁĄD</strong>: Nie można zarejestrować cię... proszę skontaktować "
+"się z <a href=\"mailto:%s\">webmasterem</a>!"
+
+#: lib/login_register/sett.php:129
+#, fuzzy
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr "Możliwa przyczyna: Twój host mógł wyłączyć funkcję mail () ..."
+
+#: lib/mark_delivered.php:69
+#, fuzzy, php-format
+msgid "Mark the project delivered: %s"
+msgstr "Oznacz projekt jako dostarczony: %s"
+
+#: lib/mark_delivered.php:88
+#, fuzzy, php-format
+msgid "You are about to mark this job as delivered: %s"
+msgstr "Właśnie oznaczasz to zadanie jako dostarczone: %s"
+
+#: lib/mark_delivered.php:89
+#, fuzzy
+msgid "The job owner will be notified to accept the delivery and get you paid."
+msgstr ""
+"Właściciel zadania zostanie powiadomiony, aby zaakceptować dostawę i "
+"otrzymać zapłatę."
+
+#: lib/mark_delivered.php:97
+#, fuzzy
+msgid "Yes, Mark Delivered!"
+msgstr "Tak, Mark Delivered!"
+
+#: lib/pay_for_choosing_winner.php:27
+#, fuzzy
+msgid "Pay before choosing a winner"
+msgstr "Zapłać przed wybraniem zwycięzcy"
+
+#: lib/pay_for_choosing_winner.php:34
+#, fuzzy, php-format
+msgid ""
+"Use the payment methods below to pay for the fee. Total amount is: <b>%s</b>"
+msgstr ""
+"Użyj poniższych metod płatności, aby zapłacić za opłatę. Całkowita kwota "
+"wynosi <b>%s</b>"
+
+#: lib/pay_for_choosing_winner.php:44 template-parts/post-new/post-new.php:1521
+#: template-parts/user-area/my-account/finances.php:71
+#: template-parts/user-area/my-account/finances.php:724
+#, fuzzy
+msgid "Pay by PayPal"
+msgstr "Zapłać przez PayPal"
+
+#: lib/transporters_page.php:178
+#, fuzzy
+msgid "No service providers found for this query."
+msgstr "Nie znaleziono usługodawców dla tego zapytania."
+
+#: lib/user-feedback.php:11
+#, fuzzy
+msgid "User Feedback"
+msgstr "Opinie użytkownika"
+
+#: lib/user-feedback.php:20
+#, fuzzy, php-format
+msgid "User Feedback - %s"
+msgstr "Opinie użytkowników - %s"
+
+#: lib/user-feedback.php:66
+#: template-parts/user-area/my-account/finances.php:131
+#: template-parts/user-area/my-account/finances.php:192
+#, fuzzy
+msgid "Project Title"
+msgstr "Tytuł projektu"
+
+#: lib/user-feedback.php:67 template-parts/user-area/my-account/reviews.php:369
+#, fuzzy
+msgid "From User"
+msgstr "Od Użytkownika"
+
+#: lib/user-feedback.php:68 template-parts/user-area/my-account/reviews.php:232
+#: template-parts/user-area/my-account/reviews.php:298
+#: template-parts/user-area/my-account/reviews.php:370
+#, fuzzy
+msgid "Aquired on"
+msgstr "Zakupione na"
+
+#: lib/user-feedback.php:100 single-job_ship.php:234 single-job_ship.php:874
+#, fuzzy
+msgid "Comment"
+msgstr "Komentarz"
+
+#: lib/user-feedback.php:114
+#, fuzzy
+msgid "This user has no reviews yet."
+msgstr "Ten użytkownik nie ma jeszcze żadnych opinii."
+
+#: lib/user-profile.php:24
+#, fuzzy
+msgid "User Profile"
+msgstr "Profil użytkownika"
+
+#: lib/user-profile.php:42
+#, fuzzy, php-format
+msgid "User Profile - %s"
+msgstr "Profil użytkownika - %s"
+
+#: lib/user-profile.php:110
+#, fuzzy
+msgid "This user does not have any jobs posted."
+msgstr "Ten użytkownik nie ma żadnych ofert pracy."
+
+#: lib/widgets/big-map-accross.php:97
+#, fuzzy
+msgid "This shows you a full width map with X number of jobs as pointers."
+msgstr ""
+"To pokazuje mapę na całej szerokości z X liczbą miejsc pracy jako "
+"wskaźnikami."
+
+#: lib/widgets/home-widget-content.php:73
+#, fuzzy
+msgid ""
+"This widget shows a text title, text content, and picture. Usually for "
+"homepage design."
+msgstr ""
+"Ten widget pokazuje tytuł tekstu, treść tekstu i obrazek. Zazwyczaj do "
+"projektowania stron głównych."
+
+#: lib/widgets/home-widget-content.php:122
+#: lib/widgets/wide-picture-accross.php:76
+#, fuzzy
+msgid "Image/Picture:"
+msgstr "Obraz/zdjęcie:"
+
+#: lib/widgets/home-widget-content.php:124
+#: lib/widgets/wide-picture-accross.php:78
+#, fuzzy
+msgid "Upload/Select File"
+msgstr "Prześlij/wybierz plik"
+
+#: lib/widgets/job-categories-text.php:106
+#, fuzzy
+msgid "This shows a widget with all categories, and subcategories."
+msgstr "To pokazuje widget z wszystkimi kategoriami i podkategoriami."
+
+#: lib/widgets/job-categories-text.php:145
+#, fuzzy
+msgid "Categories to show"
+msgstr "Kategorie do pokazania"
+
+#: lib/widgets/latest-posted-jobs-big.php:64
+#, fuzzy
+msgid "Sorry, there are no posted jobs yet."
+msgstr "Przepraszamy nie ma żadnej mikropracy."
+
+#: lib/widgets/latest-posted-jobs-big.php:78
+#, fuzzy
+msgid "This shows a widget with the latest posted jobs."
+msgstr "Wyświetla widget z ostatnio opublikowanymi ofertami pracy."
+
+#: lib/widgets/search-box-big.php:56
+#, fuzzy
+msgid "Enter Pickup City"
+msgstr "Wprowadź miasto odbioru"
+
+#: lib/widgets/search-box-big.php:66
+#, fuzzy
+msgid "Enter Drop City"
+msgstr "Wpisz miasto zrzutu"
+
+#: lib/widgets/search-box-big.php:107
+#, fuzzy
+msgid "This shows a widget with a search bar."
+msgstr "To pokazuje widżet z paskiem wyszukiwania."
+
+#: lib/widgets/wide-picture-accross.php:38
+#, fuzzy
+msgid ""
+"This widget lets you chose a picture and places an element accross the full "
+"width of the screen. Usually for homepage design."
+msgstr ""
+"Ten widget pozwala wybrać obraz i umieszcza element na całej szerokości "
+"ekranu. Zwykle do projektowania stron głównych."
+
+#: page.php:33 single-job_ship.php:146 single.php:33
+#, fuzzy, php-format
+msgid "Posted on: %s"
+msgstr "Wysłane dnia: %s"
+
+#: page.php:33 single-job_ship.php:146 single.php:33
+#, fuzzy, php-format
+msgid "ID: #%s"
+msgstr "ID: #%s"
+
+#: single-job_ship.php:52
+#, fuzzy
+msgid "Your bid must be numeric type. Eg: 9.99"
+msgstr "Twoja oferta musi być numeryczna. Na przykład: 9.99"
+
+#: single-job_ship.php:57
+#, fuzzy
+msgid "Your cannot bid your own jobs."
+msgstr "Nie możesz sam składać ofert pracy."
+
+#: single-job_ship.php:153
+#, fuzzy
+msgid "Your bid was posted successfuly. "
+msgstr "Twoja oferta została wysłana pomyślnie"
+
+#: single-job_ship.php:174
+#, fuzzy
+msgid "Your job is awaiting admin moderation."
+msgstr "Twoja praca oczekuje na moderację przez administratora."
+
+#: single-job_ship.php:192 single-job_ship.php:833
+#: template-parts/post-new/post-new.php:1169
+#, fuzzy
+msgid "Received Quotes"
+msgstr "Otrzymane Cytaty"
+
+#: single-job_ship.php:231 single-job_ship.php:871
+#, fuzzy
+msgid "Bidder"
+msgstr "Oferent"
+
+#: single-job_ship.php:233 single-job_ship.php:873
+#: template-parts/user-area/my-account/finances.php:133
+#: template-parts/user-area/my-account/finances.php:194
+#: template-parts/user-area/my-account/finances.php:522
+#, fuzzy
+msgid "Date"
+msgstr "Data"
+
+#: single-job_ship.php:236 single-job_ship.php:876
+#: template-parts/user-area/my-account/my-account.php:239
+#, fuzzy
+msgid "Actions"
+msgstr "Akcje"
+
+#: single-job_ship.php:281 single-job_ship.php:905
+#, fuzzy
+msgid "Select as Winner"
+msgstr "Wybierz jako Zwycięzcę"
+
+#: single-job_ship.php:282
+#, fuzzy, php-format
+msgid "Send Message %s"
+msgstr "Wyślij wiadomość %s"
+
+#: single-job_ship.php:293
+#, fuzzy
+msgid "Select Transporter"
+msgstr "Wybierz transporter"
+
+#: single-job_ship.php:299
+#, fuzzy, php-format
+msgid ""
+"You are about to choose %s as a winner for this job. The price quote was: %s"
+msgstr ""
+"Za chwilę wybierzesz %s jako zwycięzcę w tej pracy. Zaproponowana cena "
+"wynosiła: %s"
+
+#: single-job_ship.php:309
+#, fuzzy, php-format
+msgid "In order to choose a winner you have to pay the commission fee of %s"
+msgstr ""
+"W celu wyłonienia zwycięzcy należy uiścić opłatę prowizyjną w wysokości %s"
+
+#: single-job_ship.php:328
+#, fuzzy
+msgid "Proceed to payment"
+msgstr "Przejdź do płatności"
+
+#: single-job_ship.php:338 single-job_ship.php:1075
+#, fuzzy
+msgid "Close"
+msgstr "Zamknij"
+
+#: single-job_ship.php:339
+#, fuzzy
+msgid "Yes, Proceed"
+msgstr "Tak, Kontynuuj"
+
+#: single-job_ship.php:358 single-job_ship.php:909
+#, fuzzy
+msgid "Job Winner"
+msgstr "Laureat pracy"
+
+#: single-job_ship.php:371 single-job_ship.php:924
+#, fuzzy
+msgid "See Bid Files"
+msgstr "Zobacz dokumentację przetargową"
+
+#: single-job_ship.php:384 single-job_ship.php:937
+#, fuzzy
+msgid "No proposals placed yet."
+msgstr "Nie złożono jeszcze żadnych wniosków."
+
+#: single-job_ship.php:409 template-parts/post-new/post-new.php:758
+#, fuzzy, php-format
+msgid "%s Collection"
+msgstr "%s Kolekcja"
+
+#: single-job_ship.php:419 template-parts/post-new/post-new.php:768
+#, fuzzy, php-format
+msgid "%s Delivery"
+msgstr "%s Dostawa"
+
+#: single-job_ship.php:429 template-parts/post-new/post-new.php:778
+#, fuzzy, php-format
+msgid "%s Pickup Date"
+msgstr "%s Data odbioru"
+
+#: single-job_ship.php:438 template-parts/post-new/post-new.php:787
+#, fuzzy, php-format
+msgid "%s Delivery Date"
+msgstr "%s Data dostawy"
+
+#: single-job_ship.php:472 template-parts/post-new/post-new.php:821
+#, fuzzy, php-format
+msgid "<strong>Pickup:</strong> %s"
+msgstr "<strong>Odbiór:</strong> %s"
+
+#: single-job_ship.php:488 template-parts/post-new/post-new.php:837
+#, fuzzy, php-format
+msgid "<strong>Delivery:</strong> %s"
+msgstr "<strong>Dostawa:</strong> %s"
+
+#: single-job_ship.php:723
+#, fuzzy
+msgid "Miles"
+msgstr "Mile"
+
+#: single-job_ship.php:724
+#, fuzzy
+msgid "Km"
+msgstr "Km"
+
+#: single-job_ship.php:767 template-parts/post-new/post-new.php:1109
+#, fuzzy, php-format
+msgid "%s Distance"
+msgstr "%s Odległość"
+
+#: single-job_ship.php:779 template-parts/post-new/post-new.php:1116
+#, fuzzy, php-format
+msgid "%s Packages"
+msgstr "%s Pakiety"
+
+#: single-job_ship.php:780 template-parts/post-new/post-new.php:1117
+#, fuzzy, php-format
+msgid "%s package(s)"
+msgstr "%s pakiet(y)"
+
+#: single-job_ship.php:791 template-parts/post-new/post-new.php:1127
+#, fuzzy, php-format
+msgid "%s Weight"
+msgstr "%s Waga"
+
+#: single-job_ship.php:807 template-parts/post-new/post-new.php:1143
+#, fuzzy
+msgid "Item Main Details"
+msgstr "Główne dane przedmiotu"
+
+#: single-job_ship.php:813 template-parts/post-new/post-new.php:1149
+#, fuzzy
+msgid "There is no description attached to this job."
+msgstr "Do tego stanowiska nie jest dołączony żaden opis."
+
+#: single-job_ship.php:824 template-parts/post-new/post-new.php:1160
+#, fuzzy
+msgid "Item Other Details"
+msgstr "Pozycja Inne szczegóły"
+
+#: single-job_ship.php:825 template-parts/post-new/post-new.php:1161
+#, fuzzy
+msgid "There are no other details."
+msgstr "Nie ma żadnych innych szczegółów."
+
+#: single-job_ship.php:872
+#, fuzzy
+msgid "Budget/Price"
+msgstr "Budżet/Cena"
+
+#: single-job_ship.php:906 template-parts/user-area/my-account/messages.php:271
+#, fuzzy
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: single-job_ship.php:951 template-parts/post-new/post-new.php:1178
+#, fuzzy
+msgid "Job Public Questions"
+msgstr "Praca Pytania publiczne"
+
+#: single-job_ship.php:952 template-parts/post-new/post-new.php:1179
+#, fuzzy
+msgid "There are no questions yet."
+msgstr "Na razie nie ma żadnych pytań."
+
+#: single-job_ship.php:975
+#, fuzzy
+msgid "This job is closed, either expired or winner has been chosen already."
+msgstr ""
+"To zadanie jest zamknięte, albo wygasło, albo zwycięzca został już wybrany."
+
+#: single-job_ship.php:985
+#, fuzzy
+msgid "You are the owner of this job"
+msgstr "Jesteś właścicielem tej usługi, możesz ją edytować."
+
+#: single-job_ship.php:1002
+#, fuzzy, php-format
+msgid "You quoted %s for this job"
+msgstr "Wyceniłeś %s za tę pracę"
+
+#: single-job_ship.php:1004
+#, fuzzy
+msgid "Edit Quote"
+msgstr "Edytuj zapytanie"
+
+#: single-job_ship.php:1012 template-parts/post-new/post-new.php:1192
+#, fuzzy
+msgid "Submit Quote"
+msgstr "Zgłoś ofertę"
+
+#: single-job_ship.php:1021
+#, fuzzy
+msgid "Submit a quote for this job"
+msgstr "Wyślij zapytanie ofertowe dla tej pracy"
+
+#: single-job_ship.php:1032
+#, fuzzy, php-format
+msgid ""
+"You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to "
+"submit a quote."
+msgstr ""
+"Musisz się <a href=\"%s\">zalogować</a> lub <a href=\"%s\">zarejestrować</"
+"a>, aby wysłać ofertę."
+
+#: single-job_ship.php:1040
+#, fuzzy
+msgid "You cannot submit bids to your own job."
+msgstr "Nie można składać ofert do własnego zlecenia."
+
+#: single-job_ship.php:1053
+#, fuzzy
+msgid "Your price:"
+msgstr "Twoja cena:"
+
+#: single-job_ship.php:1062
+#, fuzzy
+msgid "Description:"
+msgstr "Opis:"
+
+#: single-job_ship.php:1063
+#, fuzzy
+msgid "Describe here..."
+msgstr "Opisz tutaj..."
+
+#: single-job_ship.php:1074
+#, fuzzy
+msgid "Submit your quote"
+msgstr "Wyślij zapytanie ofertowe"
+
+#: single-job_ship.php:1086
+#, fuzzy
+msgid "The job is closed or expired."
+msgstr "Zadanie jest zamknięte lub wygasło."
+
+#: single-job_ship.php:1102 template-parts/post-new/post-new.php:1197
+#, fuzzy
+msgid "Job estimated budget"
+msgstr "Szacunkowy budżet zadania"
+
+#: single-job_ship.php:1132 template-parts/post-new/post-new.php:1226
+#, fuzzy
+msgid "There isnt any info defined."
+msgstr "Nie ma zdefiniowanych żadnych informacji."
+
+#: single-job_ship.php:1156 template-parts/post-new/post-new.php:1238
+#, fuzzy
+msgid "Item Photos"
+msgstr "Zdjęcia przedmiotów"
+
+#: single-job_ship.php:1179 template-parts/post-new/post-new.php:1261
+#, fuzzy
+msgid "There are no pictures attache."
+msgstr "Nie ma żadnych zdjęć w załączeniu."
+
+#: taxonomy.php:20
+#, fuzzy
+msgid "Category jobs"
+msgstr "Stanowiska w kategorii"
+
+#: taxonomy.php:22
+#, fuzzy, php-format
+msgid "Posted jobs in %s"
+msgstr "Ostatnie oferty usług w %s"
+
+#: template-parts/advanced-search/advanced-search-page.php:39
+#: template-parts/advanced-search/advanced-search-page.php:41
+#, fuzzy
+msgid "Advanced Search"
+msgstr "Wyszukiwanie zaawansowane"
+
+#: template-parts/advanced-search/transporters-search.php:13
+#, fuzzy
+msgid "Search Transpoters"
+msgstr "Wyszukiwanie transporterów"
+
+#: template-parts/advanced-search/transporters-search.php:15
+#, fuzzy
+msgid "Search Transporters"
+msgstr "Szukaj przewoźników"
+
+#: template-parts/advanced-search/transporters-search.php:216
+#, fuzzy
+msgid "No transporters found for this query."
+msgstr "Nie znaleziono przewoźników dla tego zapytania."
+
+#: template-parts/general-stuff/general-design-parts.php:35
+#, fuzzy
+msgid "Account Menu"
+msgstr "Menu Konta"
+
+#: template-parts/general-stuff/general-design-parts.php:42
+#, fuzzy
+msgid "Dashboard"
+msgstr "Kokpit"
+
+#: template-parts/general-stuff/general-design-parts.php:52
+#, fuzzy, php-format
+msgid "My Jobs %s"
+msgstr "Moja praca %s"
+
+#: template-parts/general-stuff/general-design-parts.php:58
+#, fuzzy, php-format
+msgid "My Quotes %s"
+msgstr "Moje cytaty %s"
+
+#: template-parts/general-stuff/general-design-parts.php:71
+#, fuzzy, php-format
+msgid "Messaging %s"
+msgstr "Wiadomości %s"
+
+#: template-parts/general-stuff/general-design-parts.php:79
+#: template-parts/user-area/my-account/finances.php:28
+#: template-parts/user-area/my-account/finances.php:30
+#, fuzzy
+msgid "Finances"
+msgstr "Finanse"
+
+#: template-parts/general-stuff/general-design-parts.php:84
+#, fuzzy, php-format
+msgid "Reviews %s"
+msgstr "Recenzje %s"
+
+#: template-parts/general-stuff/general-design-parts.php:89
+#: template-parts/general-stuff/general-design-parts.php:362
+#: template-parts/general-stuff/general-design-parts.php:369
+#, fuzzy
+msgid "Log Out"
+msgstr "Wyloguj się"
+
+#: template-parts/general-stuff/general-design-parts.php:355
+#, fuzzy
+msgid "WP-Admin"
+msgstr "WP-Admin"
+
+#: template-parts/general-stuff/general-design-parts.php:359
+#: template-parts/user-area/my-account/finances.php:27
+#: template-parts/user-area/my-account/messages.php:24
+#: template-parts/user-area/my-account/my-account.php:23
+#: template-parts/user-area/my-account/my-jobs.php:76
+#: template-parts/user-area/my-account/my-quotes.php:30
+#: template-parts/user-area/my-account/order-page.php:26
+#: template-parts/user-area/my-account/profile-settings.php:23
+#: template-parts/user-area/my-account/reviews.php:115
+#, fuzzy
+msgid "My Account"
+msgstr "Moje konto"
+
+#: template-parts/general-stuff/general-design-parts.php:360
+#, fuzzy
+msgid "Post New"
+msgstr "Ogłoś się"
+
+#: template-parts/job-single-page/choose_winner.php:113
+#, fuzzy
+msgid "Choose winner"
+msgstr "Wybierz zwycięzcę"
+
+#: template-parts/job-single-page/choose_winner.php:115
+#, fuzzy
+msgid "Choose winner for the job/shipment"
+msgstr "Wybierz zwycięzcę dla zadania/przesyłki"
+
+#: template-parts/job-single-page/choose_winner.php:121
+#, fuzzy
+msgid "You have successfuly picked a winner for your transportation job."
+msgstr "Udało Ci się wybrać zwycięzcę dla Twojego zadania transportowego."
+
+#: template-parts/job-single-page/choose_winner.php:122
+#, fuzzy
+msgid "Return to in progress jobs."
+msgstr "Powrót do zadań w toku."
+
+#: template-parts/job-single-page/mark_completed.php:46
+#, fuzzy
+msgid "Mark completed"
+msgstr "Oznacz jak ukończyłeś"
+
+#: template-parts/job-single-page/mark_completed.php:48
+#, fuzzy
+msgid "Mark job completed"
+msgstr "Zaznaczyć zakończoną pracę"
+
+#: template-parts/job-single-page/mark_completed.php:54
+#, fuzzy
+msgid "You are about to mark this job as completed."
+msgstr "Właśnie oznaczasz to zadanie jako zakończone."
+
+#: template-parts/job-single-page/mark_completed.php:55
+#: template-parts/job-single-page/mark_delivered.php:54
+#, fuzzy
+msgid "Confirm"
+msgstr "Potwierdź"
+
+#: template-parts/job-single-page/mark_completed.php:56
+#: template-parts/job-single-page/mark_delivered.php:55
+#, fuzzy
+msgid "No, go back"
+msgstr "Wróć"
+
+#: template-parts/job-single-page/mark_delivered.php:45
+#, fuzzy
+msgid "Mark delivered"
+msgstr "Zaznacz jako dostarczone"
+
+#: template-parts/job-single-page/mark_delivered.php:47
+#, fuzzy
+msgid "Mark job delivered"
+msgstr "Oznacz dostarczoną pracę"
+
+#: template-parts/job-single-page/mark_delivered.php:53
+#, fuzzy
+msgid "You are about to mark this job as delivered."
+msgstr "Właśnie oznaczasz to zadanie jako dostarczone."
+
+#: template-parts/login-register/login.php:21
+#: template-parts/login-register/login.php:121
+#: template-parts/login-register/login.php:157
+#, fuzzy
+msgid "Recover your password"
+msgstr "Odzyskaj hasło"
+
+#: template-parts/login-register/login.php:99
+#: template-parts/login-register/login.php:140
+#: template-parts/login-register/login.php:220
+#, fuzzy, php-format
+msgid "<a href=\"%s\">Register here</a>. Or <a href=\"%s\">Login</a>"
+msgstr ""
+"<a href=\"%s\">Zarejestruj się tutaj</a>. Lub <a href=\"%s\">Zaloguj się</a>"
+
+#: template-parts/login-register/login.php:126
+#, fuzzy
+msgid ""
+"Success! You will receive an email shortly, with instructions on how to "
+"reset your password."
+msgstr ""
+"Sukces! Wkrótce otrzymasz wiadomość e-mail z instrukcjami, jak zresetować "
+"swoje hasło."
+
+#: template-parts/login-register/login.php:201
+#, fuzzy
+msgid "Enter your username or email address..."
+msgstr "Wpisz swoją nazwę użytkownika lub adres e-mail..."
+
+#: template-parts/login-register/login.php:206
+#, fuzzy
+msgid "Recover password"
+msgstr "Odzyskiwanie hasła"
+
+#: template-parts/login-register/login.php:240
+#, fuzzy
+msgid "Login to your account"
+msgstr "Zaloguj się do swojego konta"
+
+#: template-parts/login-register/login.php:276
+#, fuzzy
+msgid "Enter your username..."
+msgstr "Wpisz swoją nazwę użytkownika..."
+
+#: template-parts/login-register/login.php:279
+#, fuzzy
+msgid "Enter your password..."
+msgstr "Wprowadź swoje hasło..."
+
+#: template-parts/login-register/login.php:289
+#, fuzzy
+msgid "Sign In"
+msgstr "Zaloguj się"
+
+#: template-parts/login-register/login.php:309
+#, fuzzy, php-format
+msgid ""
+"<a href=\"%s\">Register here</a>. Or <a href=\"%s\">Recover your password</a>"
+msgstr ""
+"<a href=\"%s\">Zarejestruj się tutaj</a>. Lub <a href=\"%s\">Odzyskaj swoje "
+"hasło</a>"
+
+#: template-parts/login-register/register.php:28
+#, fuzzy, php-format
+msgid ""
+"Thanks for registering an account with us. You will receive an email "
+"shortly. Also you can start using the site and your account by <a href=\"%s"
+"\">logging in here</a>."
+msgstr ""
+"Dziękujemy za rejestrację konta w naszym serwisie. Wkrótce otrzymasz "
+"wiadomość e-mail. Możesz również zacząć korzystać z serwisu i swojego konta "
+"<a href=\"%s\">logując się tutaj</a>."
+
+#: template-parts/login-register/register.php:54
+#, fuzzy
+msgid "Register an account"
+msgstr "Zarejestruj konto"
+
+#: template-parts/login-register/register.php:82
+#, fuzzy
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: template-parts/login-register/register.php:87
+#, fuzzy
+msgid "Password"
+msgstr "Hasło"
+
+#: template-parts/login-register/register.php:91
+#, fuzzy
+msgid "Confirm Password"
+msgstr "Potwierdź hasło"
+
+#: template-parts/login-register/register.php:121
+#, fuzzy, php-format
+msgid ""
+"<a href=\"%s\">Login here</a>. Or <a href=\"%s\">Recover your password</a>"
+msgstr ""
+"<a href=\"%s\">Zaloguj się tutaj</a>. Lub <a href=\"%s\">Odzyskaj swoje "
+"hasło</a>"
+
+#: template-parts/post-new/helper-functions.php:12
+#, fuzzy
+msgid "Job Info"
+msgstr "Informacje o pracy"
+
+#: template-parts/post-new/helper-functions.php:15
+#, fuzzy
+msgid "Add Extra Options"
+msgstr "Dodaj dodatkowe opcje"
+
+#: template-parts/post-new/helper-functions.php:18
+#, fuzzy
+msgid "Review Job"
+msgstr "Praca przeglądowa"
+
+#: template-parts/post-new/helper-functions.php:21
+#: template-parts/user-area/my-account/my-jobs.php:671
+#, fuzzy
+msgid "Publish"
+msgstr "Publikuj"
+
+#: template-parts/post-new/pay-listing-credits.php:23
+#: template-parts/user-area/my-account/finances.php:733
+#, fuzzy
+msgid "Pay by eWallet"
+msgstr "Zapłać za pomocą e-portfela"
+
+#: template-parts/post-new/pay-listing-credits.php:25
+#, fuzzy
+msgid "Pay for listing by eWallet"
+msgstr "Zapłać za ofertę za pomocą e-portfela"
+
+#: template-parts/post-new/pay-listing-credits.php:61
+#: template-parts/post-new/pay-listing-credits.php:94
+#, fuzzy, php-format
+msgid "Listing fee for the job <b>%s</b>"
+msgstr "Opłata za umieszczenie pracy w wykazie <b>%s</b>"
+
+#: template-parts/post-new/pay-listing-credits.php:71
+#, fuzzy
+msgid ""
+"You have successfully paid for listing of your job, however the job needs "
+"admin moderation. When our admins will approve your job, it will appear in "
+"front end area."
+msgstr ""
+"Zapłaciłeś za dodanie pracy, jednak praca wymaga moderacji administratora. "
+"Kiedy nasi administratorzy zatwierdzą twoją pracę, pojawi się ona w obszarze "
+"front-end."
+
+#: template-parts/post-new/pay-listing-credits.php:104
+#, fuzzy
+msgid ""
+"You have successfully paid for listing of your job. Your job is now live."
+msgstr ""
+"Zapłaciłeś za umieszczenie swojej oferty. Twoja praca jest teraz na żywo."
+
+#: template-parts/post-new/pay-listing-credits.php:106
+#, fuzzy
+msgid "See your job"
+msgstr "Zobacz swoją pracę"
+
+#: template-parts/post-new/pay-listing-credits.php:117
+#: template-parts/post-new/post-new.php:1371
+#, fuzzy
+msgid "Go to your account"
+msgstr "Twoje konto"
+
+#: template-parts/post-new/pay-listing-credits.php:144
+#, fuzzy, php-format
+msgid "You have %s left in your eWallet balance."
+msgstr "Na Twoim saldzie e-portfela pozostało %s."
+
+#: template-parts/post-new/pay-listing-credits.php:152
+#: template-parts/post-new/post-new.php:1431
+#, fuzzy
+msgid "Type"
+msgstr "Typ"
+
+#: template-parts/post-new/pay-listing-credits.php:184
+#: template-parts/post-new/post-new.php:1463
+#, fuzzy
+msgid "Sub-Total"
+msgstr "Suma poniżej"
+
+#: template-parts/post-new/pay-listing-credits.php:209
+#: template-parts/post-new/post-new.php:1488
+#, fuzzy
+msgid "Total Due"
+msgstr "Należne ogółem"
+
+#: template-parts/post-new/pay-listing-credits.php:219
+#, fuzzy
+msgid "You are about to pay for listing fees using your eWallet balance."
+msgstr ""
+"Za chwilę zapłacisz za opłaty giełdowe używając swojego salda na ePortfelu."
+
+#: template-parts/post-new/pay-listing-credits.php:221
+#: template-parts/post-new/post-new.php:691
+#: template-parts/post-new/post-new.php:724
+#: template-parts/post-new/post-new.php:1396
+#: template-parts/user-area/my-account/finances.php:681
+#, fuzzy
+msgid "Go Back"
+msgstr "Powrót"
+
+#: template-parts/post-new/pay-listing-credits.php:223
+#, fuzzy
+msgid "Agree and Proceed"
+msgstr "Uzgodnić i kontynuować"
+
+#: template-parts/post-new/post-new-post.php:67
+#, fuzzy, php-format
+msgid "You cannot leave the field: \"<b>%s</b>\" blank!"
+msgstr "Nie możesz opuścić pola: \"<b>%s</b>\" puste!"
+
+#: template-parts/post-new/post-new-post.php:145
+#: template-parts/post-new/post-new-post.php:154
+#: template-parts/post-new/post-new-post.php:162
+#: template-parts/post-new/post-new-post.php:170
+#: template-parts/post-new/post-new-post.php:178
+#, fuzzy
+msgid "You need to type in a value."
+msgstr "Musisz wpisać jakąś wartość."
+
+#: template-parts/post-new/post-new-post.php:188
+#, fuzzy
+msgid "You need to type in a pickup location."
+msgstr "Musisz wpisać lokalizację odbioru."
+
+#: template-parts/post-new/post-new-post.php:196
+#, fuzzy
+msgid "You need to type in a delivery location."
+msgstr "Należy wpisać miejsce dostawy."
+
+#: template-parts/post-new/post-new-post.php:205
+#, fuzzy
+msgid "You need to select a pickup date."
+msgstr "Musisz wybrać datę odbioru."
+
+#: template-parts/post-new/post-new-post.php:213
+#, fuzzy
+msgid "You need to select a delivery date."
+msgstr "Należy wybrać datę dostawy."
+
+#: template-parts/post-new/post-new-post.php:240
+#, fuzzy
+msgid "Your job title needs to be at least 5 characters!"
+msgstr "Twoja nazwa stanowiska musi składać się z co najmniej 5 znaków!"
+
+#: template-parts/post-new/post-new-post.php:247
+#, fuzzy
+msgid "Your job description needs to be at least 10 characters!"
+msgstr "Twój opis stanowiska musi mieć co najmniej 10 znaków!"
+
+#: template-parts/post-new/post-new-post.php:255
+#, fuzzy
+msgid "The job price must not be empty and must be numeric."
+msgstr "Cena pracy nie może być pusta i musi być numeryczna."
+
+#: template-parts/post-new/post-new-post.php:282
+#: template-parts/post-new/post-new-post.php:310
+#, fuzzy
+msgid "You cannot leave the job category blank!"
+msgstr "Nie można pozostawić kategorii pracy pustej!"
+
+#: template-parts/post-new/post-new.php:33
+#, fuzzy
+msgid "Post New Delivery"
+msgstr "Post Nowa dostawa"
+
+#: template-parts/post-new/post-new.php:39
+#, fuzzy
+msgid "Edit job"
+msgstr "Edytuj mikropracę"
+
+#: template-parts/post-new/post-new.php:41
+#, fuzzy
+msgid "Post new delivery job"
+msgstr "Zamieść nowe zlecenie dostawy"
+
+#: template-parts/post-new/post-new.php:76
+#, fuzzy
+msgid ""
+"Your form has errors. Please check below, correct the errors, then submit "
+"again."
+msgstr ""
+"Twój formularz ma błędy. Sprawdź poniżej, popraw błędy, a następnie wyślij "
+"ponownie."
+
+#: template-parts/post-new/post-new.php:95
+#, fuzzy
+msgid "Your job title:"
+msgstr "Twoje stanowisko pracy:"
+
+#: template-parts/post-new/post-new.php:96
+#, fuzzy
+msgid "eg: I need a package moved."
+msgstr "np.: Potrzebuję przenieść paczkę."
+
+#: template-parts/post-new/post-new.php:111
+#, fuzzy
+msgid "Your job description:"
+msgstr "Twój opis pracy:"
+
+#: template-parts/post-new/post-new.php:112
+#, fuzzy
+msgid "Describe here your shipping job scope."
+msgstr "Opisz tutaj swój zakres obowiązków związanych z wysyłką."
+
+#: template-parts/post-new/post-new.php:121
+#, fuzzy
+msgid "Length:"
+msgstr "Czas trwania:"
+
+#: template-parts/post-new/post-new.php:131
+#, fuzzy
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: template-parts/post-new/post-new.php:140
+#, fuzzy
+msgid "Height:"
+msgstr "Wysokość:"
+
+#: template-parts/post-new/post-new.php:149
+#, fuzzy
+msgid "Weight:"
+msgstr "Waga:"
+
+#: template-parts/post-new/post-new.php:160
+#, fuzzy
+msgid "Job Price:"
+msgstr "Cena"
+
+#: template-parts/post-new/post-new.php:170
+#, fuzzy
+msgid "Number of packages:"
+msgstr "Liczba opakowań:"
+
+#: template-parts/post-new/post-new.php:171
+#, fuzzy
+msgid "eg: 2"
+msgstr "np.: 2"
+
+#: template-parts/post-new/post-new.php:228
+#, fuzzy
+msgid "Job Category"
+msgstr "Kategoria pracy"
+
+#: template-parts/post-new/post-new.php:383
+#: template-parts/post-new/post-new.php:692
+#: template-parts/post-new/post-new.php:725
+#, fuzzy
+msgid "Next Step"
+msgstr "Następny krok"
+
+#: template-parts/post-new/post-new.php:430
+#, fuzzy, php-format
+msgid ""
+"Featured jobs. Makes your job to appear first in searches. Extra cost: %s"
+msgstr ""
+"Polecane oferty pracy. Sprawi, że Twoja praca będzie się pojawiać jako "
+"pierwsza w wyszukiwaniach. Dodatkowy koszt: %s"
+
+#: template-parts/post-new/post-new.php:446
+#, fuzzy, php-format
+msgid ""
+"Private Job. The user must login/register to see the job. Extra cost: %s"
+msgstr ""
+"Praca prywatna. Użytkownik musi się zalogować/zarejestrować, aby zobaczyć tę "
+"pracę. Dodatkowy koszt: %s"
+
+#: template-parts/post-new/post-new.php:462
+#, fuzzy, php-format
+msgid ""
+"Sealed job. Makes the bid to be hidden, only show to you. Extra cost: %s"
+msgstr ""
+"Zapieczętowana praca. Sprawia, że oferta jest ukryta i pokazywana tylko "
+"Tobie. Dodatkowy koszt: %s"
+
+#: template-parts/post-new/post-new.php:475
+#, fuzzy
+msgid "Add Photos"
+msgstr "Dodaj zdjęcia"
+
+#: template-parts/post-new/post-new.php:574
+#, fuzzy
+msgid "Add Files"
+msgstr "Dodaj Pliki"
+
+#: template-parts/post-new/post-new.php:1068
+#, fuzzy
+msgid " Km"
+msgstr " Km"
+
+#: template-parts/post-new/post-new.php:1170
+#, fuzzy
+msgid "There are no quotes yet."
+msgstr "Nie ma jeszcze żadnych cytatów."
+
+#: template-parts/post-new/post-new.php:1343
+#, fuzzy
+msgid ""
+"Your job has been posted, but is not approved yet. The admin will approve "
+"and you will be notified."
+msgstr ""
+"Twoja praca została wysłana, ale nie jest jeszcze zatwierdzona. "
+"Administrator zatwierdzi ją i zostaniesz o tym poinformowany."
+
+#: template-parts/post-new/post-new.php:1366
+#, fuzzy
+msgid "Your job has been now posted in our website."
+msgstr "Twoja praca została umieszczona na naszej stronie internetowej."
+
+#: template-parts/post-new/post-new.php:1374
+#, fuzzy
+msgid "See job page"
+msgstr "Patrz strona z ofertami pracy"
+
+#: template-parts/post-new/post-new.php:1385
+#, fuzzy
+msgid "You are about to publish your job in our website."
+msgstr "Zamierzasz opublikować swoją pracę w naszym serwisie."
+
+#: template-parts/post-new/post-new.php:1405
+#, fuzzy
+msgid "Publish Job"
+msgstr "Publikowanie oferty pracy"
+
+#: template-parts/post-new/post-new.php:1508
+#, fuzzy
+msgid "Pay by eWallet Balance"
+msgstr "Płać przez e-portfel Saldo"
+
+#: template-parts/user-area/my-account/finances.php:61
+#, fuzzy
+msgid "Use the options below to pay for this bill:"
+msgstr "Użyj poniższych opcji, aby zapłacić za ten rachunek:"
+
+#: template-parts/user-area/my-account/finances.php:80
+#, fuzzy
+msgid "Pay by Skrill"
+msgstr "Zapłać przez Skrill"
+
+#: template-parts/user-area/my-account/finances.php:106
+#, fuzzy
+msgid "Unpaid Bills"
+msgstr "Niezapłacone rachunki"
+
+#: template-parts/user-area/my-account/finances.php:123
+#: template-parts/user-area/my-account/finances.php:184
+#, fuzzy
+msgid "You do not have any pending bills."
+msgstr "Nie masz żadnych oczekujących rachunków."
+
+#: template-parts/user-area/my-account/finances.php:134
+#: template-parts/user-area/my-account/finances.php:195
+#, fuzzy
+msgid "Payment"
+msgstr "Płatność"
+
+#: template-parts/user-area/my-account/finances.php:169
+#, fuzzy
+msgid "Paid Bills"
+msgstr "Zapłacone rachunki"
+
+#: template-parts/user-area/my-account/finances.php:248
+#, fuzzy
+msgid "Your withdrawal request has ben submitted."
+msgstr "Państwa wniosek o wycofanie został złożony."
+
+#: template-parts/user-area/my-account/finances.php:261
+#: template-parts/user-area/my-account/my-account.php:37
+#, fuzzy
+msgid "Your balance"
+msgstr "Twoje saldo"
+
+#: template-parts/user-area/my-account/finances.php:262
+#: template-parts/user-area/my-account/finances.php:752
+#, fuzzy
+msgid "Deposit"
+msgstr "Depozyt"
+
+#: template-parts/user-area/my-account/finances.php:273
+#, fuzzy
+msgid "Pending Incoming"
+msgstr "Oczekujące płatności przychodzące."
+
+#: template-parts/user-area/my-account/finances.php:284
+#, fuzzy
+msgid "Pending Withdrawal"
+msgstr "W oczekiwaniu na  wypłatę"
+
+#: template-parts/user-area/my-account/finances.php:296
+#, fuzzy
+msgid "Available for withdrawal"
+msgstr "Dostępne do wypłaty"
+
+#: template-parts/user-area/my-account/finances.php:297
+#: template-parts/user-area/my-account/finances.php:859
+#, fuzzy
+msgid "Request Withdrawal"
+msgstr "Prośba wybrania środków."
+
+#: template-parts/user-area/my-account/finances.php:313
+#: template-parts/user-area/my-account/finances.php:360
+#, fuzzy
+msgid "Pending escrow payments"
+msgstr "Oczekujące płatności w ramach depozytu zabezpieczającego"
+
+#: template-parts/user-area/my-account/finances.php:411
+#, fuzzy
+msgid "Incoming Payments"
+msgstr "Oczekujące płatności przychodzące."
+
+#: template-parts/user-area/my-account/finances.php:416
+#, fuzzy
+msgid "Pending Withdrawals"
+msgstr "Środki oczekujące na wybranie."
+
+#: template-parts/user-area/my-account/finances.php:421
+#, fuzzy
+msgid "Transactions"
+msgstr "Transakcje"
+
+#: template-parts/user-area/my-account/finances.php:482
+#, fuzzy
+msgid "There are no withdrawals pending."
+msgstr "Nie ma środków oczekujących na wybranie."
+
+#: template-parts/user-area/my-account/finances.php:521
+#, fuzzy
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: template-parts/user-area/my-account/finances.php:565
+#, fuzzy
+msgid "You do not have any transactions."
+msgstr "Nie masz żadnych transakcji."
+
+#: template-parts/user-area/my-account/finances.php:629
+#, fuzzy, php-format
+msgid ""
+"Your payment has been submitted. <a href=\"%s\">You can go back</a> to your "
+"account"
+msgstr ""
+"Twoja płatność została przesłana. <a href=\"%s\">Możesz wrócić</a> do "
+"swojego konta"
+
+#: template-parts/user-area/my-account/finances.php:654
+#, fuzzy
+msgid "Total Amount:"
+msgstr "Łączna kwota:"
+
+#: template-parts/user-area/my-account/finances.php:659
+#, fuzzy
+msgid "Your Credit Amount:"
+msgstr "Twoja kwota kredytu:"
+
+#: template-parts/user-area/my-account/finances.php:673
+#, fuzzy
+msgid "You do not have enough funds in your wallet for this payment."
+msgstr "Nie masz wystarczającej ilości środków w portfelu na tę płatność."
+
+#: template-parts/user-area/my-account/finances.php:688
+#, fuzzy
+msgid "Confirm Payment"
+msgstr "Potwierdź Płatność"
+
+#: template-parts/user-area/my-account/finances.php:709
+#, fuzzy
+msgid ""
+"Use the payment methods below to pay for the winner bid and deposit escrow: "
+msgstr ""
+"Użyj poniższych metod płatności, aby zapłacić za ofertę zwycięzcy i depozyt "
+"escrow"
+
+#: template-parts/user-area/my-account/finances.php:714
+#, fuzzy, php-format
+msgid "Total: %s"
+msgstr "Suma: %s"
+
+#: template-parts/user-area/my-account/finances.php:750
+#, fuzzy
+msgid "Return to Finances"
+msgstr "Powrót do finansów"
+
+#: template-parts/user-area/my-account/finances.php:764
+#, fuzzy
+msgid "Deposit via PayPal"
+msgstr "Wpłata przez PayPal"
+
+#: template-parts/user-area/my-account/finances.php:790
+#, fuzzy
+msgid "Deposit via Skrill"
+msgstr "Depozyt przez Skrill"
+
+#: template-parts/user-area/my-account/finances.php:818
+#, fuzzy, php-format
+msgid "Amount available for withdrawal: %s."
+msgstr "Kwota dostępna do wypłaty: %s."
+
+#: template-parts/user-area/my-account/finances.php:824
+#, fuzzy
+msgid "You have insufficient balance. Try to withdraw less."
+msgstr "Masz niewystarczające saldo. Postaraj się wypłacić mniejszą kwotę."
+
+#: template-parts/user-area/my-account/finances.php:835
+#, fuzzy
+msgid "Withdraw money via PayPal"
+msgstr "Wypłać pieniądze przez PayPal"
+
+#: template-parts/user-area/my-account/finances.php:842
+#, fuzzy
+msgid "Your PayPal Email"
+msgstr "Twój e-mail PayPal"
+
+#: template-parts/user-area/my-account/messages.php:25
+#, fuzzy
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: template-parts/user-area/my-account/messages.php:27
+#, fuzzy
+msgid "Messaging"
+msgstr "Komunikacja"
+
+#: template-parts/user-area/my-account/messages.php:63
+#, fuzzy
+msgid "Your message has been sent!"
+msgstr "Twoja wiadomość została wysłana!"
+
+#: template-parts/user-area/my-account/messages.php:64
+#, fuzzy
+msgid "Return to the job page"
+msgstr "Powrót do strony z ofertami pracy"
+
+#: template-parts/user-area/my-account/messages.php:81
+#, fuzzy, php-format
+msgid "You are sending a message to <b>%s</b>"
+msgstr "Wysyłasz wiadomość do <b>%s</b>"
+
+#: template-parts/user-area/my-account/messages.php:89
+#, fuzzy
+msgid "Shipping job:"
+msgstr "Praca przy wysyłce:"
+
+#: template-parts/user-area/my-account/messages.php:99
+#, fuzzy
+msgid "Your message:"
+msgstr "Twoja wiadomość:"
+
+#: template-parts/user-area/my-account/messages.php:100
+#: template-parts/user-area/my-account/messages.php:261
+#, fuzzy
+msgid "Type your message here..."
+msgstr "Tutaj wpisz swoją wiadomosć…"
+
+#: template-parts/user-area/my-account/messages.php:127
+#: template-parts/user-area/my-account/messages.php:284
+#, fuzzy
+msgid "Error thread"
+msgstr "Wątek błędu"
+
+#: template-parts/user-area/my-account/messages.php:153
+#, fuzzy
+msgid "Your message has been sent."
+msgstr "Twoja wiadomość została wysłana."
+
+#: template-parts/user-area/my-account/messages.php:164
+#, fuzzy, php-format
+msgid "Job: %s"
+msgstr "Usuń mikropracę - %s"
+
+#: template-parts/user-area/my-account/messages.php:184
+#, fuzzy
+msgid "There are no messages in this thread yet."
+msgstr "Nie ma jeszcze żadnych wiadomości w tym wątku."
+
+#: template-parts/user-area/my-account/messages.php:212
+#: template-parts/user-area/my-account/messages.php:235
+#, fuzzy, php-format
+msgid "Sent on %s"
+msgstr "Wysłano %s"
+
+#: template-parts/user-area/my-account/messages.php:467
+#, fuzzy
+msgid "There are no message threads."
+msgstr "Nie ma żadnych wątków wiadomości."
+
+#: template-parts/user-area/my-account/my-account.php:25
+#, fuzzy, php-format
+msgid "Welcome back, %s"
+msgstr "Witaj ponownie, %s"
+
+#: template-parts/user-area/my-account/my-account.php:48
+#, fuzzy
+msgid "Total live jobs"
+msgstr "Całkowita liczba miejsc pracy na żywo"
+
+#: template-parts/user-area/my-account/my-account.php:59
+#, fuzzy
+msgid "Unread messages"
+msgstr "Nieprzeczytane wiadomości"
+
+#: template-parts/user-area/my-account/my-account.php:70
+#, fuzzy
+msgid "Unpaid invoices"
+msgstr "Niezapłacone faktury"
+
+#: template-parts/user-area/my-account/my-account.php:95
+#, fuzzy
+msgid "Latest posted jobs"
+msgstr "Ostatnie oferty usług w %s"
+
+#: template-parts/user-area/my-account/my-account.php:121
+#: template-parts/user-area/my-account/my-account.php:236
+#, fuzzy
+msgid "Job Name"
+msgstr "Nazwa zadania"
+
+#: template-parts/user-area/my-account/my-account.php:122
+#: template-parts/user-area/my-account/my-jobs.php:153
+#: template-parts/user-area/my-account/my-jobs.php:652
+#, fuzzy
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: template-parts/user-area/my-account/my-account.php:145
+#, fuzzy
+msgid "The job is active"
+msgstr "Zlecenie jest aktywne"
+
+#: template-parts/user-area/my-account/my-account.php:148
+#, fuzzy
+msgid "The is awaiting moderation"
+msgstr "Oczekuje na moderację"
+
+#: template-parts/user-area/my-account/my-account.php:156
+#: template-parts/user-area/my-account/my-jobs.php:174
+#: template-parts/user-area/my-account/my-jobs.php:249
+#: template-parts/user-area/my-account/my-quotes.php:118
+#, fuzzy
+msgid "View Job"
+msgstr "Zobacz Pracę"
+
+#: template-parts/user-area/my-account/my-account.php:176
+#, fuzzy
+msgid "There are no active jobs yet."
+msgstr "Nie ma jeszcze aktywnych ofert pracy."
+
+#: template-parts/user-area/my-account/my-account.php:192
+#, fuzzy
+msgid "View all jobs"
+msgstr "Wyświetl wszystkie oferty pracy"
+
+#: template-parts/user-area/my-account/my-account.php:202
+#, fuzzy
+msgid "My Latest Posted Quotes"
+msgstr "Moje ostatnie cytaty"
+
+#: template-parts/user-area/my-account/my-account.php:237
+#, fuzzy
+msgid "Your Quote"
+msgstr "Twój cytat"
+
+#: template-parts/user-area/my-account/my-account.php:271
+#, fuzzy
+msgid "View Job Page"
+msgstr "Zobacz stronę z ofertami pracy"
+
+#: template-parts/user-area/my-account/my-account.php:273
+#: template-parts/user-area/my-account/my-quotes.php:119
+#, fuzzy
+msgid "Retract Bid"
+msgstr "Wycofanie oferty"
+
+#: template-parts/user-area/my-account/my-account.php:293
+#, fuzzy
+msgid "You have not submitted any proposals yet."
+msgstr "Nie złożyłeś jeszcze żadnych propozycji."
+
+#: template-parts/user-area/my-account/my-account.php:307
+#, fuzzy
+msgid "View all quotes"
+msgstr "Wyświetl wszystkie cytaty"
+
+#: template-parts/user-area/my-account/my-jobs.php:48
+#, fuzzy
+msgid "Operation was successful"
+msgstr "Operacja zakończyła się sukcesem"
+
+#: template-parts/user-area/my-account/my-jobs.php:77
+#: template-parts/user-area/my-account/my-jobs.php:79
+#, fuzzy
+msgid "My Jobs"
+msgstr "Moje Ogłoszenia"
+
+#: template-parts/user-area/my-account/my-jobs.php:93
+#, fuzzy, php-format
+msgid "Active Quotes %s"
+msgstr "Aktywne cytaty %s"
+
+#: template-parts/user-area/my-account/my-jobs.php:99
+#, fuzzy, php-format
+msgid "Delivered %s"
+msgstr "Dostarczony %s"
+
+#: template-parts/user-area/my-account/my-jobs.php:108
+#, fuzzy
+msgid "Cancelled"
+msgstr "Anulowane"
+
+#: template-parts/user-area/my-account/my-jobs.php:113
+#, fuzzy
+msgid "Unpublished"
+msgstr "Nieopublikowane"
+
+#: template-parts/user-area/my-account/my-jobs.php:152
+#: template-parts/user-area/my-account/my-jobs.php:228
+#: template-parts/user-area/my-account/my-jobs.php:308
+#: template-parts/user-area/my-account/my-jobs.php:415
+#: template-parts/user-area/my-account/my-jobs.php:651
+#: template-parts/user-area/my-account/my-quotes.php:100
+#: template-parts/user-area/my-account/my-quotes.php:167
+#: template-parts/user-area/my-account/my-quotes.php:270
+#: template-parts/user-area/my-account/my-quotes.php:365
+#: template-parts/user-area/my-account/my-quotes.php:462
+#, fuzzy
+msgid "Date Made"
+msgstr "Data sporządzenia"
+
+#: template-parts/user-area/my-account/my-jobs.php:169
+#, fuzzy, php-format
+msgid "You have %s active proposals."
+msgstr "Masz %s aktywnych propozycji."
+
+#: template-parts/user-area/my-account/my-jobs.php:196
+#, fuzzy, php-format
+msgid ""
+"You do not have any active jobs. <a href=\"%s\">Click here</a> to post more."
+msgstr ""
+"Nie masz żadnych aktywnych ofert pracy. <a href=\"%s\">Kliknij tutaj</a>, "
+"aby zamieścić więcej."
+
+#: template-parts/user-area/my-account/my-jobs.php:226
+#: template-parts/user-area/my-account/my-jobs.php:413
+#: template-parts/user-area/my-account/my-jobs.php:497
+#: template-parts/user-area/my-account/my-jobs.php:573
+#, fuzzy
+msgid "Provider"
+msgstr "Dostawca"
+
+#: template-parts/user-area/my-account/my-jobs.php:227
+#, fuzzy
+msgid "Quote"
+msgstr "Cytat"
+
+#: template-parts/user-area/my-account/my-jobs.php:250
+#, fuzzy
+msgid "Choose Winner"
+msgstr "Wybierz zwycięzcę"
+
+#: template-parts/user-area/my-account/my-jobs.php:269
+#, fuzzy
+msgid "You do not have any active quotes."
+msgstr "Nie masz żadnych aktywnych notowań."
+
+#: template-parts/user-area/my-account/my-jobs.php:340
+#, fuzzy, php-format
+msgid ""
+"The escrow has not been deposited yet. <a href=\"%s\">Click here</a> to "
+"deposit escrow."
+msgstr ""
+"Depozyt zabezpieczający nie został jeszcze wpłacony. <a href=\"%s\">Kliknij "
+"tutaj</a>, aby wpłacić depozyt."
+
+#: template-parts/user-area/my-account/my-jobs.php:344
+#, fuzzy
+msgid "Escrow was deposited for this job."
+msgstr "Escrow został zdeponowany dla tej pracy."
+
+#: template-parts/user-area/my-account/my-jobs.php:350
+#, fuzzy
+msgid "The payment for the job is taken outside of the website."
+msgstr "Płatność za zlecenie odbywa się poza stroną internetową."
+
+#: template-parts/user-area/my-account/my-jobs.php:354
+#, fuzzy
+msgid "Waiting for the transporter to deliver work."
+msgstr "Czekamy na przewoźnika, aby dostarczyć pracę."
+
+#: template-parts/user-area/my-account/my-jobs.php:362
+#: template-parts/user-area/my-account/my-jobs.php:444
+#: template-parts/user-area/my-account/my-jobs.php:599
+#: template-parts/user-area/my-account/order-page.php:27
+#, fuzzy
+msgid "Order page"
+msgstr "Strona zamówienia"
+
+#: template-parts/user-area/my-account/my-jobs.php:381
+#: template-parts/user-area/my-account/my-jobs.php:618
+#, fuzzy
+msgid "You do not have any active jobs."
+msgstr "Nie masz żadnej aktywnej pracy."
+
+#: template-parts/user-area/my-account/my-jobs.php:416
+#, fuzzy
+msgid "Completed On"
+msgstr "Zakończone"
+
+#: template-parts/user-area/my-account/my-jobs.php:446
+#, fuzzy
+msgid "Mark Completed"
+msgstr "Oznacz jak ukończyłeś"
+
+#: template-parts/user-area/my-account/my-jobs.php:468
+#: template-parts/user-area/my-account/my-quotes.php:333
+#, fuzzy
+msgid "You do not have any delivered jobs."
+msgstr "Nie masz żadnych dostarczonych miejsc pracy."
+
+#: template-parts/user-area/my-account/my-jobs.php:499
+#: template-parts/user-area/my-account/my-jobs.php:575
+#, fuzzy
+msgid "Date Started"
+msgstr "Data rozpoczęcia"
+
+#: template-parts/user-area/my-account/my-jobs.php:500
+#, fuzzy
+msgid "Cancelled On"
+msgstr "Zamówienie zostało anulowane za obopólną zgodą."
+
+#: template-parts/user-area/my-account/my-jobs.php:542
+#, fuzzy
+msgid "You do not have any cancelled jobs."
+msgstr "Nie masz żadnych anulowanych prac."
+
+#: template-parts/user-area/my-account/my-jobs.php:576
+#, fuzzy
+msgid "Accepted On"
+msgstr "Zaakceptowane"
+
+#: template-parts/user-area/my-account/my-jobs.php:693
+#, fuzzy
+msgid "You do not have any unpublished jobs."
+msgstr "Nie masz żadnych nieopublikowanych prac."
+
+#: template-parts/user-area/my-account/my-quotes.php:31
+#: template-parts/user-area/my-account/my-quotes.php:33
+#, fuzzy
+msgid "My Quotes"
+msgstr "Moje cytaty"
+
+#: template-parts/user-area/my-account/my-quotes.php:45
+#, fuzzy
+msgid "Active Quotes"
+msgstr "Aktywne cytaty"
+
+#: template-parts/user-area/my-account/my-quotes.php:49
+#, fuzzy, php-format
+msgid "In Progress %s"
+msgstr "W trakcie realizacji %s"
+
+#: template-parts/user-area/my-account/my-quotes.php:54
+#, fuzzy
+msgid "Delivered Jobs"
+msgstr "Brak dostarczonych usług"
+
+#: template-parts/user-area/my-account/my-quotes.php:62
+#, fuzzy
+msgid "Cancelled Jobs"
+msgstr "Nie ma anulowanych mikroprac"
+
+#: template-parts/user-area/my-account/my-quotes.php:99
+#, fuzzy
+msgid "My Bid"
+msgstr "Moja oferta"
+
+#: template-parts/user-area/my-account/my-quotes.php:136
+#, fuzzy
+msgid "There are no active quotes yet."
+msgstr "Nie ma jeszcze aktywnych cytatów."
+
+#: template-parts/user-area/my-account/my-quotes.php:168
+#: template-parts/user-area/my-account/my-quotes.php:271
+#: template-parts/user-area/my-account/my-quotes.php:366
+#: template-parts/user-area/my-account/my-quotes.php:463
+#, fuzzy
+msgid "Completion"
+msgstr "Zakończenie"
+
+#: template-parts/user-area/my-account/my-quotes.php:197
+#: template-parts/user-area/my-account/my-quotes.php:296
+#: template-parts/user-area/my-account/my-quotes.php:391
+#: template-parts/user-area/my-account/my-quotes.php:488
+#, fuzzy
+msgid "Waiting the customer to deposit escrow."
+msgstr "Oczekiwanie na wpłatę depozytu przez klienta."
+
+#: template-parts/user-area/my-account/my-quotes.php:201
+#, fuzzy
+msgid "The customer has deposited the escrow."
+msgstr "Klient zdeponował depozyt zabezpieczający."
+
+#: template-parts/user-area/my-account/my-quotes.php:216
+#: template-parts/user-area/my-account/order-page.php:29
+#, fuzzy
+msgid "Order Page"
+msgstr "Strona zamówienia"
+
+#: template-parts/user-area/my-account/my-quotes.php:217
+#, fuzzy
+msgid "Mark Delivered"
+msgstr "Zaznacz jako dostarczone"
+
+#: template-parts/user-area/my-account/my-quotes.php:236
+#, fuzzy
+msgid "You do not have any pending orders."
+msgstr "Nie masz żadnych oczekujących zleceń."
+
+#: template-parts/user-area/my-account/my-quotes.php:304
+#, fuzzy
+msgid "Waiting for customer to accept the project."
+msgstr "Czekamy na akceptację projektu przez klienta."
+
+#: template-parts/user-area/my-account/my-quotes.php:313
+#: template-parts/user-area/my-account/my-quotes.php:408
+#: template-parts/user-area/my-account/my-quotes.php:505
+#, fuzzy
+msgid "Workspace"
+msgstr "Obszar roboczy"
+
+#: template-parts/user-area/my-account/my-quotes.php:428
+#, fuzzy
+msgid "You do not have any completed jobs."
+msgstr "Nie masz żadnych ukończonych prac."
+
+#: template-parts/user-area/my-account/my-quotes.php:525
+#, fuzzy
+msgid "You do not have any cancelled orders."
+msgstr "Nie masz żadnych anulowanych zamówień."
+
+#: template-parts/user-area/my-account/order-page.php:42
+#, fuzzy
+msgid "Job name"
+msgstr "Nazwa pracy"
+
+#: template-parts/user-area/my-account/order-page.php:48
+#: template-parts/user-area/my-account/order-page.php:54
+#, fuzzy
+msgid "Winning Bid"
+msgstr "Wygrywająca oferta"
+
+#: template-parts/user-area/my-account/order-page.php:72
+#, fuzzy
+msgid "Waiting delivery from transpoter"
+msgstr "Oczekiwanie na dostawę od przewoźnika"
+
+#: template-parts/user-area/my-account/order-page.php:81
+#, fuzzy
+msgid "Waiting customer to confirm"
+msgstr "Oczekiwanie na potwierdzenie przez klienta"
+
+#: template-parts/user-area/my-account/order-page.php:88
+#, fuzzy
+msgid "Order delivered, and accepted."
+msgstr "Zamówienie dostarczone i przyjęte."
+
+#: template-parts/user-area/my-account/order-page.php:99
+#, fuzzy
+msgid "Mark as delivered"
+msgstr "Oznaczenie jako dostarczone"
+
+#: template-parts/user-area/my-account/order-page.php:112
+#, fuzzy
+msgid "Mark as completed"
+msgstr "Zaliczam"
+
+#: template-parts/user-area/my-account/order-page.php:122
+#, fuzzy
+msgid "Visit Job Page"
+msgstr "Odwiedź stronę z ofertami pracy"
+
+#: template-parts/user-area/my-account/profile-settings.php:72
+#, fuzzy
+msgid "Password was not changed. It does not match the password confirmation."
+msgstr "Hasło nie zostało zmienione. Potwierdzenie hasła nie jest identyczne."
+
+#: template-parts/user-area/my-account/profile-settings.php:141
+#, fuzzy
+msgid "Information saved!"
+msgstr "Dane zapisane."
+
+#: template-parts/user-area/my-account/profile-settings.php:154
+#, fuzzy
+msgid "First name:"
+msgstr "Imię:"
+
+#: template-parts/user-area/my-account/profile-settings.php:162
+#, fuzzy
+msgid "Last name:"
+msgstr "Nazwisko:"
+
+#: template-parts/user-area/my-account/profile-settings.php:208
+#, fuzzy
+msgid "Your Location:"
+msgstr "Twoja lokalizacja:"
+
+#: template-parts/user-area/my-account/profile-settings.php:232
+#, fuzzy
+msgid "Repeat Password:"
+msgstr "Powtórz hasło"
+
+#: template-parts/user-area/my-account/profile-settings.php:248
+#, fuzzy
+msgid "Profile Description:"
+msgstr "O mnie"
+
+#: template-parts/user-area/my-account/profile-settings.php:256
+#, fuzzy
+msgid "Profile Avatar:"
+msgstr "Avatar"
+
+#: template-parts/user-area/my-account/profile-settings.php:270
+#, fuzzy
+msgid "Save Information"
+msgstr "Zapisz informacje"
+
+#: template-parts/user-area/my-account/reviews.php:116
+#: template-parts/user-area/my-account/reviews.php:118
+#, fuzzy
+msgid "Reviews"
+msgstr "Opinie"
+
+#: template-parts/user-area/my-account/reviews.php:132
+#, fuzzy
+msgid "Your rating was submitted!"
+msgstr "Twoja ocena została przesłana!"
+
+#: template-parts/user-area/my-account/reviews.php:149
+#, fuzzy
+msgid "Your Rating"
+msgstr "Twoja ocena"
+
+#: template-parts/user-area/my-account/reviews.php:154
+#, fuzzy
+msgid "Your Comment"
+msgstr "Twój komentarz"
+
+#: template-parts/user-area/my-account/reviews.php:162
+#, fuzzy
+msgid "Submit Rating"
+msgstr "Prześlij ocenę"
+
+#: template-parts/user-area/my-account/reviews.php:195
+#, fuzzy, php-format
+msgid "Pending Reviews %s"
+msgstr "Przeglądy oczekujące %s"
+
+#: template-parts/user-area/my-account/reviews.php:199
+#, fuzzy
+msgid "Reviews I made"
+msgstr "Recenzje, które zrobiłem"
+
+#: template-parts/user-area/my-account/reviews.php:204
+#, fuzzy
+msgid "Reviews I Received"
+msgstr "Recenzje, które otrzymałem"
+
+#: template-parts/user-area/my-account/reviews.php:231
+#: template-parts/user-area/my-account/reviews.php:297
+#, fuzzy
+msgid "To User"
+msgstr "Do Użytkownika"
+
+#: template-parts/user-area/my-account/reviews.php:261
+#, fuzzy
+msgid "Rate User"
+msgstr "Oceń użytkownika - %s"
+
+#: template-parts/user-area/my-account/reviews.php:272
+#: template-parts/user-area/my-account/reviews.php:344
+#, fuzzy
+msgid "There are no reviews to be awarded."
+msgstr "Nie ma opinii do wyróżnienia"
+
+#: template-parts/user-area/my-account/reviews.php:326
+#: template-parts/user-area/my-account/reviews.php:396
+#, fuzzy, php-format
+msgid "Comment: %s"
+msgstr "Komentarz: %s"
+
+#: template-parts/user-area/my-account/reviews.php:411
+#, fuzzy
+msgid "There are no reviews."
+msgstr "Nie ma jeszcze żadnych opinii."
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://sitemile.com/"
+msgstr "https://sitemile.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Shipme theme is the only theme that allows you to offer a delivery "
+"marketplace website. Where drivers/transporters meet the customers and "
+"deliver their goods."
+msgstr ""
+"Motyw Shipme jest jedynym motywem, który pozwala na oferowanie strony "
+"internetowej z rynkiem dostaw. Gdzie kierowcy/transporterzy spotykają się z "
+"klientami i dostarczają ich towary."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "SiteMile"
+msgstr "SiteMile"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "ShipMe_Special_Page"
+msgstr "ShipMe_Special_Page"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "ShipMe_HOME_SPECIAL"
+msgstr "ShipMe_HOME_SPECIAL"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "ShipMe No Elements"
+msgstr "ShipMe No Elements"

@@ -1,0 +1,4653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-30 14:12+0300\n"
+"PO-Revision-Date: 2022-08-08 11:33+0300\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 404.php:24
+msgid "Page not found."
+msgstr "Seite nicht gefunden."
+
+#: 404.php:37
+msgid ""
+"The requested page has bot been found. If its a shipping job, then maybe it is closed or wasnt approved yet by the "
+"webmaster."
+msgstr ""
+"Die angeforderte Seite wurde nicht gefunden. Wenn es ein Versandauftrag ist, dann vielleichtist geschlossen oder wurde "
+"noch nicht vom Webmaster genehmigt."
+
+#: archive-job_ship.php:11 lib/first_run.php:74 lib/login_register/login.php:151 lib/login_register/login.php:529
+#: lib/login_register/register.php:202 lib/login_register/register.php:247 taxonomy.php:19
+#: template-parts/advanced-search/advanced-search-page.php:38 template-parts/advanced-search/transporters-search.php:12
+#: template-parts/job-single-page/choose_winner.php:112 template-parts/job-single-page/mark_completed.php:45
+#: template-parts/job-single-page/mark_delivered.php:44 template-parts/post-new/pay-listing-credits.php:22
+#: template-parts/post-new/post-new.php:31 template-parts/user-area/my-account/finances.php:26
+#: template-parts/user-area/my-account/messages.php:23 template-parts/user-area/my-account/my-account.php:22
+#: template-parts/user-area/my-account/my-jobs.php:72 template-parts/user-area/my-account/my-quotes.php:29
+#: template-parts/user-area/my-account/profile-settings.php:22 template-parts/user-area/my-account/reviews.php:114
+msgid "Home"
+msgstr "Startseite"
+
+#: archive-job_ship.php:12 archive-job_ship.php:14 lib/first_run.php:80
+msgid "All Jobs"
+msgstr "Alle Jobs"
+
+#: archive-job_ship.php:24 taxonomy.php:32 template-parts/advanced-search/advanced-search-page.php:51
+#: template-parts/advanced-search/transporters-search.php:22
+msgid "Search Filters"
+msgstr "Such-Filter"
+
+#: archive-job_ship.php:30 taxonomy.php:38 template-parts/advanced-search/advanced-search-page.php:71
+#: template-parts/advanced-search/transporters-search.php:28
+msgid "Keyword:"
+msgstr "Schlüsselwort:"
+
+#: archive-job_ship.php:31 taxonomy.php:39 template-parts/advanced-search/advanced-search-page.php:72
+#: template-parts/advanced-search/transporters-search.php:29
+msgid "Enter your keyword..."
+msgstr "Geben Sie Ihr Stichwort ein..."
+
+#: archive-job_ship.php:38 taxonomy.php:46 template-parts/advanced-search/advanced-search-page.php:79
+msgid "Pickup Location:"
+msgstr "Abholort:"
+
+#: archive-job_ship.php:39 archive-job_ship.php:49 taxonomy.php:47 taxonomy.php:57
+#: template-parts/advanced-search/advanced-search-page.php:80 template-parts/advanced-search/advanced-search-page.php:90
+msgid "Enter your location..."
+msgstr "Geben Sie Ihren Standort ein..."
+
+#: archive-job_ship.php:48 taxonomy.php:56 template-parts/advanced-search/advanced-search-page.php:89
+msgid "Drop-off Location:"
+msgstr "Ort der Abgabe:"
+
+#: archive-job_ship.php:59 taxonomy.php:67 template-parts/advanced-search/advanced-search-page.php:100
+msgid "Minimum Price:"
+msgstr "Mindestpreis:"
+
+#: archive-job_ship.php:64 archive-job_ship.php:77 lib/admin_menu.php:1396 lib/admin_menu.php:1460 lib/admin_menu.php:1524
+#: lib/admin_menu.php:1606 lib/admin_menu.php:1694 lib/admin_menu.php:1782 taxonomy.php:72 taxonomy.php:85
+#: template-parts/advanced-search/advanced-search-page.php:105 template-parts/advanced-search/advanced-search-page.php:118
+#: template-parts/post-new/pay-listing-credits.php:153 template-parts/post-new/post-new.php:1432
+#: template-parts/user-area/my-account/finances.php:132 template-parts/user-area/my-account/finances.php:193
+#: template-parts/user-area/my-account/finances.php:355 template-parts/user-area/my-account/finances.php:662
+msgid "Amount"
+msgstr "Betrag"
+
+#: archive-job_ship.php:72 taxonomy.php:80 template-parts/advanced-search/advanced-search-page.php:113
+msgid "Maximum Price:"
+msgstr "Maximaler Preis:"
+
+#: archive-job_ship.php:90 template-parts/advanced-search/advanced-search-page.php:131
+#: template-parts/advanced-search/transporters-search.php:39
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: archive-job_ship.php:95 lib/my_account/edit-job.php:607 lib/widgets/search-box-big.php:73
+#: template-parts/advanced-search/advanced-search-page.php:136 template-parts/advanced-search/transporters-search.php:44
+#: template-parts/post-new/post-new.php:252
+msgid "Select Category"
+msgstr "Kategorie auswählen"
+
+#: archive-job_ship.php:113 taxonomy.php:107 template-parts/advanced-search/advanced-search-page.php:154
+msgid "Pickup Date:"
+msgstr "Datum der Abholung:"
+
+#: archive-job_ship.php:124 taxonomy.php:118 template-parts/advanced-search/advanced-search-page.php:165
+msgid "Delivery Date:"
+msgstr "Liefertermin:"
+
+#: archive-job_ship.php:136 taxonomy.php:130 template-parts/advanced-search/advanced-search-page.php:177
+#: template-parts/advanced-search/transporters-search.php:56
+msgid "Submit"
+msgstr "Einreichen"
+
+#: archive-job_ship.php:150 taxonomy.php:144 template-parts/advanced-search/advanced-search-page.php:191
+#: template-parts/advanced-search/transporters-search.php:67
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: archive-job_ship.php:301 taxonomy.php:249 template-parts/advanced-search/advanced-search-page.php:348
+msgid "<< Previous"
+msgstr "<< Zurück"
+
+#: archive-job_ship.php:328 taxonomy.php:276 template-parts/advanced-search/advanced-search-page.php:375
+msgid "Next >>"
+msgstr "Nächste >>"
+
+#: archive-job_ship.php:340 taxonomy.php:288 template-parts/advanced-search/advanced-search-page.php:387
+msgid "No jobs posted."
+msgstr "Keine Stellen ausgeschrieben."
+
+#: functions.php:638 lib/gateways/credits_listing.php:95 lib/gateways/paypal_listing.php:71
+#: lib/my_account/edit-job.php:243
+msgid "Base Fee"
+msgstr "Grundgebühr"
+
+#: functions.php:649 lib/gateways/credits_listing.php:105 lib/gateways/paypal_listing.php:82
+#: lib/my_account/edit-job.php:253
+msgid "Extra Images Fee"
+msgstr "Gebühr für zusätzliche Bilder"
+
+#: functions.php:660 lib/gateways/credits_listing.php:120 lib/gateways/paypal_listing.php:106
+#: lib/my_account/edit-job.php:278
+msgid "Featured Fee"
+msgstr "Ausgewählte Gebühr"
+
+#: functions.php:674
+msgid "Private Job Fee"
+msgstr "Private Job-Gebühr"
+
+#: functions.php:687 lib/gateways/credits_listing.php:138 lib/gateways/paypal_listing.php:137
+#: lib/my_account/edit-job.php:308
+msgid "Sealed Bidding Fee"
+msgstr "Gebühr für verdeckte Ausschreibungen"
+
+#: functions.php:720 lib/my_account/rate_user.php:185 lib/my_account/rate_user.php:255 lib/my_account/reviews.php:72
+#: lib/my_account/reviews.php:135 lib/my_account/reviews.php:202 template-parts/user-area/my-account/my-jobs.php:147
+#: template-parts/user-area/my-account/my-jobs.php:222 template-parts/user-area/my-account/my-jobs.php:300
+#: template-parts/user-area/my-account/my-jobs.php:406 template-parts/user-area/my-account/my-jobs.php:490
+#: template-parts/user-area/my-account/my-jobs.php:566 template-parts/user-area/my-account/my-jobs.php:643
+#: template-parts/user-area/my-account/my-quotes.php:98 template-parts/user-area/my-account/my-quotes.php:165
+#: template-parts/user-area/my-account/my-quotes.php:264 template-parts/user-area/my-account/my-quotes.php:359
+#: template-parts/user-area/my-account/my-quotes.php:456 template-parts/user-area/my-account/reviews.php:230
+#: template-parts/user-area/my-account/reviews.php:302
+msgid "Job Title"
+msgstr "Berufsbezeichnung"
+
+#: functions.php:721
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:722 template-parts/user-area/my-account/my-account.php:238
+msgid "Posted On"
+msgstr "Verfasst am"
+
+#: functions.php:723 functions.php:4688 lib/my_account/rate_user.php:188 lib/my_account/rate_user.php:258
+#: lib/my_account/reviews.php:75 lib/my_account/reviews.php:138 lib/my_account/reviews.php:205 lib/user-feedback.php:69
+#: single-job_ship.php:232 template-parts/user-area/my-account/my-account.php:123
+#: template-parts/user-area/my-account/my-jobs.php:302 template-parts/user-area/my-account/my-jobs.php:408
+#: template-parts/user-area/my-account/my-jobs.php:492 template-parts/user-area/my-account/my-jobs.php:568
+#: template-parts/user-area/my-account/my-quotes.php:166 template-parts/user-area/my-account/my-quotes.php:265
+#: template-parts/user-area/my-account/my-quotes.php:360 template-parts/user-area/my-account/my-quotes.php:457
+#: template-parts/user-area/my-account/reviews.php:233 template-parts/user-area/my-account/reviews.php:305
+msgid "Price"
+msgstr "Preis"
+
+#: functions.php:724
+msgid "Expires in"
+msgstr "Läuft ab in"
+
+#: functions.php:725
+msgid "Featured"
+msgstr "Ausgewählt"
+
+#: functions.php:726 lib/admin_menu.php:5787 lib/admin_menu.php:5917
+msgid "Approved"
+msgstr "Genehmigt"
+
+#: functions.php:727
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: functions.php:728 lib/admin_menu.php:190 lib/admin_menu.php:270 lib/admin_menu.php:1397 lib/admin_menu.php:1462
+#: lib/admin_menu.php:1526 lib/admin_menu.php:1607 lib/admin_menu.php:1695 lib/admin_menu.php:1783 lib/admin_menu.php:5788
+#: lib/admin_menu.php:5918 lib/my_account/private_messages.php:105 lib/my_account/private_messages.php:158
+#: lib/my_account/private_messages.php:267 lib/my_account/private_messages.php:383 lib/my_account/reviews.php:76
+#: template-parts/user-area/my-account/my-account.php:124 template-parts/user-area/my-account/my-jobs.php:151
+#: template-parts/user-area/my-account/my-jobs.php:226 template-parts/user-area/my-account/my-jobs.php:304
+#: template-parts/user-area/my-account/my-jobs.php:411 template-parts/user-area/my-account/my-jobs.php:495
+#: template-parts/user-area/my-account/my-jobs.php:571 template-parts/user-area/my-account/my-jobs.php:647
+#: template-parts/user-area/my-account/my-quotes.php:101 template-parts/user-area/my-account/my-quotes.php:169
+#: template-parts/user-area/my-account/my-quotes.php:268 template-parts/user-area/my-account/my-quotes.php:363
+#: template-parts/user-area/my-account/my-quotes.php:460 template-parts/user-area/my-account/reviews.php:234
+msgid "Options"
+msgstr "Optionen"
+
+#: functions.php:764 lib/admin_menu.php:79 lib/admin_menu.php:3423 lib/admin_menu.php:3915 lib/admin_menu.php:4168
+#: lib/admin_menu.php:5814 lib/admin_menu.php:5948
+msgid "Yes"
+msgstr "Ja"
+
+#: functions.php:765 lib/admin_menu.php:79 lib/admin_menu.php:3423 lib/admin_menu.php:3915 lib/admin_menu.php:4168
+#: lib/admin_menu.php:5814 lib/admin_menu.php:5948 lib/choose_winner.php:178 lib/mark_delivered.php:98
+msgid "No"
+msgstr "Nein"
+
+#: functions.php:794
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: functions.php:796
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr "%s Stunden, %s Minuten, %s Sekunden"
+
+#: functions.php:799
+msgid "days"
+msgstr "Tage"
+
+#: functions.php:799
+msgid "day"
+msgstr "Tag"
+
+#: functions.php:800
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr "%s %s, %s Stunden, %s min"
+
+#: functions.php:916 lib/login_register/sett.php:66
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>ERROR</strong>: Geben Sie einen Benutzernamen oder eine E-Mail-Adresse ein."
+
+#: functions.php:920 lib/login_register/sett.php:70
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>ERROR</strong>: Es ist kein Benutzer mit dieser E-Mail-Adresse registriert."
+
+#: functions.php:933 lib/login_register/sett.php:83
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>ERROR</strong>: Ungültiger Benutzername oder E-Mail."
+
+#: functions.php:947 lib/login_register/sett.php:97
+msgid "Password reset is not allowed for this user"
+msgstr "Passwort zurücksetzen ist für diesen Benutzer nicht erlaubt"
+
+#: functions.php:964 lib/login_register/sett.php:109
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Jemand hat beantragt, dass das Passwort für das folgende Konto zurückgesetzt wird:"
+
+#: functions.php:966 lib/login_register/login.php:229 lib/login_register/login.php:309 lib/login_register/register.php:62
+#: lib/login_register/sett.php:111 template-parts/login-register/login.php:55
+#, php-format
+msgid "Username: %s"
+msgstr "Benutzername: %s"
+
+#: functions.php:967 lib/login_register/sett.php:112
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Wenn es sich um einen Fehler handelt, ignorieren Sie diese E-Mail einfach und es wird nichts passieren."
+
+#: functions.php:968 lib/login_register/sett.php:113
+msgid "To reset your password, visit the following address:"
+msgstr "Um Ihr Passwort zurückzusetzen, besuchen Sie die folgende Adresse:"
+
+#: functions.php:978 lib/login_register/login.php:234 lib/login_register/sett.php:123
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Passwort zurücksetzen"
+
+#: functions.php:984 lib/login_register/login.php:241 lib/login_register/login.php:318 lib/login_register/sett.php:129
+#: template-parts/login-register/login.php:64
+msgid "The e-mail could not be sent."
+msgstr "Die E-Mail konnte nicht gesendet werden."
+
+#: functions.php:984
+msgid ""
+"Possible reason: your host may have disabled the\n"
+"  \t\tmail() function..."
+msgstr ""
+"Möglicher Grund: Ihr Host hat das\n"
+" möglicherweise deaktiviert.  \t\tmail() Funktion..."
+
+#: functions.php:1064 lib/user-profile.php:57
+msgid "Not defined yet"
+msgstr "Noch nicht definiert"
+
+#: functions.php:1068 lib/user-profile.php:61
+msgid "There is no profile bio defined."
+msgstr "Es ist kein Profil Bio definiert."
+
+#: functions.php:1073 lib/user-profile.php:66
+#, php-format
+msgid "%s Registered On"
+msgstr "%s Registriert am"
+
+#: functions.php:1085
+#, php-format
+msgid "%s Inbox Messages"
+msgstr "%s Posteingangsnachrichten"
+
+#: functions.php:1086
+#, php-format
+msgid "%s unread"
+msgstr "%s ungelesen"
+
+#: functions.php:1090
+#, php-format
+msgid "%s Balance"
+msgstr "%s Saldo"
+
+#: functions.php:1100 lib/user-profile.php:80
+#, php-format
+msgid "%s Jobs in progress"
+msgstr "%s Aufträge in Bearbeitung"
+
+#: functions.php:1106 lib/user-profile.php:86
+#, php-format
+msgid "%s Live quotes"
+msgstr "%s Live-Kurse"
+
+#: functions.php:1114
+msgid "Edit Profile"
+msgstr "Profil bearbeiten"
+
+#: functions.php:1115 functions.php:1720
+#, fuzzy
+#| msgid "Edit Profile"
+msgid "View Profile"
+msgstr "Profil ansehen"
+
+#: functions.php:1196 functions.php:1256 functions.php:1326 functions.php:3949
+msgid "Select"
+msgstr "Wählen Sie"
+
+#: functions.php:1408
+msgid "FEATURED"
+msgstr "FEATURED"
+
+#: functions.php:1417 functions.php:1477
+#, php-format
+msgid "Posted on %s"
+msgstr "Verfasst am %s"
+
+#: functions.php:1420 functions.php:1480
+#, php-format
+msgid "From: <b>%s</b>"
+msgstr "von: <b>%s</b>"
+
+#: functions.php:1421 functions.php:1481
+#, php-format
+msgid "To: <b>%s</b>"
+msgstr "An: <b>%s</b>"
+
+#: functions.php:1434 functions.php:1494
+msgid "Post Proposal"
+msgstr "Vorschlag für einen Beitrag"
+
+#: functions.php:1546 functions.php:3668
+msgid "View Details"
+msgstr "Details anzeigen"
+
+#: functions.php:1603 functions.php:1651
+msgid "(No rating)"
+msgstr "(Keine Bewertung)"
+
+#: functions.php:1616
+#, php-format
+msgid "on %s rating(s)"
+msgstr "auf %s Bewertung(en)"
+
+#: functions.php:1712
+msgid "This user doesnt have a description."
+msgstr "Dieser Benutzer hat keine Beschreibung."
+
+#: functions.php:1721 single-job_ship.php:1144
+msgid "Contact User"
+msgstr "Kontakt Benutzer"
+
+#: functions.php:2834
+#, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend installing <strong><a href=\"%s\">this plugin</"
+"a></strong>. It will give you the \"Page Builder\" feature for your pages, and configure homepage as well."
+msgstr ""
+"Um die volle Erfahrung unseres Themas zu nutzen, empfehlen wir<strong><a href=\"%s\">dieses Plugin</a></strong> zu "
+"installieren. Es wird Ihnendie Funktion \"Page Builder\" für Ihre Seiten und konfigurieren Sie auch die Homepage."
+
+#: functions.php:2860
+#, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend installing <strong><a href=\"%s\">WP PageNavi "
+"Plugin</a></strong>. You will need it for pagination."
+msgstr ""
+"Um die volle Erfahrung unseres Themas zu nutzen, empfehlen wirInstallation des <strong><a href=\"%s\">WP PageNavi "
+"Plugin</a></strong>. Sie werdenfür die Paginierung benötigen."
+
+#: functions.php:2887
+#, php-format
+msgid ""
+"In order to benefit of the full experience of our theme, we recommend installing <strong><a href=\"%s\">the Breadcrumb "
+"Plugin</a></strong>."
+msgstr ""
+"Um die volle Erfahrung unseres Themas zu nutzen, empfehlen wirdie Installation des <strong><a href=\"%s\">Breadcrumb "
+"Plugin</a></strong>."
+
+#: functions.php:2974
+msgid "Pickup"
+msgstr "Abholung"
+
+#: functions.php:2975
+msgid "Delivery"
+msgstr "Lieferung"
+
+#: functions.php:2976 template-parts/user-area/my-account/my-jobs.php:148
+#: template-parts/user-area/my-account/my-jobs.php:644
+msgid "Budget"
+msgstr "Haushalt"
+
+#: functions.php:2977
+msgid "Time Due"
+msgstr "Fällige Zeit"
+
+#: functions.php:2991
+msgid "Closed/Expired"
+msgstr "Geschlossen/abgelaufen"
+
+#: functions.php:3038 functions.php:3237 functions.php:3301 functions.php:3377
+msgid "Pending Job"
+msgstr "Ausstehender Auftrag"
+
+#: functions.php:3043 functions.php:3119 functions.php:3181 functions.php:3243 functions.php:3307 functions.php:3383
+#: functions.php:3445 functions.php:3531 functions.php:3599
+msgid "Job Page"
+msgstr "Job Seite"
+
+#: functions.php:3058
+#, php-format
+msgid "Deposit Escrow for winning bid: %s"
+msgstr "Kautionshinterlegung für den Zuschlag: %s"
+
+#: functions.php:3070
+msgid "Waiting for the transporter to mark this job as delivered."
+msgstr "Ich warte darauf, dass der Transporteur diesen Auftrag als zugestellt markiert."
+
+#: functions.php:3120
+msgid "Rate Job Owner"
+msgstr "Auftragseigentümer bewerten"
+
+#: functions.php:3130
+#, php-format
+msgid "This job was delivered on %s."
+msgstr "Dieser Auftrag wurde am %s geliefert."
+
+#: functions.php:3182
+msgid "Pay Job Commission"
+msgstr "Bezahlen Job Kommission"
+
+#: functions.php:3192
+#, php-format
+msgid "The transporter set this job as delivered on %s. You can pay them directly."
+msgstr "Der Spediteur hat diesen Auftrag am %s als zugestellt markiert. Sie können ihn direkt bezahlen."
+
+#: functions.php:3244
+msgid "Set Job As Paid"
+msgstr "Job als bezahlt einstellen"
+
+#: functions.php:3255
+#, php-format
+msgid "You have set this job as delivered on %s. Waiting for the item owner to pay."
+msgstr "Sie haben diesen Auftrag als geliefert am %s eingestellt. Ich warte auf die Zahlung des Eigentümers des Artikels."
+
+#: functions.php:3308
+msgid "Pay Commission"
+msgstr "Lohnkommission"
+
+#: functions.php:3327
+#, php-format
+msgid "This job has been delivered on %s."
+msgstr "Dieser Auftrag wurde am %s zugestellt."
+
+#: functions.php:3328
+#, php-format
+msgid "The winning bid on this job was: %s."
+msgstr "Das Höchstgebot für diesen Auftrag war: %s."
+
+#: functions.php:3329
+#, php-format
+msgid "The commission you have to pay is: %s."
+msgstr "Die Provision, die Sie zahlen müssen, beträgt: %s."
+
+#: functions.php:3384 lib/my_account/set_delivered.php:7
+msgid "Set Delivered"
+msgstr "Satz Geliefert"
+
+#: functions.php:3390
+msgid "After you deliver the item, please set the job as delivered so the item owner knows, and give feedback."
+msgstr ""
+"Nachdem Sie die Sendung zugestellt haben, stellen Sie bitte den Auftrag als zugestellt ein, damit die SendungBesitzer "
+"weiß, und geben Sie Feedback."
+
+#: functions.php:3439 functions.php:3520 functions.php:3594
+msgid "Closed/Ended"
+msgstr "Geschlossen/Beendet"
+
+#: functions.php:3446 functions.php:5118 lib/my_account/edit-job.php:18 single-job_ship.php:982
+#: template-parts/post-new/post-new.php:35
+msgid "Edit Job"
+msgstr "Job bearbeiten"
+
+#: functions.php:3447
+msgid "Delete Job"
+msgstr "Job löschen"
+
+#: functions.php:3465
+#, php-format
+msgid ""
+"This job was posted but the listing fee for it was not paid yet. <a href=\"%s\">Click here</a> to pay the outstanding "
+"balance."
+msgstr ""
+"Diese Stelle wurde ausgeschrieben, aber die Inseratsgebühr dafür wurde noch nicht bezahlt. <a href=\"%s\">Klicken Sie "
+"hier</a>, um den ausstehenden Betrag zu bezahlen."
+
+#: functions.php:3533
+msgid "Pick Winner"
+msgstr "Gewinner auswählen"
+
+#: functions.php:3541
+#, php-format
+msgid "Proposal sent by: %s at the price of: %s"
+msgstr "Vorschlag gesendet von: %s zum Preis von: %s"
+
+#: functions.php:3545
+msgid "This was the bid you chose as winner for this job."
+msgstr "Dies war das Angebot, das Sie als Gewinner für diesen Auftrag ausgewählt haben."
+
+#: functions.php:3608
+#, php-format
+msgid "You have bidded %s for this job."
+msgstr "Sie haben ein Gebot von %s für diese Stelle abgegeben."
+
+#: functions.php:3612
+msgid "This bid was chosen as the job winner proposal."
+msgstr "Dieses Angebot wurde als Gewinner des Auftrags ausgewählt."
+
+#: functions.php:3705
+#, php-format
+msgid "%s Job is open for bidding."
+msgstr "%s Die Stelle ist zur Angebotsabgabe offen."
+
+#: functions.php:3707
+#, php-format
+msgid "%s Job is closed for bidding."
+msgstr "%s Der Auftrag ist für Ausschreibungen geschlossen."
+
+#: functions.php:4500 lib/my_account/edit-job.php:655 template-parts/post-new/post-new.php:307
+msgid "Package Pickup"
+msgstr "Paketabholung"
+
+#: functions.php:4628 functions.php:4657 lib/my_account/edit-job.php:782 lib/my_account/edit-job.php:811
+#: template-parts/post-new/post-new.php:317 template-parts/post-new/post-new.php:354
+msgid "Location (address/zip)"
+msgstr "Standort (Adresse/PLZ)"
+
+#: functions.php:4630 lib/my_account/edit-job.php:784 template-parts/post-new/post-new.php:319
+msgid "eg: New York, 15th ave"
+msgstr "z.B.: New York, 15. Straße"
+
+#: functions.php:4639 lib/my_account/edit-job.php:793 template-parts/post-new/post-new.php:329
+msgid "Pickup Date"
+msgstr "Datum der Abholung"
+
+#: functions.php:4640 functions.php:4669 lib/my_account/edit-job.php:794 lib/my_account/edit-job.php:823
+#: template-parts/post-new/post-new.php:330 template-parts/post-new/post-new.php:367
+msgid "click here to choose date"
+msgstr "Klicken Sie hier, um ein Datum auszuwählen"
+
+#: functions.php:4649 lib/my_account/edit-job.php:803 template-parts/post-new/post-new.php:343
+msgid "Package Delivery"
+msgstr "Paketlieferung"
+
+#: functions.php:4659 lib/my_account/edit-job.php:813 template-parts/post-new/post-new.php:356
+msgid "eg: California, San Francisco, Lombard St"
+msgstr "z.B.: Kalifornien, San Francisco, Lombard St"
+
+#: functions.php:4668 lib/my_account/edit-job.php:822 template-parts/post-new/post-new.php:366
+msgid "Delivery Date"
+msgstr "Liefertermin"
+
+#: functions.php:4701
+msgid "Packages"
+msgstr "Pakete"
+
+#: functions.php:4708 lib/my_account/edit-job.php:500
+msgid "Length"
+msgstr "Länge"
+
+#: functions.php:4715 lib/my_account/edit-job.php:507
+msgid "Width"
+msgstr "Breite"
+
+#: functions.php:4722 lib/my_account/edit-job.php:514
+msgid "Height"
+msgstr "Höhe"
+
+#: functions.php:4729 lib/my_account/edit-job.php:521
+msgid "Weight"
+msgstr "Gewicht"
+
+#: functions.php:4737
+msgid "Feature this job"
+msgstr "Diesen Job vorstellen"
+
+#: functions.php:4743
+msgid "Sealed Bidding"
+msgstr "Versiegeltes Bieten"
+
+#: functions.php:4749
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: functions.php:4756
+msgid "Listing Fee Paid"
+msgstr "Listinggebühr gezahlt"
+
+#: functions.php:4777
+msgid "Ad Valid Until:"
+msgstr "Anzeige gültig bis:"
+
+#: functions.php:4951 lib/my_account/edit-job.php:1046 template-parts/post-new/post-new.php:681
+msgid "Click the grey area below to add job files. Images are not accepted."
+msgstr "Klicken Sie auf den grauen Bereich unten, um Auftragsdateien hinzuzufügen. Bilder werden nicht akzeptiert."
+
+#: functions.php:5065 lib/my_account/edit-job.php:918 template-parts/post-new/post-new.php:560
+msgid "Click the grey area below to add job images. Other files are not accepted. Use the form below."
+msgstr ""
+"Klicken Sie auf den grauen Bereich unten, um Auftragsbilder hinzuzufügen. Andere Dateien werden nicht akzeptiert."
+"Verwenden Sie das nachstehende Formular."
+
+#: functions.php:5114
+msgid "Jobs"
+msgstr "Stellenangebote"
+
+#: functions.php:5115 lib/admin_menu.php:186 lib/admin_menu.php:266
+msgid "Job"
+msgstr "Job"
+
+#: functions.php:5116 functions.php:5119
+msgid "Add New Job"
+msgstr "Neuen Auftrag hinzufügen"
+
+#: functions.php:5117
+msgid "New Job"
+msgstr "Neuer Job"
+
+#: functions.php:5120
+msgid "Search Jobs"
+msgstr "Jobs suchen"
+
+#: functions.php:5140
+msgid "Job Categories"
+msgstr "Job-Kategorien"
+
+#: functions.php:5154 lib/login_register/register.php:179 template-parts/login-register/register.php:104
+#: template-parts/user-area/my-account/my-jobs.php:301
+msgid "Transporter"
+msgstr "Transporter"
+
+#: functions.php:5159 template-parts/login-register/register.php:105
+msgid "Customer"
+msgstr "Kunde"
+
+#: functions.php:5606 lib/login_register/login.php:382
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this "
+"documentation</a> or try the <a href=\"%2$s\">support forums</a>."
+msgstr ""
+"<strong>ERROR</strong>: Cookies werden wegen unerwarteter Ausgabe blockiert. FürHilfe, siehe <a href=\"%1$s\">diese "
+"Dokumentation</a> oder versuchen Sie die <a href= href=\"%1$s\">Dokumentation</a>.\"%2$s\">Support-Foren</a>."
+
+#: functions.php:5607 functions.php:5611 lib/login_register/login.php:383 lib/login_register/login.php:387
+msgid "https://codex.wordpress.org/Cookies"
+msgstr "https://codex.wordpress.org/Cookies"
+
+#: functions.php:5607 lib/login_register/login.php:383
+msgid "https://wordpress.org/support/"
+msgstr "https://wordpress.org/support/"
+
+#: functions.php:5610 lib/login_register/login.php:386
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</"
+"a> to use WordPress."
+msgstr ""
+"<strong>ERROR</strong>: Cookies sind blockiert oder werden von Ihrem Computer nicht unterstützt.Browser. Sie müssen <a "
+"href=\"%s\">Cookies aktivieren</a>, um WordPress zu verwenden."
+
+#: functions.php:5645
+msgid "Payment received from site admin"
+msgstr "Zahlung vom Seitenbetreiber erhalten"
+
+#: functions.php:5659
+msgid "Payment subtracted by site admin"
+msgstr "Von der Website-Verwaltung abgezogene Zahlung"
+
+#: functions.php:5831 lib/my_account/edit-job.php:619 template-parts/post-new/post-new.php:264
+msgid "Select Subcategory"
+msgstr "Unterkategorie auswählen"
+
+#: functions.php:6273
+msgid ""
+"You are logged in as administrator, and you should be both menus (transporter and customer). Regular users see one or "
+"the other depending on their role."
+msgstr ""
+"Sie sind als Administrator eingeloggt, und Sie sollten beide Menüs(Spediteur und Kunde). Regelmäßige Nutzer sehen das "
+"eine oder das andere, je nachihre Rolle."
+
+#: functions.php:6307
+msgid "My Account Menu"
+msgstr "Menü \"Mein Konto"
+
+#: functions.php:6311
+msgid "MyAccount Home"
+msgstr "MyAccount Startseite"
+
+#: functions.php:6312
+#, php-format
+msgid "Finances %s"
+msgstr "Finanzen %s"
+
+#: functions.php:6313 lib/admin_menu.php:43 lib/my_account/private_messages.php:27
+msgid "Private Messages"
+msgstr "Privatnachrichten"
+
+#: functions.php:6314 lib/my_account/personal_info.php:24 template-parts/general-stuff/general-design-parts.php:74
+#: template-parts/user-area/my-account/profile-settings.php:24 template-parts/user-area/my-account/profile-settings.php:26
+msgid "Profile Settings"
+msgstr "Profil-Einstellungen"
+
+#: functions.php:6315
+#, php-format
+msgid "Reviews/Feedback %s"
+msgstr "Bewertungen/Feedback %s"
+
+#: functions.php:6325
+msgid "Transporter Menu"
+msgstr "Menü Transporter"
+
+#: functions.php:6343
+msgid "My Posted Offers"
+msgstr "Meine veröffentlichten Angebote"
+
+#: functions.php:6344 template-parts/user-area/my-account/my-jobs.php:93
+#, php-format
+msgid "Pending Jobs %s"
+msgstr "Ausstehende Aufträge %s"
+
+#: functions.php:6345
+#, php-format
+msgid "Awaiting Payments %s"
+msgstr "Ausstehende Zahlungen %s"
+
+#: functions.php:6346 template-parts/user-area/my-account/my-quotes.php:58
+msgid "Completed Jobs"
+msgstr "Abgeschlossene Aufträge"
+
+#: functions.php:6360
+msgid "Customer Menu"
+msgstr "Kundenmenü"
+
+#: functions.php:6379 template-parts/general-stuff/general-design-parts.php:47
+msgid "Post New Job"
+msgstr "Neue Stelle einstellen"
+
+#: functions.php:6381 lib/my_account/active_jobs.php:24 template-parts/user-area/my-account/my-jobs.php:86
+msgid "Active Jobs"
+msgstr "Aktive Jobs"
+
+#: functions.php:6382
+msgid "Received Offers"
+msgstr "Erhaltene Angebote"
+
+#: functions.php:6384
+#, php-format
+msgid "Jobs Pending Delivery %s"
+msgstr "Aufträge, die zur Lieferung anstehen %s"
+
+#: functions.php:6385
+msgid "Delivered Items"
+msgstr "Gelieferte Artikel"
+
+#: functions.php:6386
+#, php-format
+msgid "Outstanding Payments %s"
+msgstr "Ausstehende Zahlungen %s"
+
+#: functions.php:6387
+msgid "Completed payments"
+msgstr "Abgeschlossene Zahlungen"
+
+#: functions.php:6585
+msgid "Single Page Sidebar"
+msgstr "Einseitige Seitenleiste"
+
+#: functions.php:6587
+msgid "The sidebar area of the single blog post"
+msgstr "Der Seitenleistenbereich des einzelnen Blogbeitrags"
+
+#: functions.php:6598
+msgid "shipme - Stretch Wide MainPage Sidebar"
+msgstr "shipme - Breite Hauptseiten-Seitenleiste strecken"
+
+#: functions.php:6600
+msgid "This sidebar is site wide stretched in home page, just under the slider/menu."
+msgstr "Diese Seitenleiste wird auf der Startseite in die Breite gezogen, direkt unter dem Slider/Menü."
+
+#: functions.php:6610
+msgid "Other Page Sidebar"
+msgstr "Andere Seite Seitenleiste"
+
+#: functions.php:6612
+msgid "The sidebar area of any other page than the defined ones"
+msgstr "Der Seitenleistenbereich einer beliebigen anderen als der definierten Seite"
+
+#: functions.php:6623
+msgid "Home Page Sidebar - Right"
+msgstr "Startseite Seitenleiste - Rechts"
+
+#: functions.php:6625
+msgid "The right sidebar area of the homepage"
+msgstr "Der rechte Seitenleistenbereich der Homepage"
+
+#: functions.php:6636
+msgid "Home Page Sidebar - Left"
+msgstr "Startseite Seitenleiste - Links"
+
+#: functions.php:6638
+msgid "The left sidebar area of the homepage"
+msgstr "Der linke Seitenleistenbereich der Homepage"
+
+#: functions.php:6648
+msgid "First Footer Widget Area"
+msgstr "Erster Footer-Widget-Bereich"
+
+#: functions.php:6650
+msgid "The first footer widget area"
+msgstr "Der erste Fußzeilen-Widget-Bereich"
+
+#: functions.php:6659
+msgid "Second Footer Widget Area"
+msgstr "Zweiter Footer-Widget-Bereich"
+
+#: functions.php:6661
+msgid "The second footer widget area"
+msgstr "Der zweite Fußzeilen-Widget-Bereich"
+
+#: functions.php:6670
+msgid "Third Footer Widget Area"
+msgstr "Dritter Fußzeilen-Widget-Bereich"
+
+#: functions.php:6672
+msgid "The third footer widget area"
+msgstr "Der dritte Bereich für Fußzeilen-Widgets"
+
+#: functions.php:6681
+msgid "Fourth Footer Widget Area"
+msgstr "Vierter Footer-Widget-Bereich"
+
+#: functions.php:6683
+msgid "The fourth footer widget area"
+msgstr "Der vierte Widget-Bereich in der Fußzeile"
+
+#: functions.php:6693
+msgid "shipme - Job Single Sidebar"
+msgstr "shipme - Job Einzelne Seitenleiste"
+
+#: functions.php:6695
+msgid "The sidebar of the single job page"
+msgstr "Die Seitenleiste der Einzelauftragsseite"
+
+#: functions.php:6704
+msgid "shipme - HomePage Area"
+msgstr "shipme - HomePage-Bereich"
+
+#: functions.php:6706
+msgid "The sidebar for the main page, just under the slider."
+msgstr "Die Seitenleiste für die Hauptseite, direkt unter dem Slider."
+
+#: lib/admin_menu.php:18
+msgid "ShipMe"
+msgstr "ShipMe"
+
+#: lib/admin_menu.php:19
+msgid "Site Overview"
+msgstr "Überblick über die Website"
+
+#: lib/admin_menu.php:20
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: lib/admin_menu.php:22
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: lib/admin_menu.php:23 lib/admin_menu.php:1838 lib/admin_menu.php:2050
+msgid "Email Settings"
+msgstr "E-Mail-Einstellungen"
+
+#: lib/admin_menu.php:24
+msgid "Payment Gateways"
+msgstr "Zahlungs-Gateways"
+
+#: lib/admin_menu.php:25 lib/admin_menu.php:3914
+msgid "Pricing Settings"
+msgstr "Einstellungen zur Preisgestaltung"
+
+#: lib/admin_menu.php:26
+msgid "Custom Pricing"
+msgstr "Individuelle Preisgestaltung"
+
+#: lib/admin_menu.php:27
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: lib/admin_menu.php:30 lib/admin_menu.php:3418
+msgid "Layout Settings"
+msgstr "Layout-Einstellungen"
+
+#: lib/admin_menu.php:36
+msgid "User Balances"
+msgstr "Benutzersalden"
+
+#: lib/admin_menu.php:37
+msgid "Withdrawals"
+msgstr "Abhebungen"
+
+#: lib/admin_menu.php:38
+msgid "Escrows"
+msgstr "Escrows"
+
+#: lib/admin_menu.php:42
+msgid "User Reviews"
+msgstr "Anwenderberichte"
+
+#: lib/admin_menu.php:44
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: lib/admin_menu.php:45
+msgid "Theme Info"
+msgstr "Themen-Infos"
+
+#: lib/admin_menu.php:77
+msgid "License Options"
+msgstr "Lizenz-Optionen"
+
+#: lib/admin_menu.php:94 lib/admin_menu.php:1856 lib/admin_menu.php:1864 lib/admin_menu.php:1872 lib/admin_menu.php:1881
+#: lib/admin_menu.php:1890 lib/admin_menu.php:1899 lib/admin_menu.php:1908 lib/admin_menu.php:1917 lib/admin_menu.php:1926
+#: lib/admin_menu.php:1935 lib/admin_menu.php:1947 lib/admin_menu.php:1956 lib/admin_menu.php:1965 lib/admin_menu.php:1974
+#: lib/admin_menu.php:1983 lib/admin_menu.php:1992 lib/admin_menu.php:2001 lib/admin_menu.php:2012 lib/admin_menu.php:2021
+#: lib/admin_menu.php:2030 lib/admin_menu.php:2039 lib/admin_menu.php:3449 lib/admin_menu.php:3475 lib/admin_menu.php:3488
+#: lib/admin_menu.php:3496 lib/admin_menu.php:3960 lib/admin_menu.php:3994 lib/admin_menu.php:4192 lib/admin_menu.php:4200
+#: lib/admin_menu.php:4208 lib/admin_menu.php:4216 lib/admin_menu.php:4225 lib/admin_menu.php:6093 lib/admin_menu.php:6104
+#: lib/admin_menu.php:6112
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: lib/admin_menu.php:102
+msgid "License Settings"
+msgstr "Lizenz-Einstellungen"
+
+#: lib/admin_menu.php:121
+msgid "License key:"
+msgstr "Lizenzschlüssel:"
+
+#: lib/admin_menu.php:129 lib/admin_menu.php:2150 lib/admin_menu.php:2216 lib/admin_menu.php:2280 lib/admin_menu.php:2343
+#: lib/admin_menu.php:2408 lib/admin_menu.php:2472 lib/admin_menu.php:2537 lib/admin_menu.php:2600 lib/admin_menu.php:2667
+#: lib/admin_menu.php:2734 lib/admin_menu.php:2798 lib/admin_menu.php:2863 lib/admin_menu.php:2932 lib/admin_menu.php:2996
+#: lib/admin_menu.php:3061 lib/admin_menu.php:3124 lib/admin_menu.php:3187 lib/admin_menu.php:3251 lib/admin_menu.php:3289
+#: lib/admin_menu.php:3343 lib/admin_menu.php:3396 lib/admin_menu.php:3617 lib/admin_menu.php:3748 lib/admin_menu.php:3868
+#: lib/admin_menu.php:3898 lib/admin_menu.php:4058 lib/admin_menu.php:4146 lib/admin_menu.php:4279 lib/admin_menu.php:4309
+#: lib/admin_menu.php:4338 lib/admin_menu.php:4374 lib/admin_menu.php:6356 lib/admin_menu.php:6390 lib/admin_menu.php:6431
+msgid "Save Options"
+msgstr "Optionen speichern"
+
+#: lib/admin_menu.php:166
+msgid "All User Reviews"
+msgstr "Alle Benutzerbewertungen"
+
+#: lib/admin_menu.php:167 lib/admin_menu.php:241 lib/admin_menu.php:1575 lib/admin_menu.php:1662 lib/admin_menu.php:1750
+#: lib/admin_menu.php:5681 lib/admin_menu.php:5886
+msgid "Search User"
+msgstr "Benutzer suchen"
+
+#: lib/admin_menu.php:185 lib/admin_menu.php:265 lib/admin_menu.php:2071
+msgid "Rated User"
+msgstr "Bewerteter Benutzer"
+
+#: lib/admin_menu.php:187 lib/admin_menu.php:267 lib/my_account/rate_user.php:259 lib/my_account/reviews.php:206
+#: lib/user-feedback.php:70 template-parts/user-area/my-account/reviews.php:306
+msgid "Rating"
+msgstr "Bewertung"
+
+#: lib/admin_menu.php:188 lib/admin_menu.php:268 lib/my_account/edit-job.php:489
+msgid "Description"
+msgstr "Beschreibung"
+
+#: lib/admin_menu.php:189 lib/admin_menu.php:269
+msgid "Awarded On"
+msgstr "Verliehen am"
+
+#: lib/admin_menu.php:227 lib/admin_menu.php:307
+msgid "There are no user feedback."
+msgstr "Es gibt keine Rückmeldungen von Benutzern."
+
+#: lib/admin_menu.php:242 lib/admin_menu.php:1576 lib/admin_menu.php:1663 lib/admin_menu.php:1751 lib/admin_menu.php:5887
+#: lib/widgets/search-box-big.php:87
+msgid "Search"
+msgstr "Suche"
+
+#: lib/admin_menu.php:540
+msgid "There are no outstanding jobs yet."
+msgstr "Es sind noch keine offenen Stellen vorhanden."
+
+#: lib/admin_menu.php:685
+msgid "There are no delivered jobs yet."
+msgstr "Es sind noch keine Stellen ausgeschrieben."
+
+#: lib/admin_menu.php:835 lib/my_account/completed_jobs.php:101
+msgid "There are no completed jobs yet."
+msgstr "Es sind noch keine Aufträge abgeschlossen."
+
+#: lib/admin_menu.php:989
+msgid "There are no paid jobs yet."
+msgstr "Es gibt noch keine bezahlten Stellen."
+
+#: lib/admin_menu.php:1083
+#, php-format
+msgid "Payment received from %s"
+msgstr "Zahlung erhalten von %s"
+
+#: lib/admin_menu.php:1087
+#, php-format
+msgid "Payment fee for project %s"
+msgstr "Zahlungsgebühr für Projekt %s"
+
+#: lib/admin_menu.php:1097 lib/admin_menu.php:1110
+msgid "Money Escrow Completed"
+msgstr "Geldhinterlegung abgeschlossen"
+
+#: lib/admin_menu.php:1098
+#, php-format
+msgid "You have released the escrow of: %s"
+msgstr "Sie haben das Treuhandkonto von freigegeben: %s"
+
+#: lib/admin_menu.php:1111
+#, php-format
+msgid "You have received the amount of: %s"
+msgstr "Sie haben den Betrag von erhalten: %s"
+
+#: lib/admin_menu.php:1122
+msgid "Escrow completed!"
+msgstr "Escrow abgeschlossen!"
+
+#: lib/admin_menu.php:1151
+msgid "Escrow closed!"
+msgstr "Escrow geschlossen!"
+
+#: lib/admin_menu.php:1355 lib/admin_menu.php:1356
+#, php-format
+msgid "Your withdrawal has been completed: %s"
+msgstr "Ihre Abhebung wurde abgeschlossen: %s"
+
+#: lib/admin_menu.php:1361
+#, php-format
+msgid "Withdraw to PayPal to email: %s"
+msgstr "Überweisung an PayPal an E-Mail: %s"
+
+#: lib/admin_menu.php:1371
+msgid "Unresolved Requests"
+msgstr "Ungelöste Anfragen"
+
+#: lib/admin_menu.php:1372
+msgid "Resolved Requests"
+msgstr "Gelöste Anfragen"
+
+#: lib/admin_menu.php:1373
+msgid "Rejected Requests"
+msgstr "Abgelehnte Anträge"
+
+#: lib/admin_menu.php:1374
+msgid "Search Unresolved"
+msgstr "Suche ungelöst"
+
+#: lib/admin_menu.php:1375
+msgid "Search Solved"
+msgstr "Gelöste Suche"
+
+#: lib/admin_menu.php:1376
+msgid "Search Rejected"
+msgstr "Abgelehnte Suche"
+
+#: lib/admin_menu.php:1392 lib/admin_menu.php:1456 lib/admin_menu.php:1521 lib/admin_menu.php:1602 lib/admin_menu.php:1690
+#: lib/admin_menu.php:1778 template-parts/login-register/register.php:78
+msgid "Username"
+msgstr "Benutzername"
+
+#: lib/admin_menu.php:1393 lib/admin_menu.php:1457 lib/admin_menu.php:1603 lib/admin_menu.php:1691 lib/admin_menu.php:1779
+#: template-parts/user-area/my-account/finances.php:352
+msgid "Method"
+msgstr "Methode"
+
+#: lib/admin_menu.php:1394 lib/admin_menu.php:1458 lib/admin_menu.php:1522 lib/admin_menu.php:1604 lib/admin_menu.php:1692
+#: lib/admin_menu.php:1780 template-parts/user-area/my-account/finances.php:353
+msgid "Details"
+msgstr "Einzelheiten"
+
+#: lib/admin_menu.php:1395 lib/admin_menu.php:1459 lib/admin_menu.php:1523 lib/admin_menu.php:1605 lib/admin_menu.php:1693
+#: lib/admin_menu.php:1781 template-parts/user-area/my-account/finances.php:354
+msgid "Date Requested"
+msgstr "Gewünschtes Datum"
+
+#: lib/admin_menu.php:1419 lib/admin_menu.php:1485 lib/admin_menu.php:1629 lib/admin_menu.php:1717
+msgid "Make Complete"
+msgstr "Vollständig machen"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1630 lib/admin_menu.php:1718
+msgid "Deny Request"
+msgstr "Antrag ablehnen"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1630 lib/admin_menu.php:1718
+#: template-parts/user-area/my-account/my-jobs.php:100
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+#: lib/admin_menu.php:1420 lib/admin_menu.php:1486 lib/admin_menu.php:1546 lib/admin_menu.php:1630 lib/admin_menu.php:1718
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+#: lib/admin_menu.php:1432
+msgid "There are no unresolved withdrawal requests."
+msgstr "Es gibt keine ungelösten Rücknahmeanträge."
+
+#: lib/admin_menu.php:1461 lib/admin_menu.php:1525
+msgid "Date Released"
+msgstr "Veröffentlichungsdatum"
+
+#: lib/admin_menu.php:1498
+msgid "There are no resolved withdrawal requests."
+msgstr "Es liegen keine beschlossenen Rücknahmeanträge vor."
+
+#: lib/admin_menu.php:1559
+msgid "There are no rejected withdrawal requests."
+msgstr "Es gibt keine abgelehnten Rücknahmeanträge."
+
+#: lib/admin_menu.php:1642 lib/admin_menu.php:1730 lib/admin_menu.php:1816 lib/admin_menu.php:5971
+msgid "There are no results for your search."
+msgstr "Es gibt keine Ergebnisse für Ihre Suche."
+
+#: lib/admin_menu.php:2051
+msgid "New User Email"
+msgstr "E-Mail für neue Benutzer"
+
+#: lib/admin_menu.php:2052
+msgid "New User Email (admin)"
+msgstr "E-Mail für neue Benutzer (admin)"
+
+#: lib/admin_menu.php:2054
+msgid "post job Not Approved Email (admin)"
+msgstr "Job einstellen Nicht genehmigte E-Mail (admin)"
+
+#: lib/admin_menu.php:2055
+msgid "post job Auto Approved Email (admin)"
+msgstr "Job einstellen Automatisch genehmigte E-Mail (admin)"
+
+#: lib/admin_menu.php:2056
+msgid "post job Not Approved Email"
+msgstr "Job einstellen Nicht genehmigte E-Mail"
+
+#: lib/admin_menu.php:2057
+msgid "post job Auto Approved Email"
+msgstr "Job einstellen Auto Approved Email"
+
+#: lib/admin_menu.php:2061
+msgid "Delivered Job (owner)"
+msgstr "Delivered Job (Eigentümer)"
+
+#: lib/admin_menu.php:2062
+msgid "Delivered Job (bidder)"
+msgstr "Gelieferter Auftrag (Bieter)"
+
+#: lib/admin_menu.php:2066
+msgid "Completed Job (owner)"
+msgstr "Abgeschlossener Auftrag (Eigentümer)"
+
+#: lib/admin_menu.php:2067
+msgid "Completed Job (bidder)"
+msgstr "Abgeschlossener Auftrag (Bieter)"
+
+#: lib/admin_menu.php:2070
+msgid "Private Message Received"
+msgstr "Private Nachricht erhalten"
+
+#: lib/admin_menu.php:2074
+msgid "Won Job(owner)"
+msgstr "Gewonnener Job (Eigentümer)"
+
+#: lib/admin_menu.php:2075
+msgid "Won Job(winner)"
+msgstr "Gewonnener Job(Gewinner)"
+
+#: lib/admin_menu.php:2076
+msgid "Won Job(losers)"
+msgstr "Gewonnener Job(Verlierer)"
+
+#: lib/admin_menu.php:2078
+msgid "Job Proposal(bidder)"
+msgstr "Jobvorschlag (Bieter)"
+
+#: lib/admin_menu.php:2079
+msgid "Job Proposal(owner)"
+msgstr "Job-Vorschlag (Eigentümer)"
+
+#: lib/admin_menu.php:2081
+msgid "Message Board(owner)"
+msgstr "Anschlagtafel(Besitzer)"
+
+#: lib/admin_menu.php:2082
+msgid "Message Board(bidder)"
+msgstr "Message Board(Bieter)"
+
+#: lib/admin_menu.php:2087
+msgid "Payment on Completed Job (owner)"
+msgstr "Zahlung bei abgeschlossenem Auftrag (Eigentümer)"
+
+#: lib/admin_menu.php:2098
+msgid ""
+"This email will be received by the owner of the project after he accepts the project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Eigentümer des Projekts, nachdem er den Auftrag angenommen hat.Projekt wie geliefert.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2109 lib/admin_menu.php:2174 lib/admin_menu.php:2239 lib/admin_menu.php:2302 lib/admin_menu.php:2365
+#: lib/admin_menu.php:2430 lib/admin_menu.php:2494 lib/admin_menu.php:2559 lib/admin_menu.php:2623 lib/admin_menu.php:2691
+#: lib/admin_menu.php:2756 lib/admin_menu.php:2822 lib/admin_menu.php:2889 lib/admin_menu.php:2953 lib/admin_menu.php:3021
+#: lib/admin_menu.php:3084 lib/admin_menu.php:3148 lib/admin_menu.php:3212
+msgid "Enable this email:"
+msgstr "Aktivieren Sie diese E-Mail:"
+
+#: lib/admin_menu.php:2115 lib/admin_menu.php:2181 lib/admin_menu.php:2245 lib/admin_menu.php:2308 lib/admin_menu.php:2371
+#: lib/admin_menu.php:2436 lib/admin_menu.php:2500 lib/admin_menu.php:2565 lib/admin_menu.php:2629 lib/admin_menu.php:2697
+#: lib/admin_menu.php:2762 lib/admin_menu.php:2828 lib/admin_menu.php:2895 lib/admin_menu.php:2959 lib/admin_menu.php:3027
+#: lib/admin_menu.php:3090 lib/admin_menu.php:3154 lib/admin_menu.php:3218 lib/admin_menu.php:3309 lib/admin_menu.php:3364
+msgid "Email Subject:"
+msgstr "E-Mail Betreff:"
+
+#: lib/admin_menu.php:2123 lib/admin_menu.php:2189 lib/admin_menu.php:2253 lib/admin_menu.php:2316 lib/admin_menu.php:2379
+#: lib/admin_menu.php:2444 lib/admin_menu.php:2509 lib/admin_menu.php:2573 lib/admin_menu.php:2637 lib/admin_menu.php:2705
+#: lib/admin_menu.php:2770 lib/admin_menu.php:2836 lib/admin_menu.php:2903 lib/admin_menu.php:2967 lib/admin_menu.php:3035
+#: lib/admin_menu.php:3098 lib/admin_menu.php:3162 lib/admin_menu.php:3226 lib/admin_menu.php:3317 lib/admin_menu.php:3372
+msgid "Email Content:"
+msgstr "E-Mail-Inhalt:"
+
+#: lib/admin_menu.php:2133 lib/admin_menu.php:2199 lib/admin_menu.php:2263 lib/admin_menu.php:2326 lib/admin_menu.php:2389
+#: lib/admin_menu.php:2454 lib/admin_menu.php:2519 lib/admin_menu.php:2583 lib/admin_menu.php:2647 lib/admin_menu.php:2715
+#: lib/admin_menu.php:2780 lib/admin_menu.php:2846 lib/admin_menu.php:2913 lib/admin_menu.php:2977 lib/admin_menu.php:3045
+#: lib/admin_menu.php:3108 lib/admin_menu.php:3172 lib/admin_menu.php:3236 lib/admin_menu.php:3328 lib/admin_menu.php:3382
+msgid "Here is a list of tags you can use in this email:"
+msgstr "Hier finden Sie eine Liste von Tags, die Sie in dieser E-Mail verwenden können:"
+
+#: lib/admin_menu.php:2135 lib/admin_menu.php:2265 lib/admin_menu.php:2915 lib/admin_menu.php:2979
+msgid "Job Owner's Username"
+msgstr "Benutzername des Auftragnehmers"
+
+#: lib/admin_menu.php:2136 lib/admin_menu.php:2202 lib/admin_menu.php:2266 lib/admin_menu.php:2329 lib/admin_menu.php:2392
+#: lib/admin_menu.php:2457 lib/admin_menu.php:2522 lib/admin_menu.php:2586 lib/admin_menu.php:2650 lib/admin_menu.php:2719
+#: lib/admin_menu.php:2784 lib/admin_menu.php:2849 lib/admin_menu.php:2916 lib/admin_menu.php:2980 lib/admin_menu.php:3048
+#: lib/admin_menu.php:3111 lib/admin_menu.php:3174 lib/admin_menu.php:3238 lib/admin_menu.php:3333 lib/admin_menu.php:3386
+msgid "the link to your user login page"
+msgstr "den Link zu Ihrer Benutzeranmeldeseite"
+
+#: lib/admin_menu.php:2137 lib/admin_menu.php:2203 lib/admin_menu.php:2267 lib/admin_menu.php:2330 lib/admin_menu.php:2393
+#: lib/admin_menu.php:2458 lib/admin_menu.php:2523 lib/admin_menu.php:2587 lib/admin_menu.php:2651 lib/admin_menu.php:2720
+#: lib/admin_menu.php:2785 lib/admin_menu.php:2850 lib/admin_menu.php:2917 lib/admin_menu.php:2981 lib/admin_menu.php:3049
+#: lib/admin_menu.php:3112 lib/admin_menu.php:3175 lib/admin_menu.php:3239 lib/admin_menu.php:3334 lib/admin_menu.php:3387
+msgid "your website's name"
+msgstr "den Namen Ihrer Website"
+
+#: lib/admin_menu.php:2138 lib/admin_menu.php:2204 lib/admin_menu.php:2268 lib/admin_menu.php:2331 lib/admin_menu.php:2394
+#: lib/admin_menu.php:2459 lib/admin_menu.php:2524 lib/admin_menu.php:2588 lib/admin_menu.php:2652 lib/admin_menu.php:2721
+#: lib/admin_menu.php:2786 lib/admin_menu.php:2851 lib/admin_menu.php:2918 lib/admin_menu.php:2982 lib/admin_menu.php:3050
+#: lib/admin_menu.php:3113 lib/admin_menu.php:3176 lib/admin_menu.php:3240 lib/admin_menu.php:3335 lib/admin_menu.php:3388
+msgid "your website's main address"
+msgstr "die Hauptadresse Ihrer Website"
+
+#: lib/admin_menu.php:2139 lib/admin_menu.php:2205 lib/admin_menu.php:2269 lib/admin_menu.php:2332 lib/admin_menu.php:2395
+#: lib/admin_menu.php:2460 lib/admin_menu.php:2525 lib/admin_menu.php:2589 lib/admin_menu.php:2653 lib/admin_menu.php:2722
+#: lib/admin_menu.php:2787 lib/admin_menu.php:2852 lib/admin_menu.php:2920 lib/admin_menu.php:2984 lib/admin_menu.php:3051
+#: lib/admin_menu.php:3114 lib/admin_menu.php:3177 lib/admin_menu.php:3241
+msgid "your website's my account link"
+msgstr "Ihre Website ist mein Kontolink"
+
+#: lib/admin_menu.php:2140 lib/admin_menu.php:2206 lib/admin_menu.php:2270 lib/admin_menu.php:2333 lib/admin_menu.php:2396
+#: lib/admin_menu.php:2461 lib/admin_menu.php:2526 lib/admin_menu.php:2590 lib/admin_menu.php:2654 lib/admin_menu.php:2723
+#: lib/admin_menu.php:2788 lib/admin_menu.php:2853 lib/admin_menu.php:2921 lib/admin_menu.php:2985 lib/admin_menu.php:3052
+#: lib/admin_menu.php:3115 lib/admin_menu.php:3178 lib/admin_menu.php:3242
+msgid "new new job's title"
+msgstr "neue Bezeichnung der neuen Stelle"
+
+#: lib/admin_menu.php:2141 lib/admin_menu.php:2207 lib/admin_menu.php:2271 lib/admin_menu.php:2334 lib/admin_menu.php:2397
+#: lib/admin_menu.php:2462 lib/admin_menu.php:2527 lib/admin_menu.php:2591 lib/admin_menu.php:2655 lib/admin_menu.php:2724
+#: lib/admin_menu.php:2789 lib/admin_menu.php:2854 lib/admin_menu.php:2922 lib/admin_menu.php:2986 lib/admin_menu.php:3053
+#: lib/admin_menu.php:3116 lib/admin_menu.php:3179 lib/admin_menu.php:3243
+msgid "link for the new job"
+msgstr "Link für den neuen Job"
+
+#: lib/admin_menu.php:2163
+msgid ""
+"This email will be received by the bidder/provider after the owner of the jobs accepts the project as delivered.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Bieter/Anbieter, nachdem der Eigentümer derjobs nimmt das Projekt wie geliefert an.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2201 lib/admin_menu.php:2328
+msgid "Bidder's Username"
+msgstr "Benutzername des Bieters"
+
+#: lib/admin_menu.php:2228
+msgid ""
+"This email will be received by the owner of the project when the provider marks the project as completed.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Eigentümer des Projekts, wenn der Anbietermarkiert das Projekt als abgeschlossen.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2291
+msgid ""
+"This email will be received by the provider/bidder when he marks the project as completed.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Anbieter/Bieter, wenn er das Projekt markiertals abgeschlossen. \n"
+"Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags zulassen\" auf "
+"\"ja\" gesetzt.\n"
+"Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2354
+msgid ""
+"This email will be received by any user when another user sends a private message.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält jeder Benutzer, wenn ein anderer Benutzer eine privateNachricht.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2398
+msgid "sender username"
+msgstr "Absender-Benutzername"
+
+#: lib/admin_menu.php:2399
+msgid "receiver username"
+msgstr "Empfänger-Benutzername"
+
+#: lib/admin_menu.php:2419
+msgid ""
+"This email will be received by the freshly rated user.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail wird von dem frisch bewerteten Nutzer empfangen.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie außerdem eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2456 lib/admin_menu.php:2521 lib/admin_menu.php:2585
+msgid "Winner Bidder's Username"
+msgstr "Benutzername des Gewinners Bieter"
+
+#: lib/admin_menu.php:2463
+msgid "rating value"
+msgstr "Ratingwert"
+
+#: lib/admin_menu.php:2464
+msgid "rating comment"
+msgstr "Rating-Kommentar"
+
+#: lib/admin_menu.php:2483
+msgid ""
+"This email will be received by the project owner after he awards the project to a certain bidder.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Projektinhaber, nachdem er den Zuschlag für das Projekt erteilt hat.an einen bestimmten "
+"Bieter.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2528 lib/admin_menu.php:2592 lib/admin_menu.php:2659
+msgid "winner bid value"
+msgstr "Gewinner Gebotswert"
+
+#: lib/admin_menu.php:2529
+msgid "winner bidder username"
+msgstr "Gewinner-Bieter-Benutzername"
+
+#: lib/admin_menu.php:2548
+msgid ""
+"This email will be received by the winner bidder when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Bieter, der den Zuschlag für das Projekt erhalten hat.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2612
+msgid ""
+"This email will be received by the loser bidders when the project is won.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhalten die unterlegenen Bieter, wenn sie den Zuschlag für das Projekt erhalten haben.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2649
+msgid "Loser Bidder's Username"
+msgstr "Benutzername des verlierenden Bieters"
+
+#: lib/admin_menu.php:2656 lib/admin_menu.php:2855 lib/admin_menu.php:2924 lib/admin_menu.php:2988
+msgid "the bid value"
+msgstr "den Gebotswert"
+
+#: lib/admin_menu.php:2658
+msgid "winner bid username"
+msgstr "Gewinner Gebot Benutzernamen"
+
+#: lib/admin_menu.php:2680
+msgid ""
+"This email will be received by the message owner when the project owner posts a new message on the private messaging "
+"board.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Eigentümer der Nachricht, wenn der Projekteigentümereine neue Nachricht auf dem privaten "
+"Nachrichtenbrett veröffentlicht.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2717
+msgid "Receiver Username"
+msgstr "Benutzername des Empfängers"
+
+#: lib/admin_menu.php:2718 lib/admin_menu.php:2782
+msgid "Job Owner Username"
+msgstr "Benutzername des Auftragnehmers"
+
+#: lib/admin_menu.php:2745
+msgid ""
+"This email will be received by the owner of a project when someone is posting a new message on the private messaging "
+"board.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Eigentümer eines Projekts, wenn jemandeine neue Nachricht auf dem privaten Nachrichtenbrett zu "
+"veröffentlichen.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2783
+msgid "Message Owner Username"
+msgstr "Nachricht Besitzer Benutzername"
+
+#: lib/admin_menu.php:2811
+msgid ""
+"This email will be received by the bidder when he posts a bid for a project.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Bieter, wenn er ein Gebot für einprojekt.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2848
+msgid "Job Bidder's Username"
+msgstr "Benutzername des Bieters"
+
+#: lib/admin_menu.php:2878
+msgid ""
+"This email will be received by the project owner when he pays the service provider.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Projektinhaber, wenn er die Dienstleistung bezahlt.Anbieter.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:2923 lib/admin_menu.php:2987
+msgid "the bidder username"
+msgstr "der Bieter-Benutzername"
+
+#: lib/admin_menu.php:2942
+msgid ""
+"This email will be received by the project owner whenever a user bids for his project.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Projekteigentümer, wenn ein Nutzer ein Gebot fürsein Projekt.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3010
+msgid ""
+"This email will be received by your users after posting a new job on your website if the project is automatically "
+"approved.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhalten Ihre Nutzer, nachdem sie eine neue Stelle in IhremWebsite, wenn das Projekt automatisch genehmigt "
+"wird.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3047
+msgid "username"
+msgstr "Nutzername"
+
+#: lib/admin_menu.php:3073
+msgid ""
+"This email will be received by your users after posting a new job on your website if the project is not automatically "
+"approved.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhalten Ihre Nutzer, nachdem sie eine neue Stelle in IhremWebsite, wenn das Projekt nicht automatisch "
+"genehmigt wird.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3110
+msgid "project owner username"
+msgstr "Projektinhaber-Benutzername"
+
+#: lib/admin_menu.php:3137
+msgid ""
+"This email will be received by the admin when someone posts a project on the website to be approved.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail wird vom Administrator empfangen, wenn jemand ein Projekt auf derWebsite genehmigt werden.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3201
+msgid ""
+"This email will be received by the admin when someone posts a project on the website website. This email will be "
+"received if the the project is not automatically approved.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail wird vom Administrator empfangen, wenn jemand ein Projekt auf derWebsite Website. Diese E-Mail wird "
+"empfangen, wenn das Projekt nichtautomatisch genehmigt.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3299
+msgid ""
+"This email will be received by all new users who register on your website.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhalten alle neuen Nutzer, die sich auf Ihrer Website registrieren.          Beachten Sie, dass Sie, wenn "
+"Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags zulassen\" auf \"ja\" gesetzt.          Unten "
+"finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3330 lib/admin_menu.php:3384
+msgid "your new username"
+msgstr "Ihr neuer Benutzername"
+
+#: lib/admin_menu.php:3331 lib/admin_menu.php:3385
+msgid "your new user's email"
+msgstr "die E-Mail Ihres neuen Benutzers"
+
+#: lib/admin_menu.php:3332
+msgid "your new user's password"
+msgstr "das Passwort Ihres neuen Benutzers"
+
+#: lib/admin_menu.php:3354
+msgid ""
+"This email will be received by the admin when a new user registers on the website.\n"
+"          Be aware, if you add html tags to this email you must have the allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the email body."
+msgstr ""
+"Diese E-Mail erhält der Administrator, wenn sich ein neuer Benutzer auf der Website registriert.website.\n"
+"          Beachten Sie, dass Sie, wenn Sie HTML-Tags zu dieser E-Mail hinzufügen, über diedie Option \"HTML-Tags "
+"zulassen\" auf \"ja\" gesetzt.          Unten finden Sie auch eine Liste der Tags, die Sie in derE-Mail-Körper."
+
+#: lib/admin_menu.php:3509
+msgid "HomePage"
+msgstr "HomePage"
+
+#: lib/admin_menu.php:3510
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: lib/admin_menu.php:3511
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: lib/admin_menu.php:3512
+msgid "Change Colors"
+msgstr "Farben ändern"
+
+#: lib/admin_menu.php:3545
+msgid "Color for background:"
+msgstr "Farbe für den Hintergrund:"
+
+#: lib/admin_menu.php:3555
+msgid "Color for footer:"
+msgstr "Farbe für die Fußzeile:"
+
+#: lib/admin_menu.php:3562
+msgid "Color for top links:"
+msgstr "Farbe für die oberen Links:"
+
+#: lib/admin_menu.php:3570
+msgid "Main Color Buttons:"
+msgstr "Hauptfarbe Knöpfe:"
+
+#: lib/admin_menu.php:3578
+msgid "Text Color Button:"
+msgstr "Textfarbe Schaltfläche:"
+
+#: lib/admin_menu.php:3585
+msgid "Main Color Buttons(hover):"
+msgstr "Hauptfarbe Schaltflächen (Hover):"
+
+#: lib/admin_menu.php:3591
+msgid "Text Color Button(hover):"
+msgstr "Textfarbe Schaltfläche(Hover):"
+
+#: lib/admin_menu.php:3602
+#, fuzzy
+#| msgid "Color for top links:"
+msgid "Color for links:"
+msgstr "Farbe für Links:"
+
+#: lib/admin_menu.php:3608
+#, fuzzy
+#| msgid "Color for top links:"
+msgid "Color for links(hover):"
+msgstr "Farbe für Links (Hover):"
+
+#: lib/admin_menu.php:3655
+msgid "Enable Big Text:"
+msgstr "Aktivieren Sie Big Text:"
+
+#: lib/admin_menu.php:3662
+msgid "Big Text Caption:"
+msgstr "Großer Text Unterschrift:"
+
+#: lib/admin_menu.php:3668
+msgid "Color for big text:"
+msgstr "Farbe für großen Text:"
+
+#: lib/admin_menu.php:3678
+msgid "Enable Sub Text:"
+msgstr "Aktivieren Sie Untertext:"
+
+#: lib/admin_menu.php:3685
+msgid "Sub Text Caption:"
+msgstr "Untertext Überschrift:"
+
+#: lib/admin_menu.php:3691
+msgid "Color for sub text:"
+msgstr "Farbe für Untertext:"
+
+#: lib/admin_menu.php:3704
+msgid "Button Left Text Caption:"
+msgstr "Schaltfläche Links Textbeschriftung:"
+
+#: lib/admin_menu.php:3710
+msgid "Button Left Link:"
+msgstr "Linke Schaltfläche:"
+
+#: lib/admin_menu.php:3717
+msgid "Button Right Text Caption:"
+msgstr "Schaltfläche Rechts Textbeschriftung:"
+
+#: lib/admin_menu.php:3723
+msgid "Button Right Link:"
+msgstr "Schaltfläche Rechter Link:"
+
+#: lib/admin_menu.php:3733
+msgid "HomePage Right Hand Image:"
+msgstr "HomePage Bild rechts:"
+
+#: lib/admin_menu.php:3812 lib/admin_menu.php:3841
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr "Beispiel: http://your-site-url.com/images/logo.jpg"
+
+#: lib/admin_menu.php:3813
+msgid "Logo URL (homepage):"
+msgstr "Logo URL (Homepage):"
+
+#: lib/admin_menu.php:3817 lib/admin_menu.php:3846
+msgid "Upload/Select Logo File"
+msgstr "Logo-Datei hochladen/auswählen"
+
+#: lib/admin_menu.php:3825 lib/admin_menu.php:3854
+msgid "By default is set to 35"
+msgstr "Standardmäßig ist der Wert 35 eingestellt."
+
+#: lib/admin_menu.php:3826
+msgid "Logo height (homepage):"
+msgstr "Höhe des Logos (Homepage):"
+
+#: lib/admin_menu.php:3842
+msgid "Logo URL (inner pages):"
+msgstr "Logo URL (innere Seiten):"
+
+#: lib/admin_menu.php:3855
+msgid "Logo height (inner pages):"
+msgstr "Höhe des Logos (Innenseiten):"
+
+#: lib/admin_menu.php:3882
+msgid "This will appear in the left side of the footer area."
+msgstr "Diese wird links in der Fußzeile angezeigt."
+
+#: lib/admin_menu.php:3883
+msgid "Left side footer area content:"
+msgstr "Inhalt der Fußzeile auf der linken Seite:"
+
+#: lib/admin_menu.php:3889
+msgid "This will appear in the right side of the footer area."
+msgstr "Diese wird rechts in der Fußzeile angezeigt."
+
+#: lib/admin_menu.php:3890
+msgid "Right side footer area content:"
+msgstr "Inhalt der Fußzeile auf der rechten Seite:"
+
+#: lib/admin_menu.php:3916
+msgid "Comma (,)"
+msgstr "Komma (,)"
+
+#: lib/admin_menu.php:3916
+msgid "Point (.)"
+msgstr "Punkt (.)"
+
+#: lib/admin_menu.php:3917
+msgid "In front of sum (eg: $50)"
+msgstr "Vor der Summe (z.B.: $50)"
+
+#: lib/admin_menu.php:3917
+msgid "After the sum (eg: 50$)"
+msgstr "Nach der Summe (z.B.: 50$)"
+
+#: lib/admin_menu.php:3918
+#, fuzzy
+#| msgid "Awaiting Payments %s"
+msgid "Site Payments - escrow"
+msgstr "Website Zahlungen - Treuhandkonto"
+
+#: lib/admin_menu.php:3918
+msgid "Bill Invoice Model - Pay just commissions"
+msgstr "Bill Invoice Model - Nur Provisionen zahlen"
+
+#: lib/admin_menu.php:4002
+msgid "Main Details"
+msgstr "Wichtigste Details"
+
+#: lib/admin_menu.php:4003
+msgid "Job Fees"
+msgstr "Job-Gebühren"
+
+#: lib/admin_menu.php:4013
+msgid "Working Model:"
+msgstr "Arbeitsmodell:"
+
+#: lib/admin_menu.php:4022
+msgid "Site currency:"
+msgstr "Währung der Website:"
+
+#: lib/admin_menu.php:4029
+msgid "Currency symbol:"
+msgstr "Währungssymbol:"
+
+#: lib/admin_menu.php:4035
+msgid "Currency symbol position:"
+msgstr "Position des Währungssymbols:"
+
+#: lib/admin_menu.php:4042
+msgid "Decimals sum separator:"
+msgstr "Dezimalsummen-Trennzeichen:"
+
+#: lib/admin_menu.php:4048
+msgid "Thousands sum separator:"
+msgstr "Tausendsummen-Trennzeichen:"
+
+#: lib/admin_menu.php:4077
+msgid "Base Listing Fee:"
+msgstr "Basis-Listing-Gebühr:"
+
+#: lib/admin_menu.php:4084
+msgid "Featured Job Fee:"
+msgstr "Featured Job Fee:"
+
+#: lib/admin_menu.php:4091
+msgid "Sealed Proposals Fee:"
+msgstr "Gebühr für versiegelte Vorschläge:"
+
+#: lib/admin_menu.php:4098
+msgid "Private Job Fee:"
+msgstr "Private Job-Gebühr:"
+
+#: lib/admin_menu.php:4107
+msgid "Tax #1 Value: "
+msgstr "Steuer #1 Wert:"
+
+#: lib/admin_menu.php:4114
+msgid "Tax #1 Name: "
+msgstr "Steuer #1 Name:"
+
+#: lib/admin_menu.php:4121
+msgid "Fee Taken out of Each Job: "
+msgstr "Gebühr für jeden Auftrag:"
+
+#: lib/admin_menu.php:4128
+#, fuzzy
+#| msgid "Fee Taken out of Each Job: "
+msgid "Fee Taken out of Each Job(transporter): "
+msgstr "Gebühr für jeden Auftrag (Transporter):"
+
+#: lib/admin_menu.php:4138
+msgid "Minimum Withdraw:"
+msgstr "Mindestabhebung:"
+
+#: lib/admin_menu.php:4246
+msgid "Bank Payment(offline)"
+msgstr "Bankzahlung (offline)"
+
+#: lib/admin_menu.php:4257 lib/admin_menu.php:4294 lib/admin_menu.php:4323 lib/admin_menu.php:4357
+msgid "Enable:"
+msgstr "Aktivieren:"
+
+#: lib/admin_menu.php:4263
+msgid "PayPal Enable Sandbox:"
+msgstr "PayPal-Sandbox aktivieren:"
+
+#: lib/admin_menu.php:4269
+msgid "PayPal Email Address:"
+msgstr "PayPal-E-Mail-Adresse:"
+
+#: lib/admin_menu.php:4300
+msgid "Payza/Alertpay Email:"
+msgstr "Payza/Alertpay E-Mail:"
+
+#: lib/admin_menu.php:4329
+msgid "Skrill Email:"
+msgstr "Skrill E-Mail:"
+
+#: lib/admin_menu.php:4363
+msgid "Your Bank Details:"
+msgstr "Ihre Bankverbindung:"
+
+#: lib/admin_menu.php:5141
+msgid "Main Information"
+msgstr "Wichtigste Informationen"
+
+#: lib/admin_menu.php:5142
+msgid "From SiteMile Blog"
+msgstr "Vom SiteMile Blog"
+
+#: lib/admin_menu.php:5151
+msgid "shipme Version:"
+msgstr "shipme Version:"
+
+#: lib/admin_menu.php:5156
+msgid "shipme Latest Release:"
+msgstr "shipme Neueste Version:"
+
+#: lib/admin_menu.php:5161
+msgid "WordPress Version:"
+msgstr "WordPress-Version:"
+
+#: lib/admin_menu.php:5167
+msgid "Go to SiteMile official page:"
+msgstr "Gehen Sie zur offiziellen SiteMile Seite:"
+
+#: lib/admin_menu.php:5172
+msgid "Go to Job official page:"
+msgstr "Gehen Sie zur offiziellen Job-Seite:"
+
+#: lib/admin_menu.php:5177
+msgid "Go to support forums:"
+msgstr "Besuchen Sie die Support-Foren:"
+
+#: lib/admin_menu.php:5182
+msgid "Contact SiteMile Team:"
+msgstr "Kontakt zum SiteMile Team:"
+
+#: lib/admin_menu.php:5187
+msgid "Like us on Facebook:"
+msgstr "Mögen Sie uns auf Facebook:"
+
+#: lib/admin_menu.php:5193
+msgid "Follow us on Twitter:"
+msgstr "Folgen Sie uns auf Twitter:"
+
+#: lib/admin_menu.php:5680
+msgid "All Private Messages"
+msgstr "Alle privaten Nachrichten"
+
+#: lib/admin_menu.php:5711
+msgid "The message has been approved."
+msgstr "Die Nachricht wurde genehmigt."
+
+#: lib/admin_menu.php:5721
+msgid "Are you sure you want to approve this message?"
+msgstr "Sind Sie sicher, dass Sie diese Nachricht genehmigen wollen?"
+
+#: lib/admin_menu.php:5722
+msgid "Yes, Approve!"
+msgstr "Ja, genehmigen!"
+
+#: lib/admin_menu.php:5783 lib/admin_menu.php:5913
+msgid "Sender"
+msgstr "Sender"
+
+#: lib/admin_menu.php:5784 lib/admin_menu.php:5914
+msgid "Receiver"
+msgstr "Empfänger"
+
+#: lib/admin_menu.php:5785 lib/admin_menu.php:5915 lib/my_account/private_messages.php:103
+#: lib/my_account/private_messages.php:156 lib/my_account/private_messages.php:265 lib/my_account/private_messages.php:381
+#: lib/my_account/private_messages.php:818
+msgid "Subject"
+msgstr "Thema"
+
+#: lib/admin_menu.php:5786 lib/admin_menu.php:5916
+msgid "Sent On"
+msgstr "Weitergeschickt"
+
+#: lib/admin_menu.php:5815 lib/admin_menu.php:5949
+msgid "Approve"
+msgstr "Genehmigen Sie"
+
+#: lib/admin_menu.php:5822 lib/admin_menu.php:5956 lib/my_account/private_messages.php:565
+#, php-format
+msgid "File Attached: %s"
+msgstr "Angehängte Datei: %s"
+
+#: lib/admin_menu.php:5839 lib/transporters_page.php:156 template-parts/advanced-search/transporters-search.php:192
+msgid "Previous"
+msgstr "Vorherige"
+
+#: lib/admin_menu.php:5859 lib/transporters_page.php:172 template-parts/advanced-search/transporters-search.php:208
+msgid "Next"
+msgstr "Weiter"
+
+#: lib/admin_menu.php:5869
+msgid "There are no private messages."
+msgstr "Es gibt keine privaten Nachrichten."
+
+#: lib/admin_menu.php:6341
+msgid "Filter Email Addresses (private messages):"
+msgstr "E-Mail-Adressen filtern (private Nachrichten):"
+
+#: lib/admin_menu.php:6347
+msgid "Filter URLs (private messages):"
+msgstr "URLs filtern (private Nachrichten):"
+
+#: lib/admin_menu.php:6371
+msgid "Enable Facebook Login:"
+msgstr "Aktivieren Sie die Facebook-Anmeldung:"
+
+#: lib/admin_menu.php:6377
+msgid "Facebook App ID:"
+msgstr "Facebook App ID:"
+
+#: lib/admin_menu.php:6383
+msgid "Facebook Secret Key:"
+msgstr "Facebook-Geheimschlüssel:"
+
+#: lib/admin_menu.php:6403
+msgid "Enable Twitter Login:"
+msgstr "Aktivieren Sie die Twitter-Anmeldung:"
+
+#: lib/admin_menu.php:6409
+msgid "Twitter Consumer Key:"
+msgstr "Twitter Verbraucherschlüssel:"
+
+#: lib/admin_menu.php:6415
+msgid "Twitter Consumer Secret:"
+msgstr "Twitter-Verbrauchergeheimnis:"
+
+#: lib/admin_menu.php:6422
+msgid "Callback URL:"
+msgstr "Rückruf-URL:"
+
+#: lib/choose_winner.php:146
+#, php-format
+msgid "Choose Winner for your job: %s"
+msgstr "Wählen Sie Winner für Ihren Job: %s"
+
+#: lib/choose_winner.php:169
+#, php-format
+msgid "You are about to choose a winner for your job: %s"
+msgstr "Sie sind dabei, einen Gewinner für Ihren Job zu wählen: %s"
+
+#: lib/choose_winner.php:177
+msgid "Yes, Choose winner Now!"
+msgstr "Ja, wählen Sie jetzt den Gewinner!"
+
+#: lib/choose_winner.php:182
+msgid "You have to pay the commission fee before chosing the winner"
+msgstr "Sie müssen die Kommissionsgebühr bezahlen, bevor Sie den Gewinner auswählen"
+
+#: lib/first_run.php:86
+msgid "Transporters"
+msgstr "Transporter"
+
+#: lib/gateways/credits_listing.php:21
+msgid "Pay by Virtual Currency"
+msgstr "Bezahlen mit virtueller Währung"
+
+#: lib/gateways/credits_listing.php:155
+msgid "Hide Project From Search Engines Fee"
+msgstr "Projekt vor Suchmaschinen verstecken Gebühr"
+
+#: lib/gateways/credits_listing.php:188
+#, php-format
+msgid "List Item - %s"
+msgstr "Listenelement - %s"
+
+#: lib/gateways/credits_listing.php:241
+msgid "You do not have enough credits to pay for listing this project."
+msgstr "Sie haben nicht genug Guthaben, um für die Aufnahme dieses Projekts zu bezahlen."
+
+#: lib/gateways/credits_listing.php:250 lib/gateways/credits_listing.php:409
+msgid "Add More Credits"
+msgstr "Weitere Credits hinzufügen"
+
+#: lib/gateways/credits_listing.php:268
+#, php-format
+msgid "Listing payment for job <a href=\"%s\">%s</a>"
+msgstr "Auflistung der Zahlungen für den Auftrag <a href=\"%s\">%s</a>"
+
+#: lib/gateways/credits_listing.php:351
+#, php-format
+msgid "Your payment has been sent. Return to <a href=\"%s\">your account</a>."
+msgstr "Ihre Zahlung wurde gesendet. Kehren Sie zurück zu <a href=\"%s\">Ihrem Konto</a>."
+
+#: lib/gateways/credits_listing.php:387
+msgid "Total to Pay"
+msgstr "Zu zahlender Gesamtbetrag"
+
+#: lib/gateways/credits_listing.php:397
+msgid "Your credits amount"
+msgstr "Ihr Kreditbetrag"
+
+#: lib/gateways/credits_listing.php:398 template-parts/user-area/my-account/finances.php:153
+#: template-parts/user-area/my-account/finances.php:212 template-parts/user-area/my-account/finances.php:587
+#: template-parts/user-area/my-account/finances.php:613
+msgid "Pay Now"
+msgstr "Jetzt bezahlen"
+
+#: lib/gateways/mb_deposit_pay.php:30
+msgid "Please wait, your order is being processed..."
+msgstr "Bitte warten Sie, Ihre Bestellung wird gerade bearbeitet..."
+
+#: lib/gateways/mb_deposit_response.php:27
+msgid "Deposit through Skrill."
+msgstr "Einzahlung über Skrill."
+
+#: lib/gateways/pay_for_winner_paypal.php:61
+#, fuzzy
+#| msgid "Payment amount"
+msgid "Payment for winner"
+msgstr "Zahlung für den Gewinner"
+
+#: lib/gateways/paypal_deposit_pay.php:47
+msgid "Payment Deposit"
+msgstr "Zahlung Kaution"
+
+#: lib/gateways/paypal_deposit_pay.php:118 lib/gateways/paypal_escrow_pay.php:88
+msgid "Deposit through PayPal."
+msgstr "Einzahlung über PayPal."
+
+#: lib/gateways/paypal_deposit_pay.php:121 lib/gateways/paypal_escrow_pay.php:91
+#, fuzzy
+#| msgid "PayPal Email"
+msgid "PayPal fee."
+msgstr "PayPal-Gebühr."
+
+#: lib/gateways/paypal_escrow_pay.php:55
+#, fuzzy, php-format
+#| msgid "Payment fee for project %s"
+msgid "Payment for escrow order %s"
+msgstr "Zahlung für Treuhandauftrag %s"
+
+#: lib/gateways/paypal_listing.php:63 lib/my_account/edit-job.php:235
+msgid "Cost for base fee"
+msgstr "Kosten für die Grundgebühr"
+
+#: lib/gateways/paypal_listing.php:98 lib/my_account/edit-job.php:270
+msgid "Cost to make job featured"
+msgstr "Kosten für die Erstellung des Stellenangebots"
+
+#: lib/gateways/paypal_listing.php:129 lib/my_account/edit-job.php:300
+msgid "Cost to add sealed bidding"
+msgstr "Kosten für zusätzliche verdeckte Ausschreibungen"
+
+#: lib/get_files_panel.php:16
+#, php-format
+msgid "Files Uploaded: %s"
+msgstr "Hochgeladene Dateien: %s"
+
+#: lib/get_files_panel.php:53
+msgid "There are no files attached."
+msgstr "Es sind keine Dateien angehängt."
+
+#: lib/login_register/login.php:78 lib/login_register/login.php:280 lib/login_register/login.php:293
+#: template-parts/login-register/login.php:34 template-parts/login-register/login.php:44
+msgid "Sorry, that key does not appear to be valid."
+msgstr "Es tut mir leid, dieser Schlüssel scheint nicht gültig zu sein."
+
+#: lib/login_register/login.php:86 lib/login_register/login.php:99 lib/login_register/login.php:142
+msgid "Retrieve Password"
+msgstr "Passwort wiederherstellen"
+
+#: lib/login_register/login.php:128
+msgid "Please enter your information here. We will send you a new password."
+msgstr "Bitte geben Sie hier Ihre Daten ein. Wir werden Ihnen ein neues Passwort zusenden."
+
+#: lib/login_register/login.php:134
+msgid "Username or Email:"
+msgstr "Benutzername oder E-Mail:"
+
+#: lib/login_register/login.php:151 lib/login_register/login.php:529 lib/login_register/register.php:202
+msgid "Are you lost?"
+msgstr "Haben Sie sich verlaufen?"
+
+#: lib/login_register/login.php:153 lib/login_register/login.php:531 lib/login_register/register.php:82
+#: lib/login_register/register.php:94 lib/login_register/register.php:195
+#: template-parts/general-stuff/general-design-parts.php:381 template-parts/login-register/register.php:114
+msgid "Register"
+msgstr "Register"
+
+#: lib/login_register/login.php:155 lib/login_register/login.php:403 lib/login_register/login.php:417
+#: lib/login_register/register.php:68 lib/login_register/register.php:203
+#: template-parts/general-stuff/general-design-parts.php:378
+msgid "Login"
+msgstr "Anmeldung"
+
+#: lib/login_register/login.php:179 lib/login_register/login.php:201
+msgid "Retrieve Error"
+msgstr "Fehler abrufen"
+
+#: lib/login_register/login.php:206
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have the wrong username or e-mail address? <a href="
+"\"%s\">Try again</a>."
+msgstr ""
+"Es tut uns leid, dieser Benutzer scheint nicht in unserer Datenbank zu existieren. Vielleicht haben Sieden falschen "
+"Benutzernamen oder die falsche E-Mail Adresse? <a href=\"%s\">Versuchen Sie es erneut</a>."
+
+#: lib/login_register/login.php:227
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr "Jemand hat darum gebeten, das Passwort für die folgende Website und den folgenden Benutzernamen zurückzusetzen."
+
+#: lib/login_register/login.php:230
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr ""
+"Um Ihr Passwort zurückzusetzen, besuchen Sie die folgende Adresse, ansonsten ignorieren Sie einfachdiese E-Mail und es "
+"wird nichts passieren."
+
+#: lib/login_register/login.php:240
+msgid "There Was a Problem"
+msgstr "Es gab ein Problem"
+
+#: lib/login_register/login.php:242 lib/login_register/login.php:319 template-parts/login-register/login.php:65
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Möglicher Grund: Ihr Host hat die Funktion mail() deaktiviert..."
+
+#: lib/login_register/login.php:247
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr "Die E-Mail wurde erfolgreich an die E-Mail-Adresse von %s gesendet."
+
+#: lib/login_register/login.php:248 lib/login_register/login.php:325 template-parts/login-register/login.php:71
+msgid "Check your e-mail first, of course"
+msgstr "Prüfen Sie natürlich zuerst Ihre E-Mail"
+
+#: lib/login_register/login.php:249 lib/login_register/login.php:326 template-parts/login-register/login.php:72
+msgid "Click here to login!"
+msgstr "Klicken Sie hier, um sich einzuloggen!"
+
+#: lib/login_register/login.php:264
+msgid "Key Not Valid"
+msgstr "Schlüssel nicht gültig"
+
+#: lib/login_register/login.php:279 lib/login_register/login.php:292 lib/login_register/login.php:317
+msgid "<h1>Problem</h1>"
+msgstr "<h1>Problem</h1>"
+
+#: lib/login_register/login.php:310 lib/login_register/register.php:63 template-parts/login-register/login.php:56
+#, php-format
+msgid "Password: %s"
+msgstr "Kennwort: %s"
+
+#: lib/login_register/login.php:313 template-parts/login-register/login.php:59
+#, php-format
+msgid "[%s] Your new password"
+msgstr "[%s] Ihr neues Passwort"
+
+#: lib/login_register/login.php:323
+msgid "<h1>Success!</h1>"
+msgstr "<h1>Erfolg!</h1>"
+
+#: lib/login_register/login.php:324 template-parts/login-register/login.php:70
+msgid "Your new password is in the mail."
+msgstr "Ihr neues Passwort ist in der Post."
+
+#: lib/login_register/login.php:328 template-parts/login-register/login.php:74
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr "Passwort verloren und geändert für Benutzer: %s"
+
+#: lib/login_register/login.php:329 template-parts/login-register/login.php:75
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr "[%s] Passwort verloren/geändert"
+
+#: lib/login_register/login.php:427
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this page."
+msgstr ""
+"Wir haben eine Bestätigungsnachricht an Ihre E-Mail-Adresse gesendet.<br/>\n"
+"\t\t\t\t\tBitte befolgen Sie die Anweisungen in der E-Mail und melden Sie sich bei dieserSeite."
+
+#: lib/login_register/login.php:496 lib/login_register/register.php:123
+msgid "Username:"
+msgstr "Benutzername:"
+
+#: lib/login_register/login.php:501 lib/login_register/register.php:133
+#: template-parts/user-area/my-account/profile-settings.php:224
+msgid "Password:"
+msgstr "Kennwort:"
+
+#: lib/login_register/login.php:507 template-parts/login-register/login.php:286
+msgid "Keep me logged in"
+msgstr "Ich bleibe eingeloggt"
+
+#: lib/login_register/login.php:515
+msgid "Sign in"
+msgstr "Eintragen"
+
+#: lib/login_register/login.php:534
+msgid "Password Lost and Found"
+msgstr "Passwort verloren und gefunden"
+
+#: lib/login_register/login.php:534 lib/login_register/register.php:204
+msgid "Lost your password?"
+msgstr "Haben Sie Ihr Passwort vergessen?"
+
+#: lib/login_register/register.php:50 lib/login_register/register.php:60 template-parts/login-register/register.php:19
+msgid "Registration Complete"
+msgstr "Registrierung abgeschlossen"
+
+#: lib/login_register/register.php:63
+msgid "emailed to you"
+msgstr "an Sie gemailt"
+
+#: lib/login_register/register.php:64
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-Mail: %s"
+
+#: lib/login_register/register.php:65
+msgid "Please check your <strong>Junk Mail</strong> if your account information does not appear within 5 minutes."
+msgstr ""
+"Bitte überprüfen Sie Ihre <strong>Junk Mail</strong>, wenn Ihre Kontoinformationennicht innerhalb von 5 Minuten "
+"erscheint."
+
+#: lib/login_register/register.php:128
+msgid "E-mail:"
+msgstr "E-Mail:"
+
+#: lib/login_register/register.php:138
+msgid "Confirm Password:"
+msgstr "Bestätigen Sie das Passwort:"
+
+#: lib/login_register/register.php:153 template-parts/user-area/my-account/profile-settings.php:240
+msgid "PayPal E-mail:"
+msgstr "PayPal E-Mail:"
+
+#: lib/login_register/register.php:170
+msgid "Shipping address:"
+msgstr "Lieferadresse:"
+
+#: lib/login_register/register.php:178
+msgid "User Type:"
+msgstr "Benutzertyp:"
+
+#: lib/login_register/register.php:180
+msgid "Contractor"
+msgstr "Auftragnehmer"
+
+#: lib/login_register/register.php:188
+msgid "A password will be emailed to you."
+msgstr "Ein Passwort wird Ihnen per E-Mail zugesandt."
+
+#: lib/login_register/register.php:204
+msgid "Password Lost?"
+msgstr "Passwort verloren?"
+
+#: lib/login_register/register.php:230 lib/login_register/register.php:242
+msgid "Registration Disabled"
+msgstr "Registrierung Deaktiviert"
+
+#: lib/login_register/register.php:246
+msgid "User registration is currently not allowed."
+msgstr "Eine Benutzerregistrierung ist derzeit nicht möglich."
+
+#: lib/login_register/register.php:247
+msgid "Go back to the blog"
+msgstr "Zurück zum Blog"
+
+#: lib/login_register/register.php:275 template-parts/login-register/accounts-registration.php:14
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>ERROR</strong>: Bitte geben Sie einen Benutzernamen ein."
+
+#: lib/login_register/register.php:277 template-parts/login-register/accounts-registration.php:16
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+"<strong>ERROR</strong>: Dieser Benutzername ist ungültig, weil er illegaleZeichen. Bitte geben Sie einen gültigen "
+"Benutzernamen ein."
+
+#: lib/login_register/register.php:280 template-parts/login-register/accounts-registration.php:19
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>ERROR</strong>: Dieser Benutzername ist bereits registriert, bitte wählen Sieeine andere."
+
+#: lib/login_register/register.php:285 template-parts/login-register/accounts-registration.php:24
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>ERROR</strong>: Bitte geben Sie Ihre E-Mail Adresse ein."
+
+#: lib/login_register/register.php:287 template-parts/login-register/accounts-registration.php:26
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>ERROR</strong>: Die E-Mail-Adresse ist nicht korrekt."
+
+#: lib/login_register/register.php:290 template-parts/login-register/accounts-registration.php:29
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>ERROR</strong>: Diese E-Mail ist bereits registriert, bitte wählen Sieeine andere."
+
+#: lib/login_register/register.php:300 template-parts/login-register/accounts-registration.php:39
+msgid "<strong>ERROR</strong>: Please type your shipping information/address."
+msgstr "<strong>ERROR</strong>: Bitte geben Sie Ihre Versandinformationen/Adresse ein."
+
+#: lib/login_register/register.php:307 template-parts/login-register/accounts-registration.php:46
+msgid "<strong>ERROR</strong>: Your password needs to be longer than 5 characters."
+msgstr "<strong>ERROR</strong>: Ihr Passwort muss länger als 5 Zeichen sein."
+
+#: lib/login_register/register.php:311 template-parts/login-register/accounts-registration.php:50
+msgid "<strong>ERROR</strong>: Your password doesnt match the confirmation."
+msgstr "<strong>ERROR</strong>: Ihr Passwort stimmt nicht mit der Bestätigung überein."
+
+#: lib/login_register/register.php:323 template-parts/login-register/accounts-registration.php:62
+msgid "<strong>ERROR</strong>: Please type your PayPal email address."
+msgstr "<strong>ERROR</strong>: Bitte geben Sie Ihre PayPal-E-Mail-Adresse ein."
+
+#: lib/login_register/register.php:338 template-parts/login-register/accounts-registration.php:77
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>ERROR</strong>: Wir konnten Sie nicht registrieren... bitte kontaktieren Sie die <ahref=\"mailto:%s"
+"\">Webmaster</a> !"
+
+#: lib/login_register/sett.php:129
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+"Möglicher Grund: Ihr Host hat möglicherweise die \n"
+"\t\tmail() Funktion..."
+
+#: lib/mark_delivered.php:69
+#, php-format
+msgid "Mark the project delivered: %s"
+msgstr "Markieren Sie das gelieferte Projekt: %s"
+
+#: lib/mark_delivered.php:88 lib/my_account/mark_delivered.php:91
+#, php-format
+msgid "You are about to mark this job as delivered: %s"
+msgstr "Sie sind im Begriff, diesen Auftrag als zugestellt zu markieren: %s"
+
+#: lib/mark_delivered.php:89 lib/my_account/mark_delivered.php:92
+msgid "The job owner will be notified to accept the delivery and get you paid."
+msgstr "Der Auftragnehmer wird benachrichtigt, um die Lieferung anzunehmen und Sie zu bezahlen."
+
+#: lib/mark_delivered.php:97 lib/my_account/mark_delivered.php:100
+msgid "Yes, Mark Delivered!"
+msgstr "Ja, Mark hat geliefert!"
+
+#: lib/my_account/active_jobs.php:43 lib/my_account/awaiting_payments.php:43 lib/my_account/completed_jobs.php:43
+#: lib/my_account/completed_payments.php:43 lib/my_account/delete-job.php:57 lib/my_account/delivered_jobs.php:43
+#: lib/my_account/my_account.php:42 lib/my_account/my_posted_offers.php:43 lib/my_account/outstanding_payments.php:43
+#: lib/my_account/pay_commission.php:45 lib/my_account/pending_delivery.php:42 lib/my_account/pending_jobs.php:43
+#: lib/my_account/received_offers.php:43 lib/my_account/reviews.php:43 lib/my_account/set_delivered.php:42
+msgid ""
+"You are logged in as administrator, and you should be both menus (transporter and contractor). Regular users see one or "
+"the other depending on their role."
+msgstr ""
+"Sie sind als Administrator eingeloggt, und Sie sollten beide Menüs(Transporteur und Auftragnehmer). Regelmäßige Nutzer "
+"sehen das eine oder das andere, je nachüber ihre Rolle."
+
+#: lib/my_account/active_jobs.php:95 lib/my_account/my_account.php:104
+msgid "There are no jobs yet."
+msgstr "Es sind noch keine Stellen ausgeschrieben."
+
+#: lib/my_account/awaiting_payments.php:101 lib/my_account/outstanding_payments.php:95
+msgid "There are no unpaid jobs yet."
+msgstr "Es gibt noch keine unbezahlten Jobs."
+
+#: lib/my_account/delete-job.php:7
+msgid "Delete job"
+msgstr "Auftrag löschen"
+
+#: lib/my_account/delete-job.php:38
+#, php-format
+msgid "Delete job - %s"
+msgstr "Auftrag löschen - %s"
+
+#: lib/my_account/delete-job.php:80
+#, php-format
+msgid "The job has been deleted. <a href='%s'>Return to your account</a>."
+msgstr "Der Auftrag wurde gelöscht. <a href='%s'>Kehren Sie zu Ihrem Konto zurück</a>."
+
+#: lib/my_account/delete-job.php:88
+msgid "Are you sure you want to delete this job?"
+msgstr "Sind Sie sicher, dass Sie diesen Auftrag löschen wollen?"
+
+#: lib/my_account/delete-job.php:89 lib/my_account/private_messages.php:511 lib/my_account/private_messages.php:523
+msgid "Confirm Deletion"
+msgstr "Bestätigen Sie die Löschung"
+
+#: lib/my_account/deposit_escrow.php:82
+#, php-format
+msgid "Deposit escrow payment for this job: %s"
+msgstr "Hinterlegung einer Treuhandzahlung für diesen Auftrag: %s"
+
+#: lib/my_account/deposit_escrow.php:102
+#, php-format
+msgid "You are about to deposit an escrow payment for this job: %s"
+msgstr "Sie sind dabei, eine Treuhandzahlung für diesen Auftrag zu hinterlegen: %s"
+
+#: lib/my_account/deposit_escrow.php:103
+msgid "The job owner will be notified about this action to start work."
+msgstr "Der Auftragnehmer wird über den Beginn der Arbeiten benachrichtigt."
+
+#: lib/my_account/deposit_escrow.php:109
+#, php-format
+msgid "Total price for the job is: %s"
+msgstr "Der Gesamtpreis für den Auftrag beträgt: %s"
+
+#: lib/my_account/deposit_escrow.php:120
+#, php-format
+msgid ""
+"It seems you dont have enough money deposited in your account to make this payment. Please <a href=\"%s\"><b>click "
+"here</b></a> to deposit more."
+msgstr ""
+"Es scheint, dass Sie nicht genug Geld auf Ihrem Konto haben, um dies zu tun.Zahlung. Bitte <a href=\"%s\"><b>klicken "
+"Sie hier</b></a>, um mehr einzuzahlen."
+
+#: lib/my_account/deposit_escrow.php:128 lib/my_account/mark_completed.php:164 lib/my_account/mark_delivered.php:99
+msgid "No, Go Back"
+msgstr "Nein, zurückgehen"
+
+#: lib/my_account/deposit_escrow.php:131
+msgid "Yes, Deposit Escrow!"
+msgstr "Ja, Deposit Escrow!"
+
+#: lib/my_account/edit-job.php:341
+msgid "Cost to hide job from search engines"
+msgstr "Kosten für das Verbergen von Stellen vor Suchmaschinen"
+
+#: lib/my_account/edit-job.php:349
+msgid "Hide job From Search Engines Fee"
+msgstr "Job vor Suchmaschinen verstecken Gebühr"
+
+#: lib/my_account/edit-job.php:361
+msgid "Extra images cost"
+msgstr "Zusätzliche Bilder kosten"
+
+#: lib/my_account/edit-job.php:428
+#, php-format
+msgid "Edit Job - %s"
+msgstr "Auftrag bearbeiten - %s"
+
+#: lib/my_account/edit-job.php:460
+msgid "Changes have been saved."
+msgstr "Die Änderungen wurden gespeichert."
+
+#: lib/my_account/edit-job.php:469
+msgid "Job Main Information"
+msgstr "Job Hauptinformationen"
+
+#: lib/my_account/edit-job.php:474
+msgid "Your job title"
+msgstr "Ihre Berufsbezeichnung"
+
+#: lib/my_account/edit-job.php:475 template-parts/post-new/post-new.php:96
+msgid "eg: I need a package moved."
+msgstr "z.B.: Ich muss ein Paket transportieren."
+
+#: lib/my_account/edit-job.php:490 template-parts/post-new/post-new.php:112
+msgid "Describe here your shipping job scope."
+msgstr "Beschreiben Sie hier Ihren Aufgabenbereich im Versand."
+
+#: lib/my_account/edit-job.php:495
+msgid "Items to Transport"
+msgstr "Zu transportierende Gegenstände"
+
+#: lib/my_account/edit-job.php:527
+msgid "Job Specifics"
+msgstr "Job-Spezifika"
+
+#: lib/my_account/edit-job.php:585 template-parts/post-new/post-new.php:228
+msgid "Job Category"
+msgstr "Job-Kategorie"
+
+#: lib/my_account/edit-job.php:647
+msgid "Job Price"
+msgstr "Job Preis"
+
+#: lib/my_account/edit-job.php:828
+msgid "Attach Images"
+msgstr "Bilder anhängen"
+
+#: lib/my_account/edit-job.php:926
+msgid "Attach Files"
+msgstr "Dateien anhängen"
+
+#: lib/my_account/edit-job.php:1095
+msgid "Feature job?"
+msgstr "Feature-Job?"
+
+#: lib/my_account/edit-job.php:1102 lib/my_account/edit-job.php:1131
+msgid "Extra fee is applied"
+msgstr "Es wird eine zusätzliche Gebühr erhoben"
+
+#: lib/my_account/edit-job.php:1106
+#, php-format
+msgid "By clicking this checkbox you mark your job as featured. %s"
+msgstr "Durch Anklicken dieses Kontrollkästchens markieren Sie Ihren Job als \"featured\". %s"
+
+#: lib/my_account/edit-job.php:1124
+msgid "Sealed Bidding?"
+msgstr "Verdecktes Bieten?"
+
+#: lib/my_account/edit-job.php:1135
+#, php-format
+msgid "By clicking this checkbox the proposals on your job will be sealed. %s"
+msgstr "Wenn Sie dieses Kontrollkästchen anklicken, werden die Vorschläge für Ihren Auftrag versiegelt. %s"
+
+#: lib/my_account/edit-job.php:1145
+msgid "Save Job Details"
+msgstr "Job-Details speichern"
+
+#: lib/my_account/finances.php:25 template-parts/general-stuff/general-design-parts.php:79
+#: template-parts/user-area/my-account/finances.php:28 template-parts/user-area/my-account/finances.php:30
+msgid "Finances"
+msgstr "Finanzen"
+
+#: lib/my_account/finances.php:61
+msgid "Navigate"
+msgstr "navigieren."
+
+#: lib/my_account/finances.php:65
+msgid "Account Home"
+msgstr "Konto Startseite"
+
+#: lib/my_account/finances.php:66 lib/my_account/finances.php:734
+msgid "Deposit Money"
+msgstr "Geld einzahlen"
+
+#: lib/my_account/finances.php:67 lib/my_account/finances.php:388 lib/my_account/finances.php:520
+msgid "Make Payment"
+msgstr "Zahlung vornehmen"
+
+#: lib/my_account/finances.php:70
+msgid "Deposit Escrow"
+msgstr "Kautionshinterlegung"
+
+#: lib/my_account/finances.php:73
+msgid "Withdraw Money"
+msgstr "Geld abheben"
+
+#: lib/my_account/finances.php:74 lib/my_account/finances.php:345 template-parts/user-area/my-account/finances.php:320
+msgid "Transactions"
+msgstr "Transaktionen"
+
+#: lib/my_account/finances.php:75
+msgid "Bank Transfer Details"
+msgstr "Details zur Banküberweisung"
+
+#: lib/my_account/finances.php:112
+msgid "Your Current Balance is"
+msgstr "Ihr aktueller Kontostand beträgt"
+
+#: lib/my_account/finances.php:121 template-parts/user-area/my-account/finances.php:315
+msgid "Pending Withdrawals"
+msgstr "Ausstehende Abhebungen"
+
+#: lib/my_account/finances.php:132 lib/my_account/finances.php:172
+msgid "No withdrawals pending yet."
+msgstr "Es sind noch keine Abhebungen anhängig."
+
+#: lib/my_account/finances.php:146
+msgid "Close Request"
+msgstr "Anfrage schließen"
+
+#: lib/my_account/finances.php:161
+msgid "Rejected Withdrawals"
+msgstr "Abgelehnte Rücknahmen"
+
+#: lib/my_account/finances.php:203
+msgid "Pending Incoming Payments"
+msgstr "Schwebende Zahlungseingänge"
+
+#: lib/my_account/finances.php:211 lib/my_account/finances.php:252
+msgid "No payments pending yet."
+msgstr "Noch keine Zahlungen ausstehend."
+
+#: lib/my_account/finances.php:244
+msgid "Pending Outgoing Payments"
+msgstr "Ausstehende Zahlungsausgänge"
+
+#: lib/my_account/finances.php:282
+msgid "Pending Commission Payments"
+msgstr "Ausstehende Provisionszahlungen"
+
+#: lib/my_account/finances.php:320
+msgid "There are no unpaid commissions yet."
+msgstr "Es gibt noch keine unbezahlten Provisionen."
+
+#: lib/my_account/finances.php:352
+msgid "No activity yet."
+msgstr "Noch keine Aktivität."
+
+#: lib/my_account/finances.php:406
+msgid "ERROR: Provide a well formated amount."
+msgstr "FEHLER: Geben Sie einen gut formulierten Betrag an."
+
+#: lib/my_account/finances.php:411
+msgid "ERROR: Invalid username provided."
+msgstr "ERROR: Ungültiger Benutzername angegeben."
+
+#: lib/my_account/finances.php:416
+msgid "ERROR: You cannot transfer money to your own account."
+msgstr "ERROR: Sie können kein Geld auf Ihr eigenes Konto überweisen."
+
+#: lib/my_account/finances.php:425
+msgid "ERROR: Your balance is smaller than the amount requested."
+msgstr "FEHLER: Ihr Guthaben ist kleiner als der angeforderte Betrag."
+
+#: lib/my_account/finances.php:429
+#, php-format
+msgid "ERROR: The amount should not be less than %s"
+msgstr "ERROR: Der Betrag sollte nicht kleiner als %s sein"
+
+#: lib/my_account/finances.php:455
+msgid "Money Sent"
+msgstr "Gesendetes Geld"
+
+#: lib/my_account/finances.php:456
+#, php-format
+msgid "You have sent amount of: %s to user: <b>%s</b>"
+msgstr "Sie haben gesendet Betrag von: %s an Benutzer: <b>%s</b>"
+
+#: lib/my_account/finances.php:461
+#, php-format
+msgid "Amount transfered to user %s"
+msgstr "An den Benutzer %s überwiesener Betrag"
+
+#: lib/my_account/finances.php:474
+#, php-format
+msgid "Amount transfered from user %s"
+msgstr "Überwiesener Betrag von Benutzer %s"
+
+#: lib/my_account/finances.php:479
+msgid "Your payment has been sent. Redirecting..."
+msgstr "Ihre Zahlung wurde gesendet. Weiterleiten..."
+
+#: lib/my_account/finances.php:493
+#, php-format
+msgid "Your Current Balance is %s"
+msgstr "Ihr aktueller Kontostand beträgt %s"
+
+#: lib/my_account/finances.php:500
+msgid "Payment amount"
+msgstr "Zahlungsbetrag"
+
+#: lib/my_account/finances.php:505
+msgid "Pay to user"
+msgstr "An den Benutzer zahlen"
+
+#: lib/my_account/finances.php:513 lib/my_account/private_messages.php:813
+msgid "or"
+msgstr "oder"
+
+#: lib/my_account/finances.php:540
+msgid "Make Escrow Payment"
+msgstr "Treuhandzahlung vornehmen"
+
+#: lib/my_account/finances.php:555
+msgid "Provide a well formated amount."
+msgstr "Geben Sie einen gut formulierten Betrag an."
+
+#: lib/my_account/finances.php:560
+msgid "Please choose an project."
+msgstr "Bitte wählen Sie ein Projekt aus."
+
+#: lib/my_account/finances.php:566
+msgid "Your balance is smaller than the amount requested."
+msgstr "Ihr Guthaben ist kleiner als der beantragte Betrag."
+
+#: lib/my_account/finances.php:590
+msgid "Money Escrow Sent"
+msgstr "Geld Escrow gesendet"
+
+#: lib/my_account/finances.php:591
+#, php-format
+msgid ""
+"You have placed in escrow the amount of: %s to user: \n"
+"\t\t\t\t\t\t\t<b>%s</b>"
+msgstr ""
+"Sie haben einen Betrag in Höhe von: %s an Benutzer: \n"
+"\t\t\t\t\t\t\t<b>%s</b>"
+
+#: lib/my_account/finances.php:621
+msgid "Money Escrow Received"
+msgstr "Erhaltenes Geld Escrow"
+
+#: lib/my_account/finances.php:622
+#, php-format
+msgid "You have received in escrow the amount of: %s from user: <b>%s</b>"
+msgstr "Sie haben auf dem Treuhandkonto den Betrag von: %s von Benutzer: <b>%s</b>"
+
+#: lib/my_account/finances.php:630
+msgid "Your payment has been processed. Redirecting to my account..."
+msgstr "Ihre Zahlung wurde bearbeitet. Weiterleitung zu meinem Konto..."
+
+#: lib/my_account/finances.php:703
+msgid "Escrow amount"
+msgstr "Treuhandbetrag"
+
+#: lib/my_account/finances.php:704
+msgid "Select your project."
+msgstr "Wählen Sie Ihr Projekt aus."
+
+#: lib/my_account/finances.php:707
+msgid "Escrow for Project"
+msgstr "Hinterlegung für Projekt"
+
+#: lib/my_account/finances.php:708
+msgid "You dont have any awarded projects."
+msgstr "Sie haben keine vergebenen Projekte."
+
+#: lib/my_account/finances.php:714
+msgid "Make Escrow"
+msgstr "Escrow machen"
+
+#: lib/my_account/finances.php:743
+msgid "Deposit money by Bank Transfer"
+msgstr "Geld einzahlen per Banküberweisung"
+
+#: lib/my_account/finances.php:757
+msgid "Deposit money by PayPal"
+msgstr "Geld einzahlen mit PayPal"
+
+#: lib/my_account/finances.php:760 lib/my_account/finances.php:776 lib/my_account/finances.php:794
+msgid "Amount to deposit:"
+msgstr "Einzuzahlender Betrag:"
+
+#: lib/my_account/finances.php:761 lib/my_account/finances.php:777 lib/my_account/finances.php:795
+#: template-parts/user-area/my-account/finances.php:262 template-parts/user-area/my-account/finances.php:565
+msgid "Deposit"
+msgstr "Einzahlung"
+
+#: lib/my_account/finances.php:773
+msgid "Deposit money by Payza"
+msgstr "Geld einzahlen mit Payza"
+
+#: lib/my_account/finances.php:791
+msgid "Deposit money by Skrill"
+msgstr "Geld einzahlen mit Skrill"
+
+#: lib/my_account/finances.php:818 template-parts/user-area/my-account/finances.php:297
+#: template-parts/user-area/my-account/finances.php:672
+msgid "Request Withdrawal"
+msgstr "Antrag auf Rücknahme"
+
+#: lib/my_account/finances.php:837 lib/my_account/finances.php:864 lib/my_account/finances.php:890
+msgid "Withdraw amount"
+msgstr "Betrag abheben"
+
+#: lib/my_account/finances.php:842 lib/my_account/personal_info.php:197
+msgid "PayPal Email"
+msgstr "PayPal-E-Mail"
+
+#: lib/my_account/finances.php:849 lib/my_account/finances.php:876 lib/my_account/finances.php:902
+msgid "Withdraw"
+msgstr "Zurückziehen"
+
+#: lib/my_account/finances.php:869
+msgid "Skrill Email"
+msgstr "Skrill E-Mail"
+
+#: lib/my_account/finances.php:895
+msgid "Payza Email"
+msgstr "Payza E-Mail"
+
+#: lib/my_account/mark_completed.php:80
+#, php-format
+msgid "Escrow payment received from %s for the job <b>%s</b>"
+msgstr "Treuhandzahlung erhalten von %s für den Auftrag <b>%s</b>"
+
+#: lib/my_account/mark_completed.php:85
+#, php-format
+msgid "Payment fee for job %s"
+msgstr "Zahlungsgebühr für Job %s"
+
+#: lib/my_account/mark_completed.php:93
+#, php-format
+msgid "Escrow Payment completed, sent to %s for job <b>%s</b>"
+msgstr "Treuhandzahlung abgeschlossen, gesendet an %s für Job <b>%s</b>"
+
+#: lib/my_account/mark_completed.php:136
+#, php-format
+msgid "Mark the job as completed: %s"
+msgstr "Markieren Sie den Auftrag als abgeschlossen: %s"
+
+#: lib/my_account/mark_completed.php:156
+#, php-format
+msgid "You are about to mark this job as completed: %s"
+msgstr "Sie sind dabei, diesen Auftrag als abgeschlossen zu markieren: %s"
+
+#: lib/my_account/mark_completed.php:157
+msgid "The transporter will be notified and any escrow (if set) will be automatically released."
+msgstr ""
+"Der Spediteur wird benachrichtigt, und ein eventuelles Treuhandkonto (falls eingerichtet) wirdautomatisch freigegeben."
+
+#: lib/my_account/mark_completed.php:165
+msgid "Yes, Mark Completed!"
+msgstr "Ja, Mark Completed!"
+
+#: lib/my_account/mark_delivered.php:71
+#, php-format
+msgid "Mark the job delivered: %s"
+msgstr "Markieren Sie den gelieferten Auftrag: %s"
+
+#: lib/my_account/my_account.php:47
+msgid "Your commission payment was taken. When it will process you will be notified via email."
+msgstr "Ihre Provisionszahlung wurde eingezogen. Wenn es verarbeitet wird, werden Sie benachrichtigt werdenper E-Mail."
+
+#: lib/my_account/my_account.php:65
+msgid "My Latest Active Jobs"
+msgstr "Meine letzten aktiven Jobs"
+
+#: lib/my_account/my_account.php:120
+msgid "Latest Received Proposals"
+msgstr "Zuletzt eingegangene Vorschläge"
+
+#: lib/my_account/my_account.php:132 lib/my_account/my_account.php:252
+msgid "There are no proposals yet."
+msgstr "Es liegen noch keine Vorschläge vor."
+
+#: lib/my_account/my_account.php:151
+msgid "Latest Unpublished Jobs"
+msgstr "Neueste unveröffentlichte Jobs"
+
+#: lib/my_account/my_account.php:189
+msgid "There are no unpublished jobs yet."
+msgstr "Es gibt noch keine unveröffentlichten Stellen."
+
+#: lib/my_account/my_account.php:203
+msgid "Latest Closed Jobs"
+msgstr "Letzte geschlossene Stellen"
+
+#: lib/my_account/my_account.php:217
+msgid "There are no closed jobs yet."
+msgstr "Es sind noch keine Stellen geschlossen."
+
+#: lib/my_account/my_account.php:235
+msgid "Latest Posted Proposals"
+msgstr "Zuletzt veröffentlichte Vorschläge"
+
+#: lib/my_account/pay_commission.php:82
+#, php-format
+msgid "You are about to pay the commission of %s for this job. Use the options below to complete the payment: "
+msgstr ""
+"Sie sind dabei, die Provision von %s für diesen Auftrag zu zahlen. Verwenden Sie die Optionenunten, um die Zahlung "
+"abzuschließen:"
+
+#: lib/my_account/pay_commission.php:91
+#, php-format
+msgid "Pay by PayPal %s"
+msgstr "Bezahlen mit PayPal %s"
+
+#: lib/my_account/pending_delivery.php:93 lib/my_account/pending_jobs.php:100
+msgid "There are no pending jobs yet."
+msgstr "Es sind noch keine offenen Stellen vorhanden."
+
+#: lib/my_account/personal_info.php:84 template-parts/user-area/my-account/profile-settings.php:72
+msgid "Password was not changed. It does not match the password confirmation."
+msgstr "Das Passwort wurde nicht geändert. Es stimmt nicht mit der Passwortbestätigung überein."
+
+#: lib/my_account/personal_info.php:150 template-parts/user-area/my-account/profile-settings.php:141
+msgid "Information saved!"
+msgstr "Informationen gespeichert!"
+
+#: lib/my_account/personal_info.php:170
+msgid "First name"
+msgstr "Vornamen"
+
+#: lib/my_account/personal_info.php:177
+msgid "Last name"
+msgstr "Nachname"
+
+#: lib/my_account/personal_info.php:184
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: lib/my_account/personal_info.php:190
+msgid "Repeat Password"
+msgstr "Passwort wiederholen"
+
+#: lib/my_account/personal_info.php:204
+msgid "Profile Description"
+msgstr "Profil Beschreibung"
+
+#: lib/my_account/personal_info.php:210
+msgid "Profile Avatar"
+msgstr "Profil-Avatar"
+
+#: lib/my_account/personal_info.php:212
+msgid "max file size: 2mb. Formats: jpeg, jpg, png, gif"
+msgstr "maximale Dateigröße: 2mb. Formate: jpeg, jpg, png, gif"
+
+#: lib/my_account/personal_info.php:220
+msgid "Save"
+msgstr "Speichern Sie"
+
+#: lib/my_account/private_messages.php:60
+msgid "Messaging Home"
+msgstr "Messaging Startseite"
+
+#: lib/my_account/private_messages.php:61
+msgid "Send New Message"
+msgstr "Neue Nachricht senden"
+
+#: lib/my_account/private_messages.php:62
+msgid "Inbox"
+msgstr "Posteingang"
+
+#: lib/my_account/private_messages.php:70
+msgid "Sent Items"
+msgstr "Gesendete Artikel"
+
+#: lib/my_account/private_messages.php:90
+msgid "Latest Received Messages"
+msgstr "Zuletzt empfangene Nachrichten"
+
+#: lib/my_account/private_messages.php:102 lib/my_account/private_messages.php:264 lib/my_account/rate_user.php:186
+#: lib/my_account/rate_user.php:256 lib/my_account/reviews.php:136 lib/my_account/reviews.php:203 lib/user-feedback.php:67
+#: template-parts/user-area/my-account/reviews.php:303
+msgid "From User"
+msgstr "Vom Benutzer"
+
+#: lib/my_account/private_messages.php:104 lib/my_account/private_messages.php:157 lib/my_account/private_messages.php:266
+#: lib/my_account/private_messages.php:382 single-job_ship.php:233 single-job_ship.php:868
+#: template-parts/user-area/my-account/finances.php:133 template-parts/user-area/my-account/finances.php:194
+msgid "Date"
+msgstr "Datum"
+
+#: lib/my_account/private_messages.php:121 lib/my_account/private_messages.php:175 lib/my_account/private_messages.php:284
+#: lib/my_account/private_messages.php:401
+msgid "Read"
+msgstr "Lesen Sie"
+
+#: lib/my_account/private_messages.php:122 lib/my_account/private_messages.php:176 lib/my_account/private_messages.php:285
+#: lib/my_account/private_messages.php:402
+msgid "Delete"
+msgstr "Löschen"
+
+#: lib/my_account/private_messages.php:129 lib/my_account/private_messages.php:184 lib/my_account/private_messages.php:301
+#: lib/my_account/private_messages.php:418
+msgid "No messages here."
+msgstr "Keine Nachrichten hier."
+
+#: lib/my_account/private_messages.php:143
+msgid "Latest Sent Items"
+msgstr "Letzte gesendete Artikel"
+
+#: lib/my_account/private_messages.php:155 lib/my_account/private_messages.php:380 lib/my_account/reviews.php:73
+#: template-parts/user-area/my-account/reviews.php:231
+msgid "To User"
+msgstr "An Benutzer"
+
+#: lib/my_account/private_messages.php:208
+msgid "Private Messages: Inbox"
+msgstr "Private Nachrichten: Posteingang"
+
+#: lib/my_account/private_messages.php:263 lib/my_account/private_messages.php:379
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: lib/my_account/private_messages.php:290 lib/my_account/private_messages.php:407
+msgid "Delete Selected"
+msgstr "Ausgewählte löschen"
+
+#: lib/my_account/private_messages.php:348
+msgid "Private Messages: Sent Items"
+msgstr "Private Nachrichten: Gesendete Objekte"
+
+#: lib/my_account/private_messages.php:459
+msgid "Delete Multiple Messages: "
+msgstr "Mehrere Nachrichten löschen:"
+
+#: lib/my_account/private_messages.php:464
+msgid "Delete Message: "
+msgstr "Nachricht löschen:"
+
+#: lib/my_account/private_messages.php:496
+msgid "No messsages selected."
+msgstr "Keine Nachrichten ausgewählt."
+
+#: lib/my_account/private_messages.php:508 lib/my_account/private_messages.php:520
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: lib/my_account/private_messages.php:557
+msgid "Read Message: "
+msgstr "Nachricht lesen:"
+
+#: lib/my_account/private_messages.php:571
+msgid "Reply"
+msgstr "Antwort"
+
+#: lib/my_account/private_messages.php:768 template-parts/user-area/my-account/messages.php:153
+msgid "Your message has been sent."
+msgstr "Ihre Nachricht wurde gesendet."
+
+#: lib/my_account/private_messages.php:770
+msgid "Your message has been sent but the receiver will receive it only after moderation."
+msgstr "Ihre Nachricht wurde gesendet, aber der Empfänger erhält sie erst nachModeration."
+
+#: lib/my_account/private_messages.php:782
+msgid "You cannot send a message to yourself."
+msgstr "Sie können sich nicht selbst eine Nachricht schicken."
+
+#: lib/my_account/private_messages.php:783
+#, php-format
+msgid "Wrong File format: %s"
+msgstr "Falsches Dateiformat: %s"
+
+#: lib/my_account/private_messages.php:786
+msgid "ERROR! wrong username provided."
+msgstr "ERROR! Falscher Benutzername angegeben."
+
+#: lib/my_account/private_messages.php:801
+msgid "Send Private Message to: "
+msgstr "Private Nachricht senden an:"
+
+#: lib/my_account/private_messages.php:812
+msgid "Send To"
+msgstr "Senden an"
+
+#: lib/my_account/private_messages.php:836
+msgid "Message"
+msgstr "Nachricht"
+
+#: lib/my_account/private_messages.php:842
+msgid "Attach File"
+msgstr "Datei anhängen"
+
+#: lib/my_account/private_messages.php:843
+msgid "Only PDF, ZIP, Office files and Images."
+msgstr "Nur PDF, ZIP, Office-Dateien und Bilder."
+
+#: lib/my_account/private_messages.php:851 single-job_ship.php:901 template-parts/user-area/my-account/messages.php:257
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: lib/my_account/rate_user.php:40
+#, php-format
+msgid "Review User %s for job '%s'"
+msgstr "Benutzer %s für Job '%s' überprüfen"
+
+#: lib/my_account/rate_user.php:79
+msgid "Please leave a comment with your review."
+msgstr "Bitte hinterlassen Sie einen Kommentar mit Ihrer Bewertung."
+
+#: lib/my_account/rate_user.php:90
+#, php-format
+msgid "Your rating has been posted. <a href='%s'>Return to your account area</a>"
+msgstr "Ihre Bewertung wurde veröffentlicht. <a href='%s'>Zurück zu Ihrem Kontobereich</a>"
+
+#: lib/my_account/rate_user.php:136 template-parts/user-area/my-account/reviews.php:149
+msgid "Your Rating"
+msgstr "Ihre Bewertung"
+
+#: lib/my_account/rate_user.php:141 template-parts/user-area/my-account/reviews.php:154
+msgid "Your Comment"
+msgstr "Ihr Kommentar"
+
+#: lib/my_account/rate_user.php:149 template-parts/user-area/my-account/reviews.php:162
+msgid "Submit Rating"
+msgstr "Bewertung abgeben"
+
+#: lib/my_account/rate_user.php:171
+msgid "Reviews I am waiting"
+msgstr "Bewertungen Ich warte"
+
+#: lib/my_account/rate_user.php:187 lib/my_account/rate_user.php:257 lib/my_account/reviews.php:74
+#: lib/my_account/reviews.php:137 lib/my_account/reviews.php:204 lib/user-feedback.php:68
+#: template-parts/user-area/my-account/reviews.php:232 template-parts/user-area/my-account/reviews.php:304
+msgid "Aquired on"
+msgstr "Erworben am"
+
+#: lib/my_account/rate_user.php:224 lib/my_account/rate_user.php:302 lib/my_account/reviews.php:111
+#: lib/my_account/reviews.php:174 lib/my_account/reviews.php:249 template-parts/user-area/my-account/reviews.php:272
+msgid "There are no reviews to be awarded."
+msgstr "Es sind keine Bewertungen zu vergeben."
+
+#: lib/my_account/rate_user.php:241
+msgid "Reviews I was awarded"
+msgstr "Bewertungen Ich wurde ausgezeichnet"
+
+#: lib/my_account/rate_user.php:291 lib/my_account/reviews.php:238 lib/user-feedback.php:100 single-job_ship.php:234
+#: single-job_ship.php:869 template-parts/user-area/my-account/reviews.php:338
+msgid "Comment"
+msgstr "Kommentar"
+
+#: lib/my_account/reviews.php:60
+msgid "Reviews I need to award"
+msgstr "Bewertungen, die ich vergeben muss"
+
+#: lib/my_account/reviews.php:101 template-parts/user-area/my-account/reviews.php:261
+msgid "Rate User"
+msgstr "Benutzer bewerten"
+
+#: lib/my_account/reviews.php:123
+msgid "Reviews I am waiting "
+msgstr "Bewertungen Ich warte"
+
+#: lib/my_account/reviews.php:188
+msgid "Reviews I was awarded "
+msgstr "Bewertungen Ich wurde ausgezeichnet"
+
+#: lib/my_account/set_delivered.php:33
+#, php-format
+msgid "Set job as delivered - %s"
+msgstr "Auftrag als geliefert einstellen - %s"
+
+#: lib/my_account/set_delivered.php:76
+#, php-format
+msgid "The job has been set as delivered. The job owner will be informed by email. <a href='%s'>Go to unpaid items</a>."
+msgstr ""
+"Der Auftrag wurde als zugestellt markiert. Der Auftragsinhaber wird per E-Mail informiert.<a href='%s'>Zu den "
+"unbezahlten Artikeln</a>."
+
+#: lib/my_account/set_delivered.php:84
+msgid "Are you sure you want to mark this job as delivered ?"
+msgstr "Sind Sie sicher, dass Sie diesen Auftrag als zugestellt markieren wollen?"
+
+#: lib/my_account/set_delivered.php:85
+msgid "Confirm Delivery"
+msgstr "Bestätigen Sie die Lieferung"
+
+#: lib/pay_for_choosing_winner.php:27
+msgid "Pay before choosing a winner"
+msgstr "Bezahlen vor der Wahl eines Gewinners"
+
+#: lib/pay_for_choosing_winner.php:34
+#, php-format
+msgid "Use the payment methods below to pay for the fee. Total amount is: <b>%s</b>"
+msgstr "Verwenden Sie die nachstehenden Zahlungsmöglichkeiten, um die Gebühr zu bezahlen. Gesamtbetrag ist: <b>%s</b>"
+
+#: lib/pay_for_choosing_winner.php:44 template-parts/post-new/post-new.php:1521
+#: template-parts/user-area/my-account/finances.php:71 template-parts/user-area/my-account/finances.php:537
+msgid "Pay by PayPal"
+msgstr "Bezahlen mit PayPal"
+
+#: lib/transporters_page.php:178
+msgid "No service providers found for this query."
+msgstr "Keine Dienstleister für diese Anfrage gefunden."
+
+#: lib/user-feedback.php:11
+msgid "User Feedback"
+msgstr "Benutzer-Feedback"
+
+#: lib/user-feedback.php:20
+#, php-format
+msgid "User Feedback - %s"
+msgstr "Benutzer-Feedback - %s"
+
+#: lib/user-feedback.php:66 template-parts/user-area/my-account/finances.php:131
+#: template-parts/user-area/my-account/finances.php:192
+msgid "Project Title"
+msgstr "Titel des Projekts"
+
+#: lib/user-feedback.php:114
+msgid "This user has no reviews yet."
+msgstr "Dieser Benutzer hat noch keine Bewertungen."
+
+#: lib/user-profile.php:19
+msgid "User Profile"
+msgstr "Benutzerprofil"
+
+#: lib/user-profile.php:37
+#, php-format
+msgid "User Profile - %s"
+msgstr "Benutzerprofil - %s"
+
+#: lib/user-profile.php:105
+#, fuzzy
+#| msgid "This user doesnt have a description."
+msgid "This user does not have any jobs posted."
+msgstr "Dieser Benutzer hat keine Jobs ausgeschrieben."
+
+#: lib/widgets/big-map-accross.php:97
+msgid "This shows you a full width map with X number of jobs as pointers."
+msgstr "Dies zeigt Ihnen eine Karte in voller Breite mit einer Anzahl von X Aufträgen als Zeiger."
+
+#: lib/widgets/home-widget-content.php:73
+msgid "This widget shows a text title, text content, and picture. Usually for homepage design."
+msgstr "Dieses Widget zeigt einen Texttitel, einen Textinhalt und ein Bild an. Normalerweise fürGestaltung der Homepage."
+
+#: lib/widgets/home-widget-content.php:122 lib/widgets/wide-picture-accross.php:76
+msgid "Image/Picture:"
+msgstr "Bild/Bild:"
+
+#: lib/widgets/home-widget-content.php:124 lib/widgets/wide-picture-accross.php:78
+msgid "Upload/Select File"
+msgstr "Datei hochladen/auswählen"
+
+#: lib/widgets/job-categories-text.php:106
+msgid "This shows a widget with all categories, and subcategories."
+msgstr "Dies zeigt ein Widget mit allen Kategorien und Unterkategorien."
+
+#: lib/widgets/job-categories-text.php:145
+msgid "Categories to show"
+msgstr "Anzuzeigende Kategorien"
+
+#: lib/widgets/latest-posted-jobs-big.php:64
+msgid "Sorry, there are no posted jobs yet."
+msgstr "Es sind leider noch keine Stellen ausgeschrieben."
+
+#: lib/widgets/latest-posted-jobs-big.php:78
+msgid "This shows a widget with the latest posted jobs."
+msgstr "Hier wird ein Widget mit den neuesten Stellenangeboten angezeigt."
+
+#: lib/widgets/search-box-big.php:56
+msgid "Enter Pickup City"
+msgstr "Abholort eingeben"
+
+#: lib/widgets/search-box-big.php:66
+msgid "Enter Drop City"
+msgstr "Drop City betreten"
+
+#: lib/widgets/search-box-big.php:107
+msgid "This shows a widget with a search bar."
+msgstr "Dies zeigt ein Widget mit einer Suchleiste."
+
+#: lib/widgets/wide-picture-accross.php:38
+msgid ""
+"This widget lets you chose a picture and places an element accross the full width of the screen. Usually for homepage "
+"design."
+msgstr ""
+"Mit diesem Widget können Sie ein Bild auswählen und ein Element über die gesamte Fläche platzieren.Breite des "
+"Bildschirms. Normalerweise für die Gestaltung von Homepages."
+
+#: page.php:33 single-job_ship.php:146 single.php:33
+#, php-format
+msgid "Posted on: %s"
+msgstr "Verfasst am: %s"
+
+#: page.php:33 single-job_ship.php:146 single.php:33
+#, php-format
+msgid "ID: #%s"
+msgstr "ID: #%s"
+
+#: single-job_ship.php:52
+msgid "Your bid must be numeric type. Eg: 9.99"
+msgstr "Ihr Gebot muss numerisch sein. Beispiel: 9.99"
+
+#: single-job_ship.php:57
+msgid "Your cannot bid your own jobs."
+msgstr "Sie können keine Angebote für Ihre eigenen Aufträge abgeben."
+
+#: single-job_ship.php:153
+msgid "Your bid was posted successfuly. "
+msgstr "Ihr Gebot wurde erfolgreich abgeschickt."
+
+#: single-job_ship.php:174
+msgid "Your job is awaiting admin moderation."
+msgstr "Ihr Auftrag wartet auf die Moderation durch den Administrator."
+
+#: single-job_ship.php:192 single-job_ship.php:828 template-parts/post-new/post-new.php:1169
+msgid "Received Quotes"
+msgstr "Erhaltene Zitate"
+
+#: single-job_ship.php:231 single-job_ship.php:866
+msgid "Bidder"
+msgstr "Bieter"
+
+#: single-job_ship.php:236 single-job_ship.php:871 template-parts/user-area/my-account/my-account.php:239
+msgid "Actions"
+msgstr "Aktionen"
+
+#: single-job_ship.php:281 single-job_ship.php:900
+msgid "Select as Winner"
+msgstr "Als Gewinner auswählen"
+
+#: single-job_ship.php:282
+#, fuzzy, php-format
+#| msgid "Send Message"
+msgid "Send Message %s"
+msgstr "Nachricht senden %s"
+
+#: single-job_ship.php:293
+msgid "Select Transporter"
+msgstr "Transporter auswählen"
+
+#: single-job_ship.php:299
+#, php-format
+msgid "You are about to choose %s as a winner for this job. The price quote was: %s"
+msgstr "Sie sind im Begriff, %s als Gewinner für diesen Auftrag auszuwählen. Das Preisangebot lautete: %s"
+
+#: single-job_ship.php:309
+#, php-format
+msgid "In order to choose a winner you have to pay the commission fee of %s"
+msgstr "Um einen Gewinner auszuwählen, müssen Sie eine Kommissionsgebühr von %s bezahlen."
+
+#: single-job_ship.php:328
+msgid "Proceed to payment"
+msgstr "Weiter zur Zahlung"
+
+#: single-job_ship.php:338 single-job_ship.php:1070
+msgid "Close"
+msgstr "Schließen Sie"
+
+#: single-job_ship.php:339
+msgid "Yes, Proceed"
+msgstr "Ja, fortfahren"
+
+#: single-job_ship.php:358 single-job_ship.php:904
+msgid "Job Winner"
+msgstr "Job-Gewinner"
+
+#: single-job_ship.php:371 single-job_ship.php:919
+msgid "See Bid Files"
+msgstr "Siehe Angebotsdateien"
+
+#: single-job_ship.php:384 single-job_ship.php:932
+msgid "No proposals placed yet."
+msgstr "Es wurden noch keine Vorschläge eingereicht."
+
+#: single-job_ship.php:409 template-parts/post-new/post-new.php:758
+#, php-format
+msgid "%s Collection"
+msgstr "%s Sammlung"
+
+#: single-job_ship.php:419 template-parts/post-new/post-new.php:768
+#, php-format
+msgid "%s Delivery"
+msgstr "%s Lieferung"
+
+#: single-job_ship.php:429 template-parts/post-new/post-new.php:778
+#, php-format
+msgid "%s Pickup Date"
+msgstr "%s Abholdatum"
+
+#: single-job_ship.php:438 template-parts/post-new/post-new.php:787
+#, php-format
+msgid "%s Delivery Date"
+msgstr "%s Liefertermin"
+
+#: single-job_ship.php:472 template-parts/post-new/post-new.php:821
+#, php-format
+msgid "<strong>Pickup:</strong> %s"
+msgstr "<strong>Abholung:</strong> %s"
+
+#: single-job_ship.php:488 template-parts/post-new/post-new.php:837
+#, php-format
+msgid "<strong>Delivery:</strong> %s"
+msgstr "<strong>Zustellung:</strong> %s"
+
+#: single-job_ship.php:723
+msgid "Km"
+msgstr "Km"
+
+#: single-job_ship.php:724
+msgid "Miles"
+msgstr "Meilen"
+
+#: single-job_ship.php:767 template-parts/post-new/post-new.php:1109
+#, php-format
+msgid "%s Distance"
+msgstr "%s Entfernung"
+
+#: single-job_ship.php:774 template-parts/post-new/post-new.php:1116
+#, php-format
+msgid "%s Packages"
+msgstr "%s Pakete"
+
+#: single-job_ship.php:775 template-parts/post-new/post-new.php:1117
+#, php-format
+msgid "%s package(s)"
+msgstr "%s-Paket(e)"
+
+#: single-job_ship.php:786 template-parts/post-new/post-new.php:1127
+#, php-format
+msgid "%s Weight"
+msgstr "%s Gewicht"
+
+#: single-job_ship.php:802 template-parts/post-new/post-new.php:1143
+msgid "Item Main Details"
+msgstr "Artikel Hauptdetails"
+
+#: single-job_ship.php:808 template-parts/post-new/post-new.php:1149
+msgid "There is no description attached to this job."
+msgstr "Für diese Stelle gibt es keine Beschreibung."
+
+#: single-job_ship.php:819 template-parts/post-new/post-new.php:1160
+msgid "Item Other Details"
+msgstr "Artikel Andere Details"
+
+#: single-job_ship.php:820 template-parts/post-new/post-new.php:1161
+msgid "There are no other details."
+msgstr "Es gibt keine weiteren Einzelheiten."
+
+#: single-job_ship.php:867
+msgid "Budget/Price"
+msgstr "Budget/Preis"
+
+#: single-job_ship.php:946 template-parts/post-new/post-new.php:1178
+msgid "Job Public Questions"
+msgstr "Job Öffentliche Fragen"
+
+#: single-job_ship.php:947 template-parts/post-new/post-new.php:1179
+msgid "There are no questions yet."
+msgstr "Es sind noch keine Fragen vorhanden."
+
+#: single-job_ship.php:970
+msgid "This job is closed, either expired or winner has been chosen already."
+msgstr "Diese Stelle ist geschlossen, entweder abgelaufen oder der Gewinner wurde bereits ausgewählt."
+
+#: single-job_ship.php:980
+msgid "You are the owner of this job"
+msgstr "Sie sind der Eigentümer dieser Stelle"
+
+#: single-job_ship.php:997
+#, php-format
+msgid "You quoted %s for this job"
+msgstr "Sie haben %s für diesen Auftrag angegeben"
+
+#: single-job_ship.php:999
+msgid "Edit Quote"
+msgstr "Zitat bearbeiten"
+
+#: single-job_ship.php:1007 template-parts/post-new/post-new.php:1192
+msgid "Submit Quote"
+msgstr "Angebot einreichen"
+
+#: single-job_ship.php:1016
+msgid "Submit a quote for this job"
+msgstr "Angebot für diesen Auftrag einreichen"
+
+#: single-job_ship.php:1027
+#, php-format
+msgid "You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to submit a quote."
+msgstr "Sie müssen sich <a href=\"%s\">anmelden</a> oder <a href=\"%s\">registrieren</a>, umein Angebot abgeben."
+
+#: single-job_ship.php:1035
+msgid "You cannot submit bids to your own job."
+msgstr "Sie können keine Gebote für Ihre eigene Stelle abgeben."
+
+#: single-job_ship.php:1048
+msgid "Your price:"
+msgstr "Ihr Preis:"
+
+#: single-job_ship.php:1057
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: single-job_ship.php:1058
+msgid "Describe here..."
+msgstr "Beschreiben Sie hier..."
+
+#: single-job_ship.php:1069
+msgid "Submit your quote"
+msgstr "Ihr Angebot einreichen"
+
+#: single-job_ship.php:1081
+msgid "The job is closed or expired."
+msgstr "Der Auftrag ist geschlossen oder abgelaufen."
+
+#: single-job_ship.php:1097 template-parts/post-new/post-new.php:1197
+msgid "Job estimated budget"
+msgstr "Geschätztes Budget für den Auftrag"
+
+#: single-job_ship.php:1127 template-parts/post-new/post-new.php:1226
+msgid "There isnt any info defined."
+msgstr "Es sind keine Informationen definiert."
+
+#: single-job_ship.php:1151 template-parts/post-new/post-new.php:1238
+msgid "Item Photos"
+msgstr "Artikel Fotos"
+
+#: single-job_ship.php:1174 template-parts/post-new/post-new.php:1261
+msgid "There are no pictures attache."
+msgstr "Es sind keine Bilder beigefügt."
+
+#: taxonomy.php:20
+#, fuzzy
+#| msgid "Category:"
+msgid "Category jobs"
+msgstr "Kategorie Jobs"
+
+#: taxonomy.php:22
+#, fuzzy, php-format
+#| msgid "Posted on %s"
+msgid "Posted jobs in %s"
+msgstr "Ausgeschriebene Stellen in %s"
+
+#: template-parts/advanced-search/advanced-search-page.php:39 template-parts/advanced-search/advanced-search-page.php:41
+msgid "Advanced Search"
+msgstr "Erweiterte Suche"
+
+#: template-parts/advanced-search/transporters-search.php:13
+msgid "Search Transpoters"
+msgstr "Suche Transporter"
+
+#: template-parts/advanced-search/transporters-search.php:15
+msgid "Search Transporters"
+msgstr "Transporter suchen"
+
+#: template-parts/advanced-search/transporters-search.php:216
+#, fuzzy
+#| msgid "No service providers found for this query."
+msgid "No transporters found for this query."
+msgstr "Keine Transporter für diese Anfrage gefunden."
+
+#: template-parts/general-stuff/general-design-parts.php:35
+msgid "Account Menu"
+msgstr "Menü \"Konto"
+
+#: template-parts/general-stuff/general-design-parts.php:42
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: template-parts/general-stuff/general-design-parts.php:52
+#, fuzzy, php-format
+#| msgid "My Jobs"
+msgid "My Jobs %s"
+msgstr "Meine Jobs %s"
+
+#: template-parts/general-stuff/general-design-parts.php:58
+#, fuzzy, php-format
+#| msgid "My Quotes"
+msgid "My Quotes %s"
+msgstr "Meine Zitate %s"
+
+#: template-parts/general-stuff/general-design-parts.php:71
+#, php-format
+msgid "Messaging %s"
+msgstr "Nachrichtenübermittlung %s"
+
+#: template-parts/general-stuff/general-design-parts.php:84
+#, fuzzy, php-format
+#| msgid "Reviews"
+msgid "Reviews %s"
+msgstr "Bewertungen %s"
+
+#: template-parts/general-stuff/general-design-parts.php:89 template-parts/general-stuff/general-design-parts.php:362
+#: template-parts/general-stuff/general-design-parts.php:369
+msgid "Log Out"
+msgstr "Abmelden"
+
+#: template-parts/general-stuff/general-design-parts.php:355
+msgid "WP-Admin"
+msgstr "WP-Admin"
+
+#: template-parts/general-stuff/general-design-parts.php:359 template-parts/user-area/my-account/finances.php:27
+#: template-parts/user-area/my-account/messages.php:24 template-parts/user-area/my-account/my-account.php:23
+#: template-parts/user-area/my-account/my-jobs.php:73 template-parts/user-area/my-account/my-quotes.php:30
+#: template-parts/user-area/my-account/profile-settings.php:23 template-parts/user-area/my-account/reviews.php:115
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: template-parts/general-stuff/general-design-parts.php:360
+msgid "Post New"
+msgstr "Beitrag Neu"
+
+#: template-parts/job-single-page/choose_winner.php:113
+msgid "Choose winner"
+msgstr "Gewinner wählen"
+
+#: template-parts/job-single-page/choose_winner.php:115
+msgid "Choose winner for the job/shipment"
+msgstr "Gewinner für den Auftrag/die Sendung auswählen"
+
+#: template-parts/job-single-page/choose_winner.php:121
+msgid "You have successfuly picked a winner for your transportation job."
+msgstr "Sie haben erfolgreich einen Gewinner für Ihren Transportauftrag ausgewählt."
+
+#: template-parts/job-single-page/choose_winner.php:122
+msgid "Return to in progress jobs."
+msgstr "Rückkehr zu laufenden Aufträgen."
+
+#: template-parts/job-single-page/mark_completed.php:46
+#, fuzzy
+#| msgid "Mark Completed"
+msgid "Mark completed"
+msgstr "Markierung abgeschlossen"
+
+#: template-parts/job-single-page/mark_completed.php:48
+#, fuzzy
+#| msgid "Mark Completed"
+msgid "Mark job completed"
+msgstr "Auftrag als abgeschlossen markieren"
+
+#: template-parts/job-single-page/mark_completed.php:54
+#, fuzzy
+#| msgid "You are about to mark this job as completed: %s"
+msgid "You are about to mark this job as completed."
+msgstr "Sie sind dabei, diesen Auftrag als abgeschlossen zu markieren."
+
+#: template-parts/job-single-page/mark_completed.php:55 template-parts/job-single-page/mark_delivered.php:54
+msgid "Confirm"
+msgstr "Bestätigen Sie"
+
+#: template-parts/job-single-page/mark_completed.php:56 template-parts/job-single-page/mark_delivered.php:55
+msgid "No, go back"
+msgstr "Nein, geh zurück"
+
+#: template-parts/job-single-page/mark_delivered.php:45
+msgid "Mark delivered"
+msgstr "Mark geliefert"
+
+#: template-parts/job-single-page/mark_delivered.php:47
+msgid "Mark job delivered"
+msgstr "Markieren Sie den gelieferten Auftrag"
+
+#: template-parts/job-single-page/mark_delivered.php:53
+msgid "You are about to mark this job as delivered."
+msgstr "Sie sind dabei, diesen Auftrag als zugestellt zu markieren."
+
+#: template-parts/login-register/login.php:21 template-parts/login-register/login.php:121
+#: template-parts/login-register/login.php:157
+msgid "Recover your password"
+msgstr "Ihr Passwort wiederherstellen"
+
+#: template-parts/login-register/login.php:99 template-parts/login-register/login.php:140
+#: template-parts/login-register/login.php:220
+#, php-format
+msgid "<a href=\"%s\">Register here</a>. Or <a href=\"%s\">Login</a>"
+msgstr "<a href=\"%s\">Registrieren Sie sich hier</a>. Oder <a href=\"%s\">Anmelden</a>"
+
+#: template-parts/login-register/login.php:126
+msgid "Success! You will receive an email shortly, with instructions on how to reset your password."
+msgstr "Erfolgreich! Sie werden in Kürze eine E-Mail mit Anweisungen erhalten, wie SieIhr Passwort zurücksetzen."
+
+#: template-parts/login-register/login.php:201
+msgid "Enter your username or email address..."
+msgstr "Geben Sie Ihren Benutzernamen oder Ihre E-Mail Adresse ein..."
+
+#: template-parts/login-register/login.php:206
+msgid "Recover password"
+msgstr "Passwort wiederherstellen"
+
+#: template-parts/login-register/login.php:240
+msgid "Login to your account"
+msgstr "Anmeldung bei Ihrem Konto"
+
+#: template-parts/login-register/login.php:276
+msgid "Enter your username..."
+msgstr "Geben Sie Ihren Benutzernamen ein..."
+
+#: template-parts/login-register/login.php:279
+msgid "Enter your password..."
+msgstr "Geben Sie Ihr Passwort ein..."
+
+#: template-parts/login-register/login.php:289
+msgid "Sign In"
+msgstr "Eintragen"
+
+#: template-parts/login-register/login.php:309
+#, php-format
+msgid "<a href=\"%s\">Register here</a>. Or <a href=\"%s\">Recover your password</a>"
+msgstr "<a href=\"%s\">Registrieren Sie sich hier</a>. Oder <a href=\"%s\">Wiedererlangen Sie Ihr Passwort</a>"
+
+#: template-parts/login-register/register.php:28
+#, php-format
+msgid ""
+"Thanks for registering an account with us. You will receive an email shortly. Also you can start using the site and "
+"your account by <a href=\"%s\">logging in here</a>."
+msgstr ""
+"Vielen Dank, dass Sie ein Konto bei uns registriert haben. Sie werden eine E-Mail erhaltenin Kürze. Außerdem können Sie "
+"die Website und Ihr Konto nutzen, indem Sie <a href=\"%s\">hier einloggen</a>."
+
+#: template-parts/login-register/register.php:54
+msgid "Register an account"
+msgstr "Ein Konto registrieren"
+
+#: template-parts/login-register/register.php:82
+msgid "Email Address"
+msgstr "E-Mail Adresse"
+
+#: template-parts/login-register/register.php:87
+msgid "Password"
+msgstr "Passwort"
+
+#: template-parts/login-register/register.php:91
+msgid "Confirm Password"
+msgstr "Bestätigen Sie Ihr Passwort"
+
+#: template-parts/login-register/register.php:121
+#, php-format
+msgid "<a href=\"%s\">Login here</a>. Or <a href=\"%s\">Recover your password</a>"
+msgstr "<a href=\"%s\">Hier einloggen</a>. Oder <a href=\"%s\">Wiedererlangen Sie Ihr Passwort</a>"
+
+#: template-parts/post-new/helper-functions.php:12
+msgid "Job Info"
+msgstr "Job-Infos"
+
+#: template-parts/post-new/helper-functions.php:15
+msgid "Add Extra Options"
+msgstr "Zusätzliche Optionen hinzufügen"
+
+#: template-parts/post-new/helper-functions.php:18
+msgid "Review Job"
+msgstr "Job überprüfen"
+
+#: template-parts/post-new/helper-functions.php:21 template-parts/user-area/my-account/my-jobs.php:665
+msgid "Publish"
+msgstr "veröffentlichen."
+
+#: template-parts/post-new/pay-listing-credits.php:23 template-parts/user-area/my-account/finances.php:546
+msgid "Pay by eWallet"
+msgstr "Bezahlen mit eWallet"
+
+#: template-parts/post-new/pay-listing-credits.php:25
+msgid "Pay for listing by eWallet"
+msgstr "Mit eWallet für den Eintrag bezahlen"
+
+#: template-parts/post-new/pay-listing-credits.php:61 template-parts/post-new/pay-listing-credits.php:94
+#, php-format
+msgid "Listing fee for the job <b>%s</b>"
+msgstr "Listinggebühr für den Job <b>%s</b>"
+
+#: template-parts/post-new/pay-listing-credits.php:71
+msgid ""
+"You have successfully paid for listing of your job, however the job needs admin moderation. When our admins will "
+"approve your job, it will appear in front end area."
+msgstr ""
+"Sie haben erfolgreich für die Auflistung Ihres Auftrags bezahlt, aber der Auftrag mussAdmin-Moderation. Wenn unsere "
+"Admins Ihren Auftrag genehmigen, erscheint er inFront-End-Bereich."
+
+#: template-parts/post-new/pay-listing-credits.php:104
+msgid "You have successfully paid for listing of your job. Your job is now live."
+msgstr "Sie haben erfolgreich für den Eintrag Ihrer Stelle bezahlt. Ihr Auftrag ist jetzt live."
+
+#: template-parts/post-new/pay-listing-credits.php:106
+msgid "See your job"
+msgstr "Sehen Sie Ihren Job"
+
+#: template-parts/post-new/pay-listing-credits.php:117 template-parts/post-new/post-new.php:1371
+msgid "Go to your account"
+msgstr "Gehen Sie zu Ihrem Konto"
+
+#: template-parts/post-new/pay-listing-credits.php:144
+#, php-format
+msgid "You have %s left in your eWallet balance."
+msgstr "Sie haben noch %s auf Ihrem eWallet-Guthaben."
+
+#: template-parts/post-new/pay-listing-credits.php:152 template-parts/post-new/post-new.php:1431
+msgid "Type"
+msgstr "Typ"
+
+#: template-parts/post-new/pay-listing-credits.php:184 template-parts/post-new/post-new.php:1463
+msgid "Sub-Total"
+msgstr "Zwischensumme"
+
+#: template-parts/post-new/pay-listing-credits.php:209 template-parts/post-new/post-new.php:1488
+msgid "Total Due"
+msgstr "Insgesamt fällig"
+
+#: template-parts/post-new/pay-listing-credits.php:219
+msgid "You are about to pay for listing fees using your eWallet balance."
+msgstr "Sie sind im Begriff, die Inseratsgebühren mit Ihrem eWallet-Guthaben zu bezahlen."
+
+#: template-parts/post-new/pay-listing-credits.php:221 template-parts/post-new/post-new.php:691
+#: template-parts/post-new/post-new.php:724 template-parts/post-new/post-new.php:1396
+#: template-parts/user-area/my-account/finances.php:494
+msgid "Go Back"
+msgstr "Zurückgehen"
+
+#: template-parts/post-new/pay-listing-credits.php:223
+msgid "Agree and Proceed"
+msgstr "Zustimmen und fortfahren"
+
+#: template-parts/post-new/post-new-post.php:67
+#, php-format
+msgid "You cannot leave the field: \"<b>%s</b>\" blank!"
+msgstr "Sie können das Feld nicht leer lassen: \"<b>%s</b>\" leer lassen!"
+
+#: template-parts/post-new/post-new-post.php:145 template-parts/post-new/post-new-post.php:154
+#: template-parts/post-new/post-new-post.php:162 template-parts/post-new/post-new-post.php:170
+#: template-parts/post-new/post-new-post.php:178
+msgid "You need to type in a value."
+msgstr "Sie müssen einen Wert eintippen."
+
+#: template-parts/post-new/post-new-post.php:188
+msgid "You need to type in a pickup location."
+msgstr "Sie müssen einen Abholort eingeben."
+
+#: template-parts/post-new/post-new-post.php:196
+msgid "You need to type in a delivery location."
+msgstr "Sie müssen einen Lieferort eingeben."
+
+#: template-parts/post-new/post-new-post.php:205
+msgid "You need to select a pickup date."
+msgstr "Sie müssen ein Abholdatum auswählen."
+
+#: template-parts/post-new/post-new-post.php:213
+msgid "You need to select a delivery date."
+msgstr "Sie müssen ein Lieferdatum auswählen."
+
+#: template-parts/post-new/post-new-post.php:240
+msgid "Your job title needs to be at least 5 characters!"
+msgstr "Ihre Berufsbezeichnung muss mindestens 5 Zeichen lang sein!"
+
+#: template-parts/post-new/post-new-post.php:247
+msgid "Your job description needs to be at least 10 characters!"
+msgstr "Ihre Stellenbeschreibung muss mindestens 10 Zeichen umfassen!"
+
+#: template-parts/post-new/post-new-post.php:255
+msgid "The job price must not be empty and must be numeric."
+msgstr "Der Auftragspreis darf nicht leer sein und muss numerisch sein."
+
+#: template-parts/post-new/post-new-post.php:282 template-parts/post-new/post-new-post.php:310
+msgid "You cannot leave the job category blank!"
+msgstr "Sie können die Stellenkategorie nicht leer lassen!"
+
+#: template-parts/post-new/post-new.php:33
+msgid "Post New Delivery"
+msgstr "Post Neue Lieferung"
+
+#: template-parts/post-new/post-new.php:39
+msgid "Edit job"
+msgstr "Auftrag bearbeiten"
+
+#: template-parts/post-new/post-new.php:41
+msgid "Post new delivery job"
+msgstr "Neuen Lieferauftrag einstellen"
+
+#: template-parts/post-new/post-new.php:76
+msgid "Your form has errors. Please check below, correct the errors, then submit again."
+msgstr "Ihr Formular enthält Fehler. Bitte prüfen Sie unten, korrigieren Sie die Fehler und senden Sie es dann abwieder."
+
+#: template-parts/post-new/post-new.php:95
+msgid "Your job title:"
+msgstr "Ihre Berufsbezeichnung:"
+
+#: template-parts/post-new/post-new.php:111
+msgid "Your job description:"
+msgstr "Ihre Stellenbeschreibung:"
+
+#: template-parts/post-new/post-new.php:121
+msgid "Length:"
+msgstr "Länge:"
+
+#: template-parts/post-new/post-new.php:131
+msgid "Width:"
+msgstr "Breite:"
+
+#: template-parts/post-new/post-new.php:140
+msgid "Height:"
+msgstr "Höhe:"
+
+#: template-parts/post-new/post-new.php:149
+msgid "Weight:"
+msgstr "Gewicht:"
+
+#: template-parts/post-new/post-new.php:160
+msgid "Job Price:"
+msgstr "Job Preis:"
+
+#: template-parts/post-new/post-new.php:170
+msgid "Number of packages:"
+msgstr "Anzahl der Pakete:"
+
+#: template-parts/post-new/post-new.php:171
+msgid "eg: 2"
+msgstr "z.B.: 2"
+
+#: template-parts/post-new/post-new.php:383 template-parts/post-new/post-new.php:692
+#: template-parts/post-new/post-new.php:725
+msgid "Next Step"
+msgstr "Nächster Schritt"
+
+#: template-parts/post-new/post-new.php:430
+#, php-format
+msgid "Featured jobs. Makes your job to appear first in searches. Extra cost: %s"
+msgstr "Vorgemerkte Stellen. Lässt Ihre Stelle bei der Suche zuerst erscheinen. Zusätzliche Kosten: %s"
+
+#: template-parts/post-new/post-new.php:446
+#, php-format
+msgid "Private Job. The user must login/register to see the job. Extra cost: %s"
+msgstr "Privater Auftrag. Der Benutzer muss sich anmelden/registrieren, um den Auftrag zu sehen. Zusätzliche Kosten: %s"
+
+#: template-parts/post-new/post-new.php:462
+#, php-format
+msgid "Sealed job. Makes the bid to be hidden, only show to you. Extra cost: %s"
+msgstr "Versiegelter Auftrag. Macht das Gebot verborgen, nur für Sie sichtbar. Zusätzliche Kosten: %s"
+
+#: template-parts/post-new/post-new.php:475
+msgid "Add Photos"
+msgstr "Fotos hinzufügen"
+
+#: template-parts/post-new/post-new.php:574
+msgid "Add Files"
+msgstr "Dateien hinzufügen"
+
+#: template-parts/post-new/post-new.php:1068
+msgid " Km"
+msgstr " Km"
+
+#: template-parts/post-new/post-new.php:1170
+msgid "There are no quotes yet."
+msgstr "Es sind noch keine Zitate vorhanden."
+
+#: template-parts/post-new/post-new.php:1343
+msgid "Your job has been posted, but is not approved yet. The admin will approve and you will be notified."
+msgstr ""
+"Ihr Auftrag wurde veröffentlicht, aber noch nicht genehmigt. Der Admin wird genehmigenund Sie werden benachrichtigt."
+
+#: template-parts/post-new/post-new.php:1366
+msgid "Your job has been now posted in our website."
+msgstr "Ihr Stellenangebot ist jetzt auf unserer Website veröffentlicht worden."
+
+#: template-parts/post-new/post-new.php:1374
+msgid "See job page"
+msgstr "Siehe Job-Seite"
+
+#: template-parts/post-new/post-new.php:1385
+msgid "You are about to publish your job in our website."
+msgstr "Sie sind dabei, Ihren Auftrag auf unserer Website zu veröffentlichen."
+
+#: template-parts/post-new/post-new.php:1405
+msgid "Publish Job"
+msgstr "Auftrag veröffentlichen"
+
+#: template-parts/post-new/post-new.php:1508
+msgid "Pay by eWallet Balance"
+msgstr "Bezahlen mit eWallet Saldo"
+
+#: template-parts/user-area/my-account/finances.php:61
+msgid "Use the options below to pay for this bill:"
+msgstr "Verwenden Sie die unten stehenden Optionen, um diese Rechnung zu bezahlen:"
+
+#: template-parts/user-area/my-account/finances.php:80
+#, fuzzy
+#| msgid "Pay by MoneyBookers/Skrill"
+msgid "Pay by Skrill"
+msgstr "Bezahlen mit Skrill"
+
+#: template-parts/user-area/my-account/finances.php:106
+#, fuzzy
+#| msgid "Unpaid invoices"
+msgid "Unpaid Bills"
+msgstr "Unbezahlte Rechnungen"
+
+#: template-parts/user-area/my-account/finances.php:123 template-parts/user-area/my-account/finances.php:184
+#, fuzzy
+#| msgid "You do not have any pending orders."
+msgid "You do not have any pending bills."
+msgstr "Sie haben keine ausstehenden Rechnungen."
+
+#: template-parts/user-area/my-account/finances.php:134 template-parts/user-area/my-account/finances.php:195
+#, fuzzy
+#| msgid "Make Payment"
+msgid "Payment"
+msgstr "Zahlung"
+
+#: template-parts/user-area/my-account/finances.php:169
+msgid "Paid Bills"
+msgstr "Bezahlte Rechnungen"
+
+#: template-parts/user-area/my-account/finances.php:248
+#, fuzzy
+#| msgid "Your withdrawal has been completed: %s"
+msgid "Your withdrawal request has ben submitted."
+msgstr "Ihr Rücknahmeantrag wurde eingereicht."
+
+#: template-parts/user-area/my-account/finances.php:261 template-parts/user-area/my-account/my-account.php:37
+msgid "Your balance"
+msgstr "Ihr Guthaben"
+
+#: template-parts/user-area/my-account/finances.php:273
+msgid "Pending Incoming"
+msgstr "Anhängig Eingehend"
+
+#: template-parts/user-area/my-account/finances.php:284
+msgid "Pending Withdrawal"
+msgstr "Ausstehende Rücknahme"
+
+#: template-parts/user-area/my-account/finances.php:296
+msgid "Available for withdrawal"
+msgstr "Verfügbar zur Entnahme"
+
+#: template-parts/user-area/my-account/finances.php:310
+msgid "Incoming Payments"
+msgstr "Eingehende Zahlungen"
+
+#: template-parts/user-area/my-account/finances.php:381
+#, fuzzy
+#| msgid "No withdrawals pending yet."
+msgid "There are no withdrawals pending."
+msgstr "Es sind keine Abhebungen anhängig."
+
+#: template-parts/user-area/my-account/finances.php:394
+#, fuzzy
+#| msgid "There are no questions yet."
+msgid "There are no transactions."
+msgstr "Es gibt keine Transaktionen."
+
+#: template-parts/user-area/my-account/finances.php:442
+#, fuzzy, php-format
+#| msgid "Your payment has been sent. Return to <a href=\"%s\">your account</a>."
+msgid "Your payment has been submitted. <a href=\"%s\">You can go back</a> to your account"
+msgstr "Ihre Zahlung wurde abgeschickt. <a href=\"%s\">Sie können zurückgehen</a> zu IhremKonto"
+
+#: template-parts/user-area/my-account/finances.php:467
+#, fuzzy
+#| msgid "Total Due"
+msgid "Total Amount:"
+msgstr "Gesamtbetrag:"
+
+#: template-parts/user-area/my-account/finances.php:472
+#, fuzzy
+#| msgid "Your credits amount"
+msgid "Your Credit Amount:"
+msgstr "Ihr Kreditbetrag:"
+
+#: template-parts/user-area/my-account/finances.php:486
+#, fuzzy
+#| msgid "You do not have enough credits to pay for listing this project."
+msgid "You do not have enough funds in your wallet for this payment."
+msgstr "Sie haben nicht genug Geld in Ihrer Brieftasche für diese Zahlung."
+
+#: template-parts/user-area/my-account/finances.php:501
+#, fuzzy
+#| msgid "Confirm Password"
+msgid "Confirm Payment"
+msgstr "Bestätigen Sie die Zahlung"
+
+#: template-parts/user-area/my-account/finances.php:522
+msgid "Use the payment methods below to pay for the winner bid and deposit escrow: "
+msgstr ""
+"Verwenden Sie die nachstehenden Zahlungsmethoden, um das Gebot des Gewinners zu bezahlen und die Kaution zu hinterlegen:"
+
+#: template-parts/user-area/my-account/finances.php:527
+#, fuzzy, php-format
+#| msgid "Total Due"
+msgid "Total: %s"
+msgstr "Gesamt: %s"
+
+#: template-parts/user-area/my-account/finances.php:563
+#, fuzzy
+#| msgid "Return to in progress jobs."
+msgid "Return to Finances"
+msgstr "Zurück zu Finanzen"
+
+#: template-parts/user-area/my-account/finances.php:577
+#, fuzzy
+#| msgid "Deposit through PayPal."
+msgid "Deposit via PayPal"
+msgstr "Einzahlung über PayPal"
+
+#: template-parts/user-area/my-account/finances.php:603
+#, fuzzy
+#| msgid "Deposit through Skrill."
+msgid "Deposit via Skrill"
+msgstr "Einzahlung über Skrill"
+
+#: template-parts/user-area/my-account/finances.php:631
+#, fuzzy, php-format
+#| msgid "Available for withdrawal"
+msgid "Amount available for withdrawal: %s."
+msgstr "Für die Abhebung verfügbarer Betrag: %s."
+
+#: template-parts/user-area/my-account/finances.php:637
+msgid "You have insufficient balance. Try to withdraw less."
+msgstr "Ihr Guthaben ist zu gering. Versuchen Sie, weniger abzuheben."
+
+#: template-parts/user-area/my-account/finances.php:648
+#, fuzzy
+#| msgid "Deposit money by PayPal"
+msgid "Withdraw money via PayPal"
+msgstr "Geld abheben über PayPal"
+
+#: template-parts/user-area/my-account/finances.php:655
+#, fuzzy
+#| msgid "PayPal Email"
+msgid "Your PayPal Email"
+msgstr "Ihre PayPal-E-Mail"
+
+#: template-parts/user-area/my-account/messages.php:25
+msgid "Messages"
+msgstr "Nachrichten"
+
+#: template-parts/user-area/my-account/messages.php:27
+msgid "Messaging"
+msgstr "Nachrichtenübermittlung"
+
+#: template-parts/user-area/my-account/messages.php:63
+#, fuzzy
+#| msgid "Your message has been sent."
+msgid "Your message has been sent!"
+msgstr "Ihre Nachricht wurde gesendet!"
+
+#: template-parts/user-area/my-account/messages.php:64
+#, fuzzy
+#| msgid "See job page"
+msgid "Return to the job page"
+msgstr "Zurück zur Jobseite"
+
+#: template-parts/user-area/my-account/messages.php:81
+#, fuzzy, php-format
+#| msgid "You cannot send a message to yourself."
+msgid "You are sending a message to <b>%s</b>"
+msgstr "Sie senden eine Nachricht an <b>%s</b>"
+
+#: template-parts/user-area/my-account/messages.php:89
+#, fuzzy
+#| msgid "Shipping address:"
+msgid "Shipping job:"
+msgstr "Versandauftrag:"
+
+#: template-parts/user-area/my-account/messages.php:99
+#, fuzzy
+#| msgid "Unread messages"
+msgid "Your message:"
+msgstr "Ihre Nachricht:"
+
+#: template-parts/user-area/my-account/messages.php:100 template-parts/user-area/my-account/messages.php:247
+msgid "Type your message here..."
+msgstr "Geben Sie hier Ihre Nachricht ein..."
+
+#: template-parts/user-area/my-account/messages.php:127 template-parts/user-area/my-account/messages.php:270
+msgid "Error thread"
+msgstr "Fehler-Thread"
+
+#: template-parts/user-area/my-account/messages.php:164
+#, php-format
+msgid "Job: %s"
+msgstr "Job: %s"
+
+#: template-parts/user-area/my-account/messages.php:184
+msgid "There are no messages in this thread yet."
+msgstr "Es sind noch keine Nachrichten in diesem Thema vorhanden."
+
+#: template-parts/user-area/my-account/messages.php:203 template-parts/user-area/my-account/messages.php:221
+#, php-format
+msgid "Sent on %s"
+msgstr "Gesendet am %s"
+
+#: template-parts/user-area/my-account/messages.php:453
+msgid "There are no message threads."
+msgstr "Es gibt keine Nachrichten-Threads."
+
+#: template-parts/user-area/my-account/my-account.php:25
+#, php-format
+msgid "Welcome back, %s"
+msgstr "Willkommen zurück, %s"
+
+#: template-parts/user-area/my-account/my-account.php:48
+msgid "Total live jobs"
+msgstr "Live-Jobs insgesamt"
+
+#: template-parts/user-area/my-account/my-account.php:59
+msgid "Unread messages"
+msgstr "Ungelesene Nachrichten"
+
+#: template-parts/user-area/my-account/my-account.php:70
+msgid "Unpaid invoices"
+msgstr "Unbezahlte Rechnungen"
+
+#: template-parts/user-area/my-account/my-account.php:95
+msgid "Latest posted jobs"
+msgstr "Letzte ausgeschriebene Stellen"
+
+#: template-parts/user-area/my-account/my-account.php:121 template-parts/user-area/my-account/my-account.php:236
+msgid "Job Name"
+msgstr "Job Name"
+
+#: template-parts/user-area/my-account/my-account.php:122 template-parts/user-area/my-account/my-jobs.php:150
+#: template-parts/user-area/my-account/my-jobs.php:646
+msgid "Quotes"
+msgstr "Zitate"
+
+#: template-parts/user-area/my-account/my-account.php:145
+msgid "The job is active"
+msgstr "Der Auftrag ist aktiv"
+
+#: template-parts/user-area/my-account/my-account.php:148
+msgid "The is awaiting moderation"
+msgstr "Das wartet auf Moderation"
+
+#: template-parts/user-area/my-account/my-account.php:156 template-parts/user-area/my-account/my-jobs.php:171
+#: template-parts/user-area/my-account/my-jobs.php:244 template-parts/user-area/my-account/my-quotes.php:118
+msgid "View Job"
+msgstr "Job ansehen"
+
+#: template-parts/user-area/my-account/my-account.php:176
+msgid "There are no active jobs yet."
+msgstr "Es sind noch keine aktiven Stellen vorhanden."
+
+#: template-parts/user-area/my-account/my-account.php:192
+msgid "View all jobs"
+msgstr "Alle Stellen anzeigen"
+
+#: template-parts/user-area/my-account/my-account.php:202
+msgid "My Latest Posted Quotes"
+msgstr "Meine zuletzt veröffentlichten Zitate"
+
+#: template-parts/user-area/my-account/my-account.php:237
+msgid "Your Quote"
+msgstr "Ihr Angebot"
+
+#: template-parts/user-area/my-account/my-account.php:271
+msgid "View Job Page"
+msgstr "Job-Seite ansehen"
+
+#: template-parts/user-area/my-account/my-account.php:273 template-parts/user-area/my-account/my-quotes.php:119
+msgid "Retract Bid"
+msgstr "Angebot zurückziehen"
+
+#: template-parts/user-area/my-account/my-account.php:293
+msgid "You have not submitted any proposals yet."
+msgstr "Sie haben noch keine Vorschläge eingereicht."
+
+#: template-parts/user-area/my-account/my-account.php:307
+msgid "View all quotes"
+msgstr "Alle Zitate anzeigen"
+
+#: template-parts/user-area/my-account/my-jobs.php:48
+msgid "Operation was successful"
+msgstr "Operation war erfolgreich"
+
+#: template-parts/user-area/my-account/my-jobs.php:74 template-parts/user-area/my-account/my-jobs.php:76
+msgid "My Jobs"
+msgstr "Meine Jobs"
+
+#: template-parts/user-area/my-account/my-jobs.php:90
+#, php-format
+msgid "Active Quotes %s"
+msgstr "Aktive Quoten %s"
+
+#: template-parts/user-area/my-account/my-jobs.php:96
+#, fuzzy, php-format
+#| msgid "Delivered"
+msgid "Delivered %s"
+msgstr "Ausgeliefert %s"
+
+#: template-parts/user-area/my-account/my-jobs.php:105
+msgid "Cancelled"
+msgstr "Abgesagt"
+
+#: template-parts/user-area/my-account/my-jobs.php:110
+msgid "Unpublished"
+msgstr "Unveröffentlicht"
+
+#: template-parts/user-area/my-account/my-jobs.php:149 template-parts/user-area/my-account/my-jobs.php:225
+#: template-parts/user-area/my-account/my-jobs.php:303 template-parts/user-area/my-account/my-jobs.php:409
+#: template-parts/user-area/my-account/my-jobs.php:645 template-parts/user-area/my-account/my-quotes.php:100
+#: template-parts/user-area/my-account/my-quotes.php:167 template-parts/user-area/my-account/my-quotes.php:266
+#: template-parts/user-area/my-account/my-quotes.php:361 template-parts/user-area/my-account/my-quotes.php:458
+msgid "Date Made"
+msgstr "Datum der Herstellung"
+
+#: template-parts/user-area/my-account/my-jobs.php:166
+#, php-format
+msgid "You have %s active proposals."
+msgstr "Sie haben %s aktive Vorschläge."
+
+#: template-parts/user-area/my-account/my-jobs.php:193
+#, php-format
+msgid "You do not have any active jobs. <a href=\"%s\">Click here</a> to post more."
+msgstr "Sie haben keine aktiven Jobs. <a href=\"%s\">Klicken Sie hier</a>, um mehr zu veröffentlichen."
+
+#: template-parts/user-area/my-account/my-jobs.php:223 template-parts/user-area/my-account/my-jobs.php:407
+#: template-parts/user-area/my-account/my-jobs.php:491 template-parts/user-area/my-account/my-jobs.php:567
+msgid "Provider"
+msgstr "Anbieter"
+
+#: template-parts/user-area/my-account/my-jobs.php:224
+msgid "Quote"
+msgstr "Zitat"
+
+#: template-parts/user-area/my-account/my-jobs.php:245
+msgid "Choose Winner"
+msgstr "Gewinner wählen"
+
+#: template-parts/user-area/my-account/my-jobs.php:264
+msgid "You do not have any active quotes."
+msgstr "Sie haben keine aktiven Angebote."
+
+#: template-parts/user-area/my-account/my-jobs.php:335
+#, php-format
+msgid "The escrow has not been deposited yet. <a href=\"%s\">Click here</a> to deposit escrow."
+msgstr "Das Treuhandkonto ist noch nicht hinterlegt worden. <a href=\"%s\">Klicken Sie hier</a> zuKautionshinterlegung."
+
+#: template-parts/user-area/my-account/my-jobs.php:345
+msgid "The payment for the job is taken outside of the website."
+msgstr "Die Bezahlung für den Auftrag erfolgt außerhalb der Website."
+
+#: template-parts/user-area/my-account/my-jobs.php:349
+msgid "Waiting for the transporter to deliver work."
+msgstr "Warten auf den Transporter, der die Arbeit abliefert."
+
+#: template-parts/user-area/my-account/my-jobs.php:357 template-parts/user-area/my-account/my-jobs.php:438
+#: template-parts/user-area/my-account/my-jobs.php:593
+msgid "Order page"
+msgstr "Seite bestellen"
+
+#: template-parts/user-area/my-account/my-jobs.php:376 template-parts/user-area/my-account/my-jobs.php:462
+#: template-parts/user-area/my-account/my-jobs.php:612
+msgid "You do not have any active jobs."
+msgstr "Sie haben keine aktiven Jobs."
+
+#: template-parts/user-area/my-account/my-jobs.php:410
+msgid "Completed On"
+msgstr "Abgeschlossen am"
+
+#: template-parts/user-area/my-account/my-jobs.php:440
+msgid "Mark Completed"
+msgstr "Markierung Erledigt"
+
+#: template-parts/user-area/my-account/my-jobs.php:493 template-parts/user-area/my-account/my-jobs.php:569
+msgid "Date Started"
+msgstr "Datum des Beginns"
+
+#: template-parts/user-area/my-account/my-jobs.php:494
+msgid "Cancelled On"
+msgstr "Abgebrochen am"
+
+#: template-parts/user-area/my-account/my-jobs.php:536
+msgid "You do not have any cancelled jobs."
+msgstr "Sie haben keine stornierten Aufträge."
+
+#: template-parts/user-area/my-account/my-jobs.php:570
+msgid "Accepted On"
+msgstr "Angenommen am"
+
+#: template-parts/user-area/my-account/my-jobs.php:687
+msgid "You do not have any unpublished jobs."
+msgstr "Sie haben keine unveröffentlichten Aufträge."
+
+#: template-parts/user-area/my-account/my-quotes.php:31 template-parts/user-area/my-account/my-quotes.php:33
+msgid "My Quotes"
+msgstr "Meine Zitate"
+
+#: template-parts/user-area/my-account/my-quotes.php:45
+msgid "Active Quotes"
+msgstr "Aktive Zitate"
+
+#: template-parts/user-area/my-account/my-quotes.php:49
+#, php-format
+msgid "In Progress %s"
+msgstr "In Arbeit %s"
+
+#: template-parts/user-area/my-account/my-quotes.php:54
+msgid "Delivered Jobs"
+msgstr "Ausgelieferte Jobs"
+
+#: template-parts/user-area/my-account/my-quotes.php:62
+msgid "Cancelled Jobs"
+msgstr "Annullierte Jobs"
+
+#: template-parts/user-area/my-account/my-quotes.php:99
+msgid "My Bid"
+msgstr "Mein Gebot"
+
+#: template-parts/user-area/my-account/my-quotes.php:136
+msgid "There are no active quotes yet."
+msgstr "Es sind noch keine aktiven Angebote vorhanden."
+
+#: template-parts/user-area/my-account/my-quotes.php:168 template-parts/user-area/my-account/my-quotes.php:267
+#: template-parts/user-area/my-account/my-quotes.php:362 template-parts/user-area/my-account/my-quotes.php:459
+msgid "Completion"
+msgstr "Fertigstellung"
+
+#: template-parts/user-area/my-account/my-quotes.php:197 template-parts/user-area/my-account/my-quotes.php:292
+#: template-parts/user-area/my-account/my-quotes.php:387 template-parts/user-area/my-account/my-quotes.php:484
+msgid "Waiting the customer to deposit escrow."
+msgstr "Warten des Kunden auf die Hinterlegung eines Treuhandkontos."
+
+#: template-parts/user-area/my-account/my-quotes.php:215
+msgid "Order Page"
+msgstr "Seite bestellen"
+
+#: template-parts/user-area/my-account/my-quotes.php:216
+msgid "Mark Delivered"
+msgstr "Marke Geliefert"
+
+#: template-parts/user-area/my-account/my-quotes.php:235
+msgid "You do not have any pending orders."
+msgstr "Sie haben keine ausstehenden Aufträge."
+
+#: template-parts/user-area/my-account/my-quotes.php:300
+msgid "Waiting for customer to accept the project."
+msgstr "Ich warte darauf, dass der Kunde das Projekt annimmt."
+
+#: template-parts/user-area/my-account/my-quotes.php:309 template-parts/user-area/my-account/my-quotes.php:404
+#: template-parts/user-area/my-account/my-quotes.php:501
+msgid "Workspace"
+msgstr "Arbeitsbereich"
+
+#: template-parts/user-area/my-account/my-quotes.php:329
+msgid "You do not have any delivered jobs."
+msgstr "Sie haben keine zugestellten Aufträge."
+
+#: template-parts/user-area/my-account/my-quotes.php:424
+msgid "You do not have any completed jobs."
+msgstr "Sie haben keine abgeschlossenen Aufträge."
+
+#: template-parts/user-area/my-account/my-quotes.php:521
+msgid "You do not have any cancelled orders."
+msgstr "Sie haben keine stornierten Aufträge."
+
+#: template-parts/user-area/my-account/profile-settings.php:154
+msgid "First name:"
+msgstr "Vornamen:"
+
+#: template-parts/user-area/my-account/profile-settings.php:162
+msgid "Last name:"
+msgstr "Nachname:"
+
+#: template-parts/user-area/my-account/profile-settings.php:208
+msgid "Your Location:"
+msgstr "Ihr Standort:"
+
+#: template-parts/user-area/my-account/profile-settings.php:232
+msgid "Repeat Password:"
+msgstr "Wiederholen Sie das Passwort:"
+
+#: template-parts/user-area/my-account/profile-settings.php:248
+msgid "Profile Description:"
+msgstr "Profilbeschreibung:"
+
+#: template-parts/user-area/my-account/profile-settings.php:256
+msgid "Profile Avatar:"
+msgstr "Profil-Avatar:"
+
+#: template-parts/user-area/my-account/profile-settings.php:270
+msgid "Save Information"
+msgstr "Informationen speichern"
+
+#: template-parts/user-area/my-account/reviews.php:116 template-parts/user-area/my-account/reviews.php:118
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: template-parts/user-area/my-account/reviews.php:132
+msgid "Your rating was submitted!"
+msgstr "Ihre Bewertung wurde abgegeben!"
+
+#: template-parts/user-area/my-account/reviews.php:195
+#, fuzzy, php-format
+#| msgid "Pending Jobs %s"
+msgid "Pending Reviews %s"
+msgstr "Anhängige Überprüfungen %s"
+
+#: template-parts/user-area/my-account/reviews.php:199
+#, fuzzy
+#| msgid "Reviews"
+msgid "My Reviews"
+msgstr "Meine Bewertungen"
+
+#: template-parts/user-area/my-account/reviews.php:204
+#, fuzzy
+#| msgid "Completed Jobs"
+msgid "Completed Reviews"
+msgstr "Abgeschlossene Bewertungen"
+
+#: template-parts/user-area/my-account/reviews.php:349
+#, fuzzy
+#| msgid "There are no reviews to be awarded."
+msgid "There are no reviews."
+msgstr "Es liegen keine Bewertungen vor."
+
+#~ msgid "Thank you for posting your job with us."
+#~ msgstr "Thank you for posting your job with us."
+
+#~ msgid "Your job isn`t live yet, the admin needs to approve it."
+#~ msgstr "Your job isn`t live yet, the admin needs to approve it."
+
+#~ msgid ""
+#~ "Thank you for posting your job with us. Below is the total price that you need to pay in order to put your job live."
+#~ "<br/>\n"
+#~ "\t\t\tClick the pay button and you will be redirected..."
+#~ msgstr ""
+#~ "Thank you for posting your job with us. Below is the total price that you need to pay in order to put your job live."
+#~ "<br/>\n"
+#~ "\t\t\tClick the pay button and you will be redirected..."
+
+#~ msgid "Your Total Credits"
+#~ msgstr "Your Total Credits"
+
+#~ msgid "Pay by Payza"
+#~ msgstr "Pay by Payza"
+
+#~ msgid "Finalize Job Posting"
+#~ msgstr "Finalize Job Posting"
+
+#, php-format
+#~ msgid "%s Category:"
+#~ msgstr "%s Category:"
+
+#, php-format
+#~ msgid "%s Distance:"
+#~ msgstr "%s Distance:"
+
+#~ msgid "calculating..."
+#~ msgstr "calculating..."
+
+#, php-format
+#~ msgid "%s Quotes:"
+#~ msgstr "%s Quotes:"
+
+#, php-format
+#~ msgid "%s Date Listed:"
+#~ msgstr "%s Date Listed:"
+
+#, php-format
+#~ msgid "%s Ending In:"
+#~ msgstr "%s Ending In:"
+
+#, php-format
+#~ msgid "%s Pickup Longitude:"
+#~ msgstr "%s Pickup Longitude:"
+
+#, php-format
+#~ msgid "%s Pickup Latitude:"
+#~ msgstr "%s Pickup Latitude:"
+
+#, php-format
+#~ msgid "%s Delivery Longitude:"
+#~ msgstr "%s Delivery Longitude:"
+
+#, php-format
+#~ msgid "%s Delivery Latitude:"
+#~ msgstr "%s Delivery Latitude:"
+
+#~ msgid "Job Description"
+#~ msgstr "Job Description"
+
+#~ msgid "Job Aplicants"
+#~ msgstr "Job Aplicants"
+
+#, php-format
+#~ msgid "%s days"
+#~ msgstr "%s days"
+
+#~ msgid "job Winner"
+#~ msgstr "job Winner"
+
+#~ msgid "Picture Gallery"
+#~ msgstr "Picture Gallery"
+
+#~ msgid "Item(s) Pickup"
+#~ msgstr "Item(s) Pickup"
+
+#~ msgid "Item(s) Delivery"
+#~ msgstr "Item(s) Delivery"
+
+#~ msgid "Package Dimensions"
+#~ msgstr "Package Dimensions"
+
+#, php-format
+#~ msgid "Width: %s"
+#~ msgstr "Width: %s"
+
+#, php-format
+#~ msgid "Height: %s"
+#~ msgstr "Height: %s"
+
+#, php-format
+#~ msgid "Length: %s"
+#~ msgstr "Length: %s"
+
+#, php-format
+#~ msgid "Weight: %s"
+#~ msgstr "Weight: %s"
+
+#~ msgid "Attached Documents"
+#~ msgstr "Attached Documents"
+
+#~ msgid "No document files."
+#~ msgstr "No document files."
+
+#~ msgid "No personal info defined."
+#~ msgstr "No personal info defined."
+
+#~ msgid "There are no transporters yet for this query."
+#~ msgstr "There are no transporters yet for this query."
